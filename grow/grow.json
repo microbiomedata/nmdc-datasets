@@ -30,7 +30,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043395"
+                "3300043395",
+                "3300047546"
             ],
             "samp_name": {
                 "has_raw_value": "altamaha_2019_sw_WHONDRS-S19S_0010"
@@ -92,6 +93,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047549",
                 "3300043400"
             ],
             "samp_name": {
@@ -464,6 +466,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300042495",
                 "3300047484"
             ],
             "samp_name": {
@@ -652,6 +655,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300051213",
                 "3300043548"
             ],
             "samp_name": {
@@ -714,6 +718,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043463",
                 "3300051215"
             ],
             "samp_name": {
@@ -1732,7 +1737,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043426"
+                "3300043426",
+                "3300046821"
             ],
             "samp_name": {
                 "has_raw_value": "blythe_2019_sw_WHONDRS-S19S_0092"
@@ -1917,6 +1923,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047554",
                 "3300043444"
             ],
             "samp_name": {
@@ -2041,7 +2048,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300044825"
+                "3300044825",
+                "3300047557"
             ],
             "samp_name": {
                 "has_raw_value": "eastforkpoplarcreek_2019_sw_WHONDRS-S19S_0039"
@@ -2224,7 +2232,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042109"
+                "3300042109",
+                "3300047486"
             ],
             "samp_name": {
                 "has_raw_value": "Yojoa_01_2020_B_meta"
@@ -3839,7 +3848,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300044681"
+                "3300044681",
+                "3300047559"
             ],
             "samp_name": {
                 "has_raw_value": "sharkriverslough_2019_sw_WHONDRS-S19S_0042"
@@ -3898,6 +3908,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043429",
                 "3300047476"
             ],
             "samp_name": {
@@ -3960,7 +3971,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042140"
+                "3300042140",
+                "3300047488"
             ],
             "samp_name": {
                 "has_raw_value": "Yojoa_01_2020_E_hypo"
@@ -4027,6 +4039,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300042113",
                 "3300047490"
             ],
             "samp_name": {
@@ -4094,6 +4107,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300042199",
                 "3300047492"
             ],
             "samp_name": {
@@ -4282,7 +4296,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042260"
+                "3300042260",
+                "3300047483"
             ],
             "samp_name": {
                 "has_raw_value": "seaofgalileej4_2019_sw_WHONDRS-S19S_0058"
@@ -4344,6 +4359,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047511",
                 "3300042110"
             ],
             "samp_name": {
@@ -4411,7 +4427,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042141"
+                "3300042141",
+                "3300047512"
             ],
             "samp_name": {
                 "has_raw_value": "Yojoa_06_2019_Q_epi"
@@ -4478,7 +4495,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300046819"
+                "3300046819",
+                "3300043415"
             ],
             "samp_name": {
                 "has_raw_value": "blackearthcreek_2019_sw_WHONDRS-S19S_0061"
@@ -4540,7 +4558,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300047558"
+                "3300047558",
+                "3300043451"
             ],
             "samp_name": {
                 "has_raw_value": "nebranchanacostia_2019_sw_WHONDRS-S19S_0081"
@@ -4602,7 +4621,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300047562"
+                "3300047562",
+                "3300043420"
             ],
             "samp_name": {
                 "has_raw_value": "muddycreek_2019_sw_WHONDRS-S19S_0082"
@@ -5435,7 +5455,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300048694"
+                "3300048694",
+                "3300044297"
             ],
             "samp_name": {
                 "has_raw_value": "River, Brazzaville, Congo - CONGO_067"
@@ -5495,6 +5516,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300044295",
                 "3300047566"
             ],
             "samp_name": {
@@ -6388,6 +6410,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043448",
                 "3300051212"
             ],
             "samp_name": {
@@ -6512,7 +6535,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300047481"
+                "3300047481",
+                "3300042197"
             ],
             "samp_name": {
                 "has_raw_value": "jordanrivershai5_2019_sw_WHONDRS-S19S_0058"
@@ -6633,6 +6657,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043394",
                 "3300047545"
             ],
             "samp_name": {
@@ -6695,6 +6720,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043396",
                 "3300047543"
             ],
             "samp_name": {
@@ -6819,7 +6845,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043427"
+                "3300043427",
+                "3300047564"
             ],
             "samp_name": {
                 "has_raw_value": "icacos_2019_sw_WHONDRS-S19S_0094"
@@ -6881,6 +6908,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047565",
                 "3300043428"
             ],
             "samp_name": {
@@ -8012,6 +8040,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043371",
                 "3300047544"
             ],
             "samp_name": {
@@ -8074,7 +8103,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300048670"
+                "3300048670",
+                "3300043391"
             ],
             "samp_name": {
                 "has_raw_value": "souththompson_2019_sw_WHONDRS-S195_0004"
@@ -8136,7 +8166,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042989"
+                "3300042989",
+                "3300047555"
             ],
             "samp_name": {
                 "has_raw_value": "comocreek_2019_sw_WHONDRS-S19S_0026"
@@ -8319,6 +8350,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047489",
                 "3300042112"
             ],
             "samp_name": {
@@ -8386,7 +8418,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043442"
+                "3300043442",
+                "3300047551"
             ],
             "samp_name": {
                 "has_raw_value": "blackwarrior_2019_sw_WHONDRS-S19S_0021"
@@ -10054,6 +10087,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300044701",
                 "3300047510"
             ],
             "samp_name": {
@@ -10175,6 +10209,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047552",
                 "3300042988"
             ],
             "samp_name": {
@@ -10296,6 +10331,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300044805",
                 "3300046805"
             ],
             "samp_name": {
@@ -10414,7 +10450,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300047491"
+                "3300047491",
+                "3300042261"
             ],
             "samp_name": {
                 "has_raw_value": "Yojoa_06_2019_Q_hypo"
@@ -10481,7 +10518,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300042987"
+                "3300042987",
+                "3300047550"
             ],
             "samp_name": {
                 "has_raw_value": "tombigeeriver_2019_sw_WHONDRS-S19S_0020"
@@ -10602,7 +10640,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300046820"
+                "3300046820",
+                "3300043419"
             ],
             "samp_name": {
                 "has_raw_value": "umpqua_2019_sw_WHONDRS-S19S_0079"
@@ -10664,7 +10703,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300047478"
+                "3300047478",
+                "3300043431"
             ],
             "samp_name": {
                 "has_raw_value": "orco_2019_sw_WHONDRS-S19S_0018"
@@ -11796,7 +11836,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300049925"
+                "3300049925",
+                "3300044214"
             ],
             "samp_name": {
                 "has_raw_value": "CONGO_017"
@@ -12331,7 +12372,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043410"
+                "3300043410",
+                "3300047560"
             ],
             "samp_name": {
                 "has_raw_value": "hugercreek_2019_sw_WHONDRS-S19S_0044"
@@ -12393,7 +12435,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043421"
+                "3300043421",
+                "3300047563"
             ],
             "samp_name": {
                 "has_raw_value": "watershed3_2019_sw_WHONDRS-S19S_0084"
@@ -12455,6 +12498,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043424",
                 "3300046808"
             ],
             "samp_name": {
@@ -12517,7 +12561,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043432"
+                "3300043432",
+                "3300047479"
             ],
             "samp_name": {
                 "has_raw_value": "cobbmillcreek_2019_sw_WHONDRS-S19S_0090"
@@ -12641,6 +12686,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047548",
                 "3300043399"
             ],
             "samp_name": {
@@ -12762,6 +12808,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047561",
                 "3300043414"
             ],
             "samp_name": {
@@ -12942,6 +12989,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047485",
                 "3300042108"
             ],
             "samp_name": {
@@ -13068,6 +13116,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043450",
                 "3300046806"
             ],
             "samp_name": {
@@ -13130,7 +13179,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300048625"
+                "3300048625",
+                "3300043418"
             ],
             "samp_name": {
                 "has_raw_value": "littlewolfcreek_2019_sw_WHONDRS-S19S_0078"
@@ -15573,6 +15623,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047547",
                 "3300043398"
             ],
             "samp_name": {
@@ -15818,6 +15869,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300042111",
                 "3300047487"
             ],
             "samp_name": {
@@ -15885,6 +15937,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047477",
                 "3300043430"
             ],
             "samp_name": {
@@ -16010,6 +16063,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047553",
                 "3300043443"
             ],
             "samp_name": {
@@ -16072,6 +16126,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043406",
                 "3300048671"
             ],
             "samp_name": {
@@ -16258,6 +16313,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043422",
                 "3300046807"
             ],
             "samp_name": {
@@ -16441,6 +16497,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300043434",
                 "3300047480"
             ],
             "samp_name": {
@@ -16503,6 +16560,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300042198",
                 "3300047482"
             ],
             "samp_name": {
@@ -16686,6 +16744,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
+                "3300047556",
                 "3300043445"
             ],
             "samp_name": {
@@ -16748,7 +16807,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300043446"
+                "3300043446",
+                "3300046804"
             ],
             "samp_name": {
                 "has_raw_value": "pamunkeyriver_2019_sw_WHONDRS-S19S_0054"
