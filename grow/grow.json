@@ -33,9 +33,7 @@
                 "3300043395",
                 "3300047546"
             ],
-            "samp_name": {
-                "has_raw_value": "altamaha_2019_sw_WHONDRS-S19S_0010"
-            },
+            "samp_name": "altamaha_2019_sw_WHONDRS-S19S_0010",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258384"
             ],
@@ -96,9 +94,7 @@
                 "3300047549",
                 "3300043400"
             ],
-            "samp_name": {
-                "has_raw_value": "king_2019_sw_WHONDRS-S19S_0016"
-            },
+            "samp_name": "king_2019_sw_WHONDRS-S19S_0016",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258389"
             ],
@@ -158,9 +154,7 @@
             "img_identifiers": [
                 "3300043402"
             ],
-            "samp_name": {
-                "has_raw_value": "redbuttecreek_2019_sw_WHONDRS-S19S_0029"
-            },
+            "samp_name": "redbuttecreek_2019_sw_WHONDRS-S19S_0029",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258400"
             ],
@@ -220,9 +214,7 @@
             "img_identifiers": [
                 "3300043403"
             ],
-            "samp_name": {
-                "has_raw_value": "marthacreek_2019_sw_WHONDRS-S19S_0030"
-            },
+            "samp_name": "marthacreek_2019_sw_WHONDRS-S19S_0030",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258401"
             ],
@@ -282,9 +274,7 @@
             "img_identifiers": [
                 "3300043425"
             ],
-            "samp_name": {
-                "has_raw_value": "stroublescreek_2019_sw_WHONDRS-S19S_0089"
-            },
+            "samp_name": "stroublescreek_2019_sw_WHONDRS-S19S_0089",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258451"
             ],
@@ -344,9 +334,7 @@
             "img_identifiers": [
                 "3300043404"
             ],
-            "samp_name": {
-                "has_raw_value": "mcraecreek_2019_sw_WHONDRS-S19S_0031"
-            },
+            "samp_name": "mcraecreek_2019_sw_WHONDRS-S19S_0031",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258402"
             ],
@@ -406,9 +394,7 @@
             "img_identifiers": [
                 "3300043417"
             ],
-            "samp_name": {
-                "has_raw_value": "nfkcasparcreek_2019_sw_WHONDRS-S19S_0069"
-            },
+            "samp_name": "nfkcasparcreek_2019_sw_WHONDRS-S19S_0069",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258435"
             ],
@@ -469,9 +455,7 @@
                 "3300042495",
                 "3300047484"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_B_epi"
-            },
+            "samp_name": "Yojoa_01_2020_B_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258258"
             ],
@@ -536,9 +520,7 @@
             "img_identifiers": [
                 "3300043393"
             ],
-            "samp_name": {
-                "has_raw_value": "providencecreek_2019_sw_WHONDRS-S19S_0007"
-            },
+            "samp_name": "providencecreek_2019_sw_WHONDRS-S19S_0007",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258381"
             ],
@@ -598,9 +580,7 @@
             "img_identifiers": [
                 "3300048672"
             ],
-            "samp_name": {
-                "has_raw_value": "sawmillbrook_2019_sw_WHONDRS-S19S_0072"
-            },
+            "samp_name": "sawmillbrook_2019_sw_WHONDRS-S19S_0072",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258437"
             ],
@@ -658,9 +638,7 @@
                 "3300051213",
                 "3300043548"
             ],
-            "samp_name": {
-                "has_raw_value": "greatmiami_2019_sw_WHONDRS-S19S_0099"
-            },
+            "samp_name": "greatmiami_2019_sw_WHONDRS-S19S_0099",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258458"
             ],
@@ -721,9 +699,7 @@
                 "3300043463",
                 "3300051215"
             ],
-            "samp_name": {
-                "has_raw_value": "jordanrivershai4_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "jordanrivershai4_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258468"
             ],
@@ -783,9 +759,7 @@
             "img_identifiers": [
                 "3300047282"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_101"
-            },
+            "samp_name": "NASQAN2015_101",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260904"
             ],
@@ -842,9 +816,7 @@
             "img_identifiers": [
                 "3300047301"
             ],
-            "samp_name": {
-                "has_raw_value": "Yukon 2004-1"
-            },
+            "samp_name": "Yukon 2004-1",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260942"
             ],
@@ -901,9 +873,7 @@
             "img_identifiers": [
                 "3300047292"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_024"
-            },
+            "samp_name": "NASQAN2016_024",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260923"
             ],
@@ -960,9 +930,7 @@
             "img_identifiers": [
                 "3300047404"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_047"
-            },
+            "samp_name": "CONGO_047",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260969"
             ],
@@ -1020,9 +988,7 @@
             "img_identifiers": [
                 "3300051165"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_059"
-            },
+            "samp_name": "CONGO_059",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260975"
             ],
@@ -1080,9 +1046,7 @@
             "img_identifiers": [
                 "3300045457"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_099"
-            },
+            "samp_name": "NASQAN2011_099",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260803"
             ],
@@ -1140,9 +1104,7 @@
             "img_identifiers": [
                 "3300045536"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_330"
-            },
+            "samp_name": "NASQAN2011_330",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260828"
             ],
@@ -1200,9 +1162,7 @@
             "img_identifiers": [
                 "3300047390"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_031"
-            },
+            "samp_name": "NASQAN2015_031",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260896"
             ],
@@ -1259,9 +1219,7 @@
             "img_identifiers": [
                 "3300047299"
             ],
-            "samp_name": {
-                "has_raw_value": "ME060036"
-            },
+            "samp_name": "ME060036",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260940"
             ],
@@ -1319,9 +1277,7 @@
             "img_identifiers": [
                 "3300047463"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA156"
-            },
+            "samp_name": "ROCA156",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260963"
             ],
@@ -1378,9 +1334,7 @@
             "img_identifiers": [
                 "3300043907"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_003"
-            },
+            "samp_name": "CONGO_003",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278654"
             ],
@@ -1438,9 +1392,7 @@
             "img_identifiers": [
                 "3300049859"
             ],
-            "samp_name": {
-                "has_raw_value": "lewisrun_2019_sed_WHONDRS-S19S_0014"
-            },
+            "samp_name": "lewisrun_2019_sed_WHONDRS-S19S_0014",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305610"
             ],
@@ -1497,9 +1449,7 @@
             "img_identifiers": [
                 "3300049481"
             ],
-            "samp_name": {
-                "has_raw_value": "augustacreek_2019_sed_WHONDRS-S19S_0067"
-            },
+            "samp_name": "augustacreek_2019_sed_WHONDRS-S19S_0067",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305647"
             ],
@@ -1556,9 +1506,7 @@
             "img_identifiers": [
                 "3300049487"
             ],
-            "samp_name": {
-                "has_raw_value": "logan2_2019_sed_WHONDRS-S19S_0098"
-            },
+            "samp_name": "logan2_2019_sed_WHONDRS-S19S_0098",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305666"
             ],
@@ -1615,9 +1563,7 @@
             "img_identifiers": [
                 "3300043407"
             ],
-            "samp_name": {
-                "has_raw_value": "columbia_2019_sw_WHONDRS-S19S_0036"
-            },
+            "samp_name": "columbia_2019_sw_WHONDRS-S19S_0036",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258407"
             ],
@@ -1677,9 +1623,7 @@
             "img_identifiers": [
                 "3300043408"
             ],
-            "samp_name": {
-                "has_raw_value": "whiteclaycreek1_2019_sw_WHONDRS-S19S_0037"
-            },
+            "samp_name": "whiteclaycreek1_2019_sw_WHONDRS-S19S_0037",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258408"
             ],
@@ -1740,9 +1684,7 @@
                 "3300043426",
                 "3300046821"
             ],
-            "samp_name": {
-                "has_raw_value": "blythe_2019_sw_WHONDRS-S19S_0092"
-            },
+            "samp_name": "blythe_2019_sw_WHONDRS-S19S_0092",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258452"
             ],
@@ -1802,9 +1744,7 @@
             "img_identifiers": [
                 "3300048693"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_R_meta"
-            },
+            "samp_name": "Yojoa_01_2020_R_meta",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258270"
             ],
@@ -1863,9 +1803,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "littlewindriver_2019_sw_WHONDRS-S19S_0009"
-            },
+            "samp_name": "littlewindriver_2019_sw_WHONDRS-S19S_0009",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258244"
             ],
@@ -1926,9 +1864,7 @@
                 "3300047554",
                 "3300043444"
             ],
-            "samp_name": {
-                "has_raw_value": "pringlecreek_2019_sw_WHONDRS-S19S_0025"
-            },
+            "samp_name": "pringlecreek_2019_sw_WHONDRS-S19S_0025",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258396"
             ],
@@ -1988,9 +1924,7 @@
             "img_identifiers": [
                 "3300043405"
             ],
-            "samp_name": {
-                "has_raw_value": "teakettle2_2019_sw_WHONDRS-S19S_0032"
-            },
+            "samp_name": "teakettle2_2019_sw_WHONDRS-S19S_0032",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258403"
             ],
@@ -2051,9 +1985,7 @@
                 "3300044825",
                 "3300047557"
             ],
-            "samp_name": {
-                "has_raw_value": "eastforkpoplarcreek_2019_sw_WHONDRS-S19S_0039"
-            },
+            "samp_name": "eastforkpoplarcreek_2019_sw_WHONDRS-S19S_0039",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258410"
             ],
@@ -2110,9 +2042,7 @@
             "img_identifiers": [
                 "3300043409"
             ],
-            "samp_name": {
-                "has_raw_value": "crookedriver_2019_sw_WHONDRS-S19S_0041"
-            },
+            "samp_name": "crookedriver_2019_sw_WHONDRS-S19S_0041",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258412"
             ],
@@ -2172,9 +2102,7 @@
             "img_identifiers": [
                 "3300043411"
             ],
-            "samp_name": {
-                "has_raw_value": "erpe_2019_sw_WHONDRS-S19S_0045"
-            },
+            "samp_name": "erpe_2019_sw_WHONDRS-S19S_0045",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258415"
             ],
@@ -2235,9 +2163,7 @@
                 "3300042109",
                 "3300047486"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_B_meta"
-            },
+            "samp_name": "Yojoa_01_2020_B_meta",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258260"
             ],
@@ -2302,9 +2228,7 @@
             "img_identifiers": [
                 "3300043441"
             ],
-            "samp_name": {
-                "has_raw_value": "teakettle_2019_sw_WHONDRS-S19S_0008"
-            },
+            "samp_name": "teakettle_2019_sw_WHONDRS-S19S_0008",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258382"
             ],
@@ -2364,9 +2288,7 @@
             "img_identifiers": [
                 "3300043397"
             ],
-            "samp_name": {
-                "has_raw_value": "hopbrook_2019_sw_WHONDRS-S19S_0012"
-            },
+            "samp_name": "hopbrook_2019_sw_WHONDRS-S19S_0012",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258386"
             ],
@@ -2426,9 +2348,7 @@
             "img_identifiers": [
                 "3300046771"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_277"
-            },
+            "samp_name": "NASQAN2011_277",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260825"
             ],
@@ -2486,9 +2406,7 @@
             "img_identifiers": [
                 "3300047395"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_057"
-            },
+            "samp_name": "NASQAN2016_057",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260924"
             ],
@@ -2545,9 +2463,7 @@
             "img_identifiers": [
                 "3300047309"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_049"
-            },
+            "samp_name": "CONGO_049",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260970"
             ],
@@ -2605,9 +2521,7 @@
             "img_identifiers": [
                 "3300046766"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_194"
-            },
+            "samp_name": "NASQAN2011_194",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260808"
             ],
@@ -2664,9 +2578,7 @@
             "img_identifiers": [
                 "3300045530"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_225"
-            },
+            "samp_name": "NASQAN2011_225",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260814"
             ],
@@ -2723,9 +2635,7 @@
             "img_identifiers": [
                 "3300045578"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_188"
-            },
+            "samp_name": "NASQAN2011_188",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260807"
             ],
@@ -2782,9 +2692,7 @@
             "img_identifiers": [
                 "3300046803"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_240"
-            },
+            "samp_name": "NASQAN2011_240",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260819"
             ],
@@ -2841,9 +2749,7 @@
             "img_identifiers": [
                 "3300045534"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_262"
-            },
+            "samp_name": "NASQAN2011_262",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260824"
             ],
@@ -2901,9 +2807,7 @@
             "img_identifiers": [
                 "3300047391"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_042"
-            },
+            "samp_name": "NASQAN2015_042",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260897"
             ],
@@ -2960,9 +2864,7 @@
             "img_identifiers": [
                 "3300047286"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_150"
-            },
+            "samp_name": "NASQAN2015_150",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260910"
             ],
@@ -3019,9 +2921,7 @@
             "img_identifiers": [
                 "3300047300"
             ],
-            "samp_name": {
-                "has_raw_value": "ME080035"
-            },
+            "samp_name": "ME080035",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260941"
             ],
@@ -3079,9 +2979,7 @@
             "img_identifiers": [
                 "3300047303"
             ],
-            "samp_name": {
-                "has_raw_value": "Mackenzie 2004-1"
-            },
+            "samp_name": "Mackenzie 2004-1",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260945"
             ],
@@ -3138,9 +3036,7 @@
             "img_identifiers": [
                 "3300049008"
             ],
-            "samp_name": {
-                "has_raw_value": "Nenets Autonomous Okrug, Russia - Ob' 2004-1"
-            },
+            "samp_name": "Nenets Autonomous Okrug, Russia - Ob' 2004-1",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260948"
             ],
@@ -3197,9 +3093,7 @@
             "img_identifiers": [
                 "3300047396"
             ],
-            "samp_name": {
-                "has_raw_value": "Kolyma 2004-2"
-            },
+            "samp_name": "Kolyma 2004-2",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260957"
             ],
@@ -3256,9 +3150,7 @@
             "img_identifiers": [
                 "3300047405"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_051"
-            },
+            "samp_name": "CONGO_051",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260971"
             ],
@@ -3316,9 +3208,7 @@
             "img_identifiers": [
                 "3300049846"
             ],
-            "samp_name": {
-                "has_raw_value": "altamaha_2019_sed_WHONDRS-S19S_0010"
-            },
+            "samp_name": "altamaha_2019_sed_WHONDRS-S19S_0010",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305606"
             ],
@@ -3375,9 +3265,7 @@
             "img_identifiers": [
                 "3300049892"
             ],
-            "samp_name": {
-                "has_raw_value": "poseycreek_2019_sed_WHONDRS-S19S_0013"
-            },
+            "samp_name": "poseycreek_2019_sed_WHONDRS-S19S_0013",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305609"
             ],
@@ -3434,9 +3322,7 @@
             "img_identifiers": [
                 "3300049848"
             ],
-            "samp_name": {
-                "has_raw_value": "lecontecreek_2019_sed_WHONDRS-S19S_0018"
-            },
+            "samp_name": "lecontecreek_2019_sed_WHONDRS-S19S_0018",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305614"
             ],
@@ -3493,9 +3379,7 @@
             "img_identifiers": [
                 "3300049490"
             ],
-            "samp_name": {
-                "has_raw_value": "lajara_2019_sed_WHONDRS-S19S_0034"
-            },
+            "samp_name": "lajara_2019_sed_WHONDRS-S19S_0034",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305627"
             ],
@@ -3552,9 +3436,7 @@
             "img_identifiers": [
                 "3300049471"
             ],
-            "samp_name": {
-                "has_raw_value": "eastforkpoplarcreek_2019_sed_WHONDRS-S19S_0039"
-            },
+            "samp_name": "eastforkpoplarcreek_2019_sed_WHONDRS-S19S_0039",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305632"
             ],
@@ -3611,9 +3493,7 @@
             "img_identifiers": [
                 "3300049482"
             ],
-            "samp_name": {
-                "has_raw_value": "gordoncreek_2019_sed_WHONDRS-S19S_0071"
-            },
+            "samp_name": "gordoncreek_2019_sed_WHONDRS-S19S_0071",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305649"
             ],
@@ -3670,9 +3550,7 @@
             "img_identifiers": [
                 "3300049917"
             ],
-            "samp_name": {
-                "has_raw_value": "columbiariver1_2019_sed_WHONDRS-S19S_0075"
-            },
+            "samp_name": "columbiariver1_2019_sed_WHONDRS-S19S_0075",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305653"
             ],
@@ -3729,9 +3607,7 @@
             "img_identifiers": [
                 "3300050819"
             ],
-            "samp_name": {
-                "has_raw_value": "redbuttecreek_2019_sed_WHONDRS-S19S_0086"
-            },
+            "samp_name": "redbuttecreek_2019_sed_WHONDRS-S19S_0086",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305662"
             ],
@@ -3788,9 +3664,7 @@
             "img_identifiers": [
                 "3300043392"
             ],
-            "samp_name": {
-                "has_raw_value": "deadrun_2019_sw_WHONDRS-S19S_0006"
-            },
+            "samp_name": "deadrun_2019_sw_WHONDRS-S19S_0006",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258380"
             ],
@@ -3851,9 +3725,7 @@
                 "3300044681",
                 "3300047559"
             ],
-            "samp_name": {
-                "has_raw_value": "sharkriverslough_2019_sw_WHONDRS-S19S_0042"
-            },
+            "samp_name": "sharkriverslough_2019_sw_WHONDRS-S19S_0042",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258413"
             ],
@@ -3911,9 +3783,7 @@
                 "3300043429",
                 "3300047476"
             ],
-            "samp_name": {
-                "has_raw_value": "eastriver_2019_sw_WHONDRS-S19S_0100"
-            },
+            "samp_name": "eastriver_2019_sw_WHONDRS-S19S_0100",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258459"
             ],
@@ -3974,9 +3844,7 @@
                 "3300042140",
                 "3300047488"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_E_hypo"
-            },
+            "samp_name": "Yojoa_01_2020_E_hypo",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258263"
             ],
@@ -4042,9 +3910,7 @@
                 "3300042113",
                 "3300047490"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_06_2019_L_epi"
-            },
+            "samp_name": "Yojoa_06_2019_L_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258265"
             ],
@@ -4110,9 +3976,7 @@
                 "3300042199",
                 "3300047492"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_R_epi"
-            },
+            "samp_name": "Yojoa_01_2020_R_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258268"
             ],
@@ -4174,9 +4038,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "columbia_2019_sw_WHONDRS-S19S_0074"
-            },
+            "samp_name": "columbia_2019_sw_WHONDRS-S19S_0074",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258251"
             ],
@@ -4236,9 +4098,7 @@
             "img_identifiers": [
                 "3300043433"
             ],
-            "samp_name": {
-                "has_raw_value": "jordanrivershai1_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "jordanrivershai1_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258465"
             ],
@@ -4299,9 +4159,7 @@
                 "3300042260",
                 "3300047483"
             ],
-            "samp_name": {
-                "has_raw_value": "seaofgalileej4_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "seaofgalileej4_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258243"
             ],
@@ -4362,9 +4220,7 @@
                 "3300047511",
                 "3300042110"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_E_epi"
-            },
+            "samp_name": "Yojoa_01_2020_E_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258261"
             ],
@@ -4430,9 +4286,7 @@
                 "3300042141",
                 "3300047512"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_06_2019_Q_epi"
-            },
+            "samp_name": "Yojoa_06_2019_Q_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258266"
             ],
@@ -4498,9 +4352,7 @@
                 "3300046819",
                 "3300043415"
             ],
-            "samp_name": {
-                "has_raw_value": "blackearthcreek_2019_sw_WHONDRS-S19S_0061"
-            },
+            "samp_name": "blackearthcreek_2019_sw_WHONDRS-S19S_0061",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258428"
             ],
@@ -4561,9 +4413,7 @@
                 "3300047558",
                 "3300043451"
             ],
-            "samp_name": {
-                "has_raw_value": "nebranchanacostia_2019_sw_WHONDRS-S19S_0081"
-            },
+            "samp_name": "nebranchanacostia_2019_sw_WHONDRS-S19S_0081",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258444"
             ],
@@ -4624,9 +4474,7 @@
                 "3300047562",
                 "3300043420"
             ],
-            "samp_name": {
-                "has_raw_value": "muddycreek_2019_sw_WHONDRS-S19S_0082"
-            },
+            "samp_name": "muddycreek_2019_sw_WHONDRS-S19S_0082",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258445"
             ],
@@ -4686,9 +4534,7 @@
             "img_identifiers": [
                 "3300051210"
             ],
-            "samp_name": {
-                "has_raw_value": "Yenisey 2005-6"
-            },
+            "samp_name": "Yenisey 2005-6",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260953"
             ],
@@ -4745,9 +4591,7 @@
             "img_identifiers": [
                 "3300045728"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_236"
-            },
+            "samp_name": "NASQAN2011_236",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260817"
             ],
@@ -4804,9 +4648,7 @@
             "img_identifiers": [
                 "3300046770"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_239"
-            },
+            "samp_name": "NASQAN2011_239",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260818"
             ],
@@ -4863,9 +4705,7 @@
             "img_identifiers": [
                 "3300045583"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_190"
-            },
+            "samp_name": "NASQAN2010_190",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260838"
             ],
@@ -4923,9 +4763,7 @@
             "img_identifiers": [
                 "3300047457"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_083"
-            },
+            "samp_name": "NASQAN2016_083",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260928"
             ],
@@ -4982,9 +4820,7 @@
             "img_identifiers": [
                 "3300046763"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_090"
-            },
+            "samp_name": "NASQAN2011_090",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260801"
             ],
@@ -5042,9 +4878,7 @@
             "img_identifiers": [
                 "3300045585"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_233"
-            },
+            "samp_name": "NASQAN2010_233",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260866"
             ],
@@ -5102,9 +4936,7 @@
             "img_identifiers": [
                 "3300048607"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_118"
-            },
+            "samp_name": "NASQAN2012_118",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260876"
             ],
@@ -5161,9 +4993,7 @@
             "img_identifiers": [
                 "3300045527"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_089"
-            },
+            "samp_name": "NASQAN2014_089",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260884"
             ],
@@ -5220,9 +5050,7 @@
             "img_identifiers": [
                 "3300047394"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_151"
-            },
+            "samp_name": "NASQAN2015_151",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260911"
             ],
@@ -5279,9 +5107,7 @@
             "img_identifiers": [
                 "3300047285"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_206"
-            },
+            "samp_name": "NASQAN2015_206",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260916"
             ],
@@ -5338,9 +5164,7 @@
             "img_identifiers": [
                 "3300047308"
             ],
-            "samp_name": {
-                "has_raw_value": "Lena 2005-5"
-            },
+            "samp_name": "Lena 2005-5",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260955"
             ],
@@ -5397,9 +5221,7 @@
             "img_identifiers": [
                 "3300051164"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_057"
-            },
+            "samp_name": "CONGO_057",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260974"
             ],
@@ -5458,9 +5280,7 @@
                 "3300048694",
                 "3300044297"
             ],
-            "samp_name": {
-                "has_raw_value": "River, Brazzaville, Congo - CONGO_067"
-            },
+            "samp_name": "River, Brazzaville, Congo - CONGO_067",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278649"
             ],
@@ -5519,9 +5339,7 @@
                 "3300044295",
                 "3300047566"
             ],
-            "samp_name": {
-                "has_raw_value": "River, Brazzaville, Congo - CONGO_063"
-            },
+            "samp_name": "River, Brazzaville, Congo - CONGO_063",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278647"
             ],
@@ -5579,9 +5397,7 @@
             "img_identifiers": [
                 "3300049893"
             ],
-            "samp_name": {
-                "has_raw_value": "flintriver_2019_sed_WHONDRS-S19S_0015"
-            },
+            "samp_name": "flintriver_2019_sed_WHONDRS-S19S_0015",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305611"
             ],
@@ -5642,9 +5458,7 @@
             "img_identifiers": [
                 "3300049845"
             ],
-            "samp_name": {
-                "has_raw_value": "blueriver_2019_sed_WHONDRS-S19S_0024"
-            },
+            "samp_name": "blueriver_2019_sed_WHONDRS-S19S_0024",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305619"
             ],
@@ -5701,9 +5515,7 @@
             "img_identifiers": [
                 "3300049488"
             ],
-            "samp_name": {
-                "has_raw_value": "comocreek_2019_sed_WHONDRS-S19S_0026"
-            },
+            "samp_name": "comocreek_2019_sed_WHONDRS-S19S_0026",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305621"
             ],
@@ -5760,9 +5572,7 @@
             "img_identifiers": [
                 "3300049855"
             ],
-            "samp_name": {
-                "has_raw_value": "plattekill_2019_sed_WHONDRS-S19S_0052"
-            },
+            "samp_name": "plattekill_2019_sed_WHONDRS-S19S_0052",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305639"
             ],
@@ -5819,9 +5629,7 @@
             "img_identifiers": [
                 "3300049477"
             ],
-            "samp_name": {
-                "has_raw_value": "southforkpolouse_2019_sed_WHONDRS-S19S_0055"
-            },
+            "samp_name": "southforkpolouse_2019_sed_WHONDRS-S19S_0055",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305641"
             ],
@@ -5878,9 +5686,7 @@
             "img_identifiers": [
                 "3300049483"
             ],
-            "samp_name": {
-                "has_raw_value": "sawmillbrook_2019_sed_WHONDRS-S19S_0072"
-            },
+            "samp_name": "sawmillbrook_2019_sed_WHONDRS-S19S_0072",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305650"
             ],
@@ -5937,9 +5743,7 @@
             "img_identifiers": [
                 "3300049485"
             ],
-            "samp_name": {
-                "has_raw_value": "columbia_2019_sed_WHONDRS-S19S_0074"
-            },
+            "samp_name": "columbia_2019_sed_WHONDRS-S19S_0074",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305652"
             ],
@@ -5996,9 +5800,7 @@
             "img_identifiers": [
                 "3300049828"
             ],
-            "samp_name": {
-                "has_raw_value": "riogrande_2019_sed_WHONDRS-S19S_0080"
-            },
+            "samp_name": "riogrande_2019_sed_WHONDRS-S19S_0080",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305658"
             ],
@@ -6055,9 +5857,7 @@
             "img_identifiers": [
                 "3300049830"
             ],
-            "samp_name": {
-                "has_raw_value": "watershed3_2019_sed_WHONDRS-S19S_0084"
-            },
+            "samp_name": "watershed3_2019_sed_WHONDRS-S19S_0084",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305661"
             ],
@@ -6114,9 +5914,7 @@
             "img_identifiers": [
                 "3300049841"
             ],
-            "samp_name": {
-                "has_raw_value": "cobbmillcreek_2019_sed_WHONDRS-S19S_0090"
-            },
+            "samp_name": "cobbmillcreek_2019_sed_WHONDRS-S19S_0090",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305663"
             ],
@@ -6173,9 +5971,7 @@
             "img_identifiers": [
                 "3300049918"
             ],
-            "samp_name": {
-                "has_raw_value": "logan1_2019_sed_WHONDRS-S19S_0097"
-            },
+            "samp_name": "logan1_2019_sed_WHONDRS-S19S_0097",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305665"
             ],
@@ -6232,9 +6028,7 @@
             "img_identifiers": [
                 "3300046786"
             ],
-            "samp_name": {
-                "has_raw_value": "farmington_2019_sw_WHONDRS-S19S_0053"
-            },
+            "samp_name": "farmington_2019_sw_WHONDRS-S19S_0053",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258422"
             ],
@@ -6291,9 +6085,7 @@
             "img_identifiers": [
                 "3300046779"
             ],
-            "samp_name": {
-                "has_raw_value": "sangamon_2019_sw_WHONDRS-S19S_0083"
-            },
+            "samp_name": "sangamon_2019_sw_WHONDRS-S19S_0083",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258446"
             ],
@@ -6350,9 +6142,7 @@
             "img_identifiers": [
                 "3300043416"
             ],
-            "samp_name": {
-                "has_raw_value": "gunnisonriver_2019_sw_WHONDRS-S19S_0062"
-            },
+            "samp_name": "gunnisonriver_2019_sw_WHONDRS-S19S_0062",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258429"
             ],
@@ -6413,9 +6203,7 @@
                 "3300043448",
                 "3300051212"
             ],
-            "samp_name": {
-                "has_raw_value": "lowercolorado_2019_sw_WHONDRS-S19S_0063"
-            },
+            "samp_name": "lowercolorado_2019_sw_WHONDRS-S19S_0063",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258430"
             ],
@@ -6475,9 +6263,7 @@
             "img_identifiers": [
                 "3300043449"
             ],
-            "samp_name": {
-                "has_raw_value": "riogrande_2019_sw_WHONDRS-S19S_0066"
-            },
+            "samp_name": "riogrande_2019_sw_WHONDRS-S19S_0066",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258432"
             ],
@@ -6538,9 +6324,7 @@
                 "3300047481",
                 "3300042197"
             ],
-            "samp_name": {
-                "has_raw_value": "jordanrivershai5_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "jordanrivershai5_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258241"
             ],
@@ -6597,9 +6381,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "sycamorecreek_2019_sw_WHONDRS-S19S_0028"
-            },
+            "samp_name": "sycamorecreek_2019_sw_WHONDRS-S19S_0028",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258248"
             ],
@@ -6660,9 +6442,7 @@
                 "3300043394",
                 "3300047545"
             ],
-            "samp_name": {
-                "has_raw_value": "littlewindriver_2019_sw_WHONDRS-S19S_0009"
-            },
+            "samp_name": "littlewindriver_2019_sw_WHONDRS-S19S_0009",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258383"
             ],
@@ -6723,9 +6503,7 @@
                 "3300043396",
                 "3300047543"
             ],
-            "samp_name": {
-                "has_raw_value": "middleoconee_2019_sw_WHONDRS-S19S_0011"
-            },
+            "samp_name": "middleoconee_2019_sw_WHONDRS-S19S_0011",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258385"
             ],
@@ -6785,9 +6563,7 @@
             "img_identifiers": [
                 "3300043412"
             ],
-            "samp_name": {
-                "has_raw_value": "kuparukriver_2019_sw_WHONDRS-S19S_0047"
-            },
+            "samp_name": "kuparukriver_2019_sw_WHONDRS-S19S_0047",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258416"
             ],
@@ -6848,9 +6624,7 @@
                 "3300043427",
                 "3300047564"
             ],
-            "samp_name": {
-                "has_raw_value": "icacos_2019_sw_WHONDRS-S19S_0094"
-            },
+            "samp_name": "icacos_2019_sw_WHONDRS-S19S_0094",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258454"
             ],
@@ -6911,9 +6685,7 @@
                 "3300047565",
                 "3300043428"
             ],
-            "samp_name": {
-                "has_raw_value": "logan1_2019_sw_WHONDRS-S19S_0097"
-            },
+            "samp_name": "logan1_2019_sw_WHONDRS-S19S_0097",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258456"
             ],
@@ -6973,9 +6745,7 @@
             "img_identifiers": [
                 "3300043452"
             ],
-            "samp_name": {
-                "has_raw_value": "logan2_2019_sw_WHONDRS-S19S_0098"
-            },
+            "samp_name": "logan2_2019_sw_WHONDRS-S19S_0098",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258457"
             ],
@@ -7035,9 +6805,7 @@
             "img_identifiers": [
                 "3300047272"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_188"
-            },
+            "samp_name": "NASQAN2014_188",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260888"
             ],
@@ -7094,9 +6862,7 @@
             "img_identifiers": [
                 "3300046769"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_229"
-            },
+            "samp_name": "NASQAN2011_229",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260815"
             ],
@@ -7153,9 +6919,7 @@
             "img_identifiers": [
                 "3300047278"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_013"
-            },
+            "samp_name": "NASQAN2015_013",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260894"
             ],
@@ -7212,9 +6976,7 @@
             "img_identifiers": [
                 "3300047398"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA161"
-            },
+            "samp_name": "ROCA161",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260960"
             ],
@@ -7271,9 +7033,7 @@
             "img_identifiers": [
                 "3300045424"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_031"
-            },
+            "samp_name": "NASQAN2011_031",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260795"
             ],
@@ -7331,9 +7091,7 @@
             "img_identifiers": [
                 "3300045433"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_060"
-            },
+            "samp_name": "NASQAN2011_060",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260800"
             ],
@@ -7391,9 +7149,7 @@
             "img_identifiers": [
                 "3300045525"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_115"
-            },
+            "samp_name": "NASQAN2012_115",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260875"
             ],
@@ -7450,9 +7206,7 @@
             "img_identifiers": [
                 "3300047298"
             ],
-            "samp_name": {
-                "has_raw_value": "ME060032"
-            },
+            "samp_name": "ME060032",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260939"
             ],
@@ -7510,9 +7264,7 @@
             "img_identifiers": [
                 "3300047305"
             ],
-            "samp_name": {
-                "has_raw_value": "Mackenzie 2004-4"
-            },
+            "samp_name": "Mackenzie 2004-4",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260947"
             ],
@@ -7569,9 +7321,7 @@
             "img_identifiers": [
                 "3300047307"
             ],
-            "samp_name": {
-                "has_raw_value": "Lena 2005-3"
-            },
+            "samp_name": "Lena 2005-3",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260954"
             ],
@@ -7628,9 +7378,7 @@
             "img_identifiers": [
                 "3300044213"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_007"
-            },
+            "samp_name": "CONGO_007",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278650"
             ],
@@ -7688,9 +7436,7 @@
             "img_identifiers": [
                 "3300049843"
             ],
-            "samp_name": {
-                "has_raw_value": "blackwarrior_2019_sed_WHONDRS-S19S_0021"
-            },
+            "samp_name": "blackwarrior_2019_sed_WHONDRS-S19S_0021",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305617"
             ],
@@ -7747,9 +7493,7 @@
             "img_identifiers": [
                 "3300049844"
             ],
-            "samp_name": {
-                "has_raw_value": "arikareeriver_2019_sed_WHONDRS-S19S_0023"
-            },
+            "samp_name": "arikareeriver_2019_sed_WHONDRS-S19S_0023",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305618"
             ],
@@ -7806,9 +7550,7 @@
             "img_identifiers": [
                 "3300049476"
             ],
-            "samp_name": {
-                "has_raw_value": "farmington_2019_sed_WHONDRS-S19S_0053"
-            },
+            "samp_name": "farmington_2019_sed_WHONDRS-S19S_0053",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305640"
             ],
@@ -7865,9 +7607,7 @@
             "img_identifiers": [
                 "3300056588"
             ],
-            "samp_name": {
-                "has_raw_value": "gunnisonriver_2019_sed_WHONDRS-S19S_0062"
-            },
+            "samp_name": "gunnisonriver_2019_sed_WHONDRS-S19S_0062",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305644"
             ],
@@ -7924,9 +7664,7 @@
             "img_identifiers": [
                 "3300049829"
             ],
-            "samp_name": {
-                "has_raw_value": "muddycreek_2019_sed_WHONDRS-S19S_0082"
-            },
+            "samp_name": "muddycreek_2019_sed_WHONDRS-S19S_0082",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305659"
             ],
@@ -7983,9 +7721,7 @@
             "img_identifiers": [
                 "3300049919"
             ],
-            "samp_name": {
-                "has_raw_value": "eastriver_2019_sed_WHONDRS-S19S_0100"
-            },
+            "samp_name": "eastriver_2019_sed_WHONDRS-S19S_0100",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305667"
             ],
@@ -8043,9 +7779,7 @@
                 "3300043371",
                 "3300047544"
             ],
-            "samp_name": {
-                "has_raw_value": "fraser_2019_sw_WHONDRS-S195_0001"
-            },
+            "samp_name": "fraser_2019_sw_WHONDRS-S195_0001",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258377"
             ],
@@ -8106,9 +7840,7 @@
                 "3300048670",
                 "3300043391"
             ],
-            "samp_name": {
-                "has_raw_value": "souththompson_2019_sw_WHONDRS-S195_0004"
-            },
+            "samp_name": "souththompson_2019_sw_WHONDRS-S195_0004",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258379"
             ],
@@ -8169,9 +7901,7 @@
                 "3300042989",
                 "3300047555"
             ],
-            "samp_name": {
-                "has_raw_value": "comocreek_2019_sw_WHONDRS-S19S_0026"
-            },
+            "samp_name": "comocreek_2019_sw_WHONDRS-S19S_0026",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258397"
             ],
@@ -8228,9 +7958,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "littlewolfcreek_2019_sw_WHONDRS-S19S_0078"
-            },
+            "samp_name": "littlewolfcreek_2019_sw_WHONDRS-S19S_0078",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258253"
             ],
@@ -8290,9 +8018,7 @@
             "img_identifiers": [
                 "3300042579"
             ],
-            "samp_name": {
-                "has_raw_value": "blackwarrior_2019_sw_WHONDRS-S19S_0021"
-            },
+            "samp_name": "blackwarrior_2019_sw_WHONDRS-S19S_0021",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258247"
             ],
@@ -8353,9 +8079,7 @@
                 "3300047489",
                 "3300042112"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_E_meta"
-            },
+            "samp_name": "Yojoa_01_2020_E_meta",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258264"
             ],
@@ -8421,9 +8145,7 @@
                 "3300043442",
                 "3300047551"
             ],
-            "samp_name": {
-                "has_raw_value": "blackwarrior_2019_sw_WHONDRS-S19S_0021"
-            },
+            "samp_name": "blackwarrior_2019_sw_WHONDRS-S19S_0021",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258392"
             ],
@@ -8483,9 +8205,7 @@
             "img_identifiers": [
                 "3300044826"
             ],
-            "samp_name": {
-                "has_raw_value": "orco_2019_sw_WHONDRS-S19S_0096"
-            },
+            "samp_name": "orco_2019_sw_WHONDRS-S19S_0096",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258455"
             ],
@@ -8542,9 +8262,7 @@
             "img_identifiers": [
                 "3300046031"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_024"
-            },
+            "samp_name": "NASQAN2014_024",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260879"
             ],
@@ -8601,9 +8319,7 @@
             "img_identifiers": [
                 "3300045577"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_085"
-            },
+            "samp_name": "NASQAN2014_085",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260883"
             ],
@@ -8660,9 +8376,7 @@
             "img_identifiers": [
                 "3300047290"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_227"
-            },
+            "samp_name": "NASQAN2015_227",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260920"
             ],
@@ -8719,9 +8433,7 @@
             "img_identifiers": [
                 "3300045531"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_231"
-            },
+            "samp_name": "NASQAN2011_231",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260816"
             ],
@@ -8778,9 +8490,7 @@
             "img_identifiers": [
                 "3300046773"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_124"
-            },
+            "samp_name": "NASQAN2012_124",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260845"
             ],
@@ -8838,9 +8548,7 @@
             "img_identifiers": [
                 "3300046776"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_429"
-            },
+            "samp_name": "NASQAN2011_429",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260862"
             ],
@@ -8898,9 +8606,7 @@
             "img_identifiers": [
                 "3300045524"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_107"
-            },
+            "samp_name": "NASQAN2012_107",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260873"
             ],
@@ -8957,9 +8663,7 @@
             "img_identifiers": [
                 "3300047276"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_193"
-            },
+            "samp_name": "NASQAN2014_193",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260890"
             ],
@@ -9016,9 +8720,7 @@
             "img_identifiers": [
                 "3300047392"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_052"
-            },
+            "samp_name": "NASQAN2015_052",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260899"
             ],
@@ -9075,9 +8777,7 @@
             "img_identifiers": [
                 "3300047281"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_081"
-            },
+            "samp_name": "NASQAN2015_081",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260901"
             ],
@@ -9134,9 +8834,7 @@
             "img_identifiers": [
                 "3300047283"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_109"
-            },
+            "samp_name": "NASQAN2015_109",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260905"
             ],
@@ -9193,9 +8891,7 @@
             "img_identifiers": [
                 "3300045580"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_177"
-            },
+            "samp_name": "NASQAN2011_177",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260806"
             ],
@@ -9253,9 +8949,7 @@
             "img_identifiers": [
                 "3300045581"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_332"
-            },
+            "samp_name": "NASQAN2011_332",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260829"
             ],
@@ -9313,9 +9007,7 @@
             "img_identifiers": [
                 "3300046774"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_172"
-            },
+            "samp_name": "NASQAN2010_172",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260847"
             ],
@@ -9373,9 +9065,7 @@
             "img_identifiers": [
                 "3300045541"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_433"
-            },
+            "samp_name": "NASQAN2011_433",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260863"
             ],
@@ -9433,9 +9123,7 @@
             "img_identifiers": [
                 "3300047275"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_190"
-            },
+            "samp_name": "NASQAN2014_190",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260889"
             ],
@@ -9492,9 +9180,7 @@
             "img_identifiers": [
                 "3300047294"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_164"
-            },
+            "samp_name": "NASQAN2016_164",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260934"
             ],
@@ -9551,9 +9237,7 @@
             "img_identifiers": [
                 "3300047304"
             ],
-            "samp_name": {
-                "has_raw_value": "Mackenzie 2004-7"
-            },
+            "samp_name": "Mackenzie 2004-7",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260946"
             ],
@@ -9610,9 +9294,7 @@
             "img_identifiers": [
                 "3300049042"
             ],
-            "samp_name": {
-                "has_raw_value": "Nenets Autonomous Okrug, Russia - Ob' 2004-4"
-            },
+            "samp_name": "Nenets Autonomous Okrug, Russia - Ob' 2004-4",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260950"
             ],
@@ -9669,9 +9351,7 @@
             "img_identifiers": [
                 "3300051211"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_055"
-            },
+            "samp_name": "CONGO_055",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260973"
             ],
@@ -9729,9 +9409,7 @@
             "img_identifiers": [
                 "3300044266"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_031"
-            },
+            "samp_name": "CONGO_031",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278652"
             ],
@@ -9789,9 +9467,7 @@
             "img_identifiers": [
                 "3300049478"
             ],
-            "samp_name": {
-                "has_raw_value": "blackearthcreek_2019_sed_WHONDRS-S19S_0061"
-            },
+            "samp_name": "blackearthcreek_2019_sed_WHONDRS-S19S_0061",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305643"
             ],
@@ -9848,9 +9524,7 @@
             "img_identifiers": [
                 "3300049484"
             ],
-            "samp_name": {
-                "has_raw_value": "cartcreek_2019_sed_WHONDRS-S19S_0073"
-            },
+            "samp_name": "cartcreek_2019_sed_WHONDRS-S19S_0073",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305651"
             ],
@@ -9907,9 +9581,7 @@
             "img_identifiers": [
                 "3300049486"
             ],
-            "samp_name": {
-                "has_raw_value": "columbiariver2_2019_sed_WHONDRS-S19S_0076"
-            },
+            "samp_name": "columbiariver2_2019_sed_WHONDRS-S19S_0076",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305654"
             ],
@@ -9966,9 +9638,7 @@
             "img_identifiers": [
                 "3300049827"
             ],
-            "samp_name": {
-                "has_raw_value": "umpqua_2019_sed_WHONDRS-S19S_0079"
-            },
+            "samp_name": "umpqua_2019_sed_WHONDRS-S19S_0079",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305657"
             ],
@@ -10025,9 +9695,7 @@
             "img_identifiers": [
                 "3300048686"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_R_hypo"
-            },
+            "samp_name": "Yojoa_01_2020_R_hypo",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258269"
             ],
@@ -10090,9 +9758,7 @@
                 "3300044701",
                 "3300047510"
             ],
-            "samp_name": {
-                "has_raw_value": "assiniboineriver_2019_sw_WHONDRS-S19S_0005"
-            },
+            "samp_name": "assiniboineriver_2019_sw_WHONDRS-S19S_0005",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258462"
             ],
@@ -10149,9 +9815,7 @@
             "img_identifiers": [
                 "3300042578"
             ],
-            "samp_name": {
-                "has_raw_value": "middleoconee_2019_sw_WHONDRS-S19S_0011"
-            },
+            "samp_name": "middleoconee_2019_sw_WHONDRS-S19S_0011",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258246"
             ],
@@ -10212,9 +9876,7 @@
                 "3300047552",
                 "3300042988"
             ],
-            "samp_name": {
-                "has_raw_value": "arikareeriver_2019_sw_WHONDRS-S19S_0023"
-            },
+            "samp_name": "arikareeriver_2019_sw_WHONDRS-S19S_0023",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258394"
             ],
@@ -10271,9 +9933,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "muddycreek_2019_sw_WHONDRS-S19S_0082"
-            },
+            "samp_name": "muddycreek_2019_sw_WHONDRS-S19S_0082",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258254"
             ],
@@ -10334,9 +9994,7 @@
                 "3300044805",
                 "3300046805"
             ],
-            "samp_name": {
-                "has_raw_value": "columbia_2019_sw_WHONDRS-S19S_0074"
-            },
+            "samp_name": "columbia_2019_sw_WHONDRS-S19S_0074",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258439"
             ],
@@ -10393,9 +10051,7 @@
             "img_identifiers": [
                 "3300044700"
             ],
-            "samp_name": {
-                "has_raw_value": "columbiariver1_2019_sw_WHONDRS-S19S_0075"
-            },
+            "samp_name": "columbiariver1_2019_sw_WHONDRS-S19S_0075",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258440"
             ],
@@ -10453,9 +10109,7 @@
                 "3300047491",
                 "3300042261"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_06_2019_Q_hypo"
-            },
+            "samp_name": "Yojoa_06_2019_Q_hypo",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258267"
             ],
@@ -10521,9 +10175,7 @@
                 "3300042987",
                 "3300047550"
             ],
-            "samp_name": {
-                "has_raw_value": "tombigeeriver_2019_sw_WHONDRS-S19S_0020"
-            },
+            "samp_name": "tombigeeriver_2019_sw_WHONDRS-S19S_0020",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258391"
             ],
@@ -10583,9 +10235,7 @@
             "img_identifiers": [
                 "3300046778"
             ],
-            "samp_name": {
-                "has_raw_value": "lajara_2019_sw_WHONDRS-S19S_0034"
-            },
+            "samp_name": "lajara_2019_sw_WHONDRS-S19S_0034",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258405"
             ],
@@ -10643,9 +10293,7 @@
                 "3300046820",
                 "3300043419"
             ],
-            "samp_name": {
-                "has_raw_value": "umpqua_2019_sw_WHONDRS-S19S_0079"
-            },
+            "samp_name": "umpqua_2019_sw_WHONDRS-S19S_0079",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258443"
             ],
@@ -10706,9 +10354,7 @@
                 "3300047478",
                 "3300043431"
             ],
-            "samp_name": {
-                "has_raw_value": "orco_2019_sw_WHONDRS-S19S_0018"
-            },
+            "samp_name": "orco_2019_sw_WHONDRS-S19S_0018",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258461"
             ],
@@ -10768,9 +10414,7 @@
             "img_identifiers": [
                 "3300045542"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_451"
-            },
+            "samp_name": "NASQAN2011_451",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260865"
             ],
@@ -10828,9 +10472,7 @@
             "img_identifiers": [
                 "3300047284"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_111"
-            },
+            "samp_name": "NASQAN2015_111",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260906"
             ],
@@ -10887,9 +10529,7 @@
             "img_identifiers": [
                 "3300051209"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_165"
-            },
+            "samp_name": "NASQAN2015_165",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260912"
             ],
@@ -10946,9 +10586,7 @@
             "img_identifiers": [
                 "3300045440"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_028"
-            },
+            "samp_name": "NASQAN2011_028",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260794"
             ],
@@ -11006,9 +10644,7 @@
             "img_identifiers": [
                 "3300045533"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_256"
-            },
+            "samp_name": "NASQAN2011_256",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260823"
             ],
@@ -11066,9 +10702,7 @@
             "img_identifiers": [
                 "3300045584"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_435"
-            },
+            "samp_name": "NASQAN2011_435",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260864"
             ],
@@ -11126,9 +10760,7 @@
             "img_identifiers": [
                 "3300045587"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_275"
-            },
+            "samp_name": "NASQAN2011_275",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260869"
             ],
@@ -11186,9 +10818,7 @@
             "img_identifiers": [
                 "3300047287"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_172"
-            },
+            "samp_name": "NASQAN2015_172",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260913"
             ],
@@ -11245,9 +10875,7 @@
             "img_identifiers": [
                 "3300047288"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_174"
-            },
+            "samp_name": "NASQAN2015_174",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260914"
             ],
@@ -11304,9 +10932,7 @@
             "img_identifiers": [
                 "3300047291"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_016"
-            },
+            "samp_name": "NASQAN2016_016",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260922"
             ],
@@ -11363,9 +10989,7 @@
             "img_identifiers": [
                 "3300049009"
             ],
-            "samp_name": {
-                "has_raw_value": "Nenets Autonomous Okrug, Russia - Ob' 2004-2"
-            },
+            "samp_name": "Nenets Autonomous Okrug, Russia - Ob' 2004-2",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260949"
             ],
@@ -11422,9 +11046,7 @@
             "img_identifiers": [
                 "3300047401"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA244"
-            },
+            "samp_name": "ROCA244",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260965"
             ],
@@ -11481,9 +11103,7 @@
             "img_identifiers": [
                 "3300046764"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_096"
-            },
+            "samp_name": "NASQAN2011_096",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260802"
             ],
@@ -11541,9 +11161,7 @@
             "img_identifiers": [
                 "3300045538"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_155"
-            },
+            "samp_name": "NASQAN2010_155",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260842"
             ],
@@ -11601,9 +11219,7 @@
             "img_identifiers": [
                 "3300045540"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_127"
-            },
+            "samp_name": "NASQAN2010_127",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260851"
             ],
@@ -11661,9 +11277,7 @@
             "img_identifiers": [
                 "3300047393"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_114"
-            },
+            "samp_name": "NASQAN2015_114",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260907"
             ],
@@ -11720,9 +11334,7 @@
             "img_identifiers": [
                 "3300047399"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA175"
-            },
+            "samp_name": "ROCA175",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260961"
             ],
@@ -11779,9 +11391,7 @@
             "img_identifiers": [
                 "3300047403"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA179"
-            },
+            "samp_name": "ROCA179",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260967"
             ],
@@ -11839,9 +11449,7 @@
                 "3300049925",
                 "3300044214"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_017"
-            },
+            "samp_name": "CONGO_017",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278651"
             ],
@@ -11899,9 +11507,7 @@
             "img_identifiers": [
                 "3300050332"
             ],
-            "samp_name": {
-                "has_raw_value": "king_2019_sed_WHONDRS-S19S_0016"
-            },
+            "samp_name": "king_2019_sed_WHONDRS-S19S_0016",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305612"
             ],
@@ -11958,9 +11564,7 @@
             "img_identifiers": [
                 "3300056590"
             ],
-            "samp_name": {
-                "has_raw_value": "pringlecreek_2019_sed_WHONDRS-S19S_0025"
-            },
+            "samp_name": "pringlecreek_2019_sed_WHONDRS-S19S_0025",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305620"
             ],
@@ -12017,9 +11621,7 @@
             "img_identifiers": [
                 "3300049492"
             ],
-            "samp_name": {
-                "has_raw_value": "columbia_2019_sed_WHONDRS-S19S_0036"
-            },
+            "samp_name": "columbia_2019_sed_WHONDRS-S19S_0036",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305629"
             ],
@@ -12076,9 +11678,7 @@
             "img_identifiers": [
                 "3300049924"
             ],
-            "samp_name": {
-                "has_raw_value": "whiteclaycreek1_2019_sed_WHONDRS-S19S_0037"
-            },
+            "samp_name": "whiteclaycreek1_2019_sed_WHONDRS-S19S_0037",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305630"
             ],
@@ -12135,9 +11735,7 @@
             "img_identifiers": [
                 "3300057244"
             ],
-            "samp_name": {
-                "has_raw_value": "crookedriver_2019_sed_WHONDRS-S19S_0041"
-            },
+            "samp_name": "crookedriver_2019_sed_WHONDRS-S19S_0041",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305634"
             ],
@@ -12194,9 +11792,7 @@
             "img_identifiers": [
                 "3300049473"
             ],
-            "samp_name": {
-                "has_raw_value": "sharkriverslough_2019_sed_WHONDRS-S19S_0042"
-            },
+            "samp_name": "sharkriverslough_2019_sed_WHONDRS-S19S_0042",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305635"
             ],
@@ -12253,9 +11849,7 @@
             "img_identifiers": [
                 "3300049854"
             ],
-            "samp_name": {
-                "has_raw_value": "dorncreek_2019_sed_WHONDRS-S19S_0043"
-            },
+            "samp_name": "dorncreek_2019_sed_WHONDRS-S19S_0043",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305636"
             ],
@@ -12312,9 +11906,7 @@
             "img_identifiers": [
                 "3300043401"
             ],
-            "samp_name": {
-                "has_raw_value": "weststlouiscreek_2019_sw_WHONDRS-S19S_0027"
-            },
+            "samp_name": "weststlouiscreek_2019_sw_WHONDRS-S19S_0027",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258398"
             ],
@@ -12375,9 +11967,7 @@
                 "3300043410",
                 "3300047560"
             ],
-            "samp_name": {
-                "has_raw_value": "hugercreek_2019_sw_WHONDRS-S19S_0044"
-            },
+            "samp_name": "hugercreek_2019_sw_WHONDRS-S19S_0044",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258414"
             ],
@@ -12438,9 +12028,7 @@
                 "3300043421",
                 "3300047563"
             ],
-            "samp_name": {
-                "has_raw_value": "watershed3_2019_sw_WHONDRS-S19S_0084"
-            },
+            "samp_name": "watershed3_2019_sw_WHONDRS-S19S_0084",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258447"
             ],
@@ -12501,9 +12089,7 @@
                 "3300043424",
                 "3300046808"
             ],
-            "samp_name": {
-                "has_raw_value": "dobsoncreek_2019_sw_WHONDRS-S19S_0087"
-            },
+            "samp_name": "dobsoncreek_2019_sw_WHONDRS-S19S_0087",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258450"
             ],
@@ -12564,9 +12150,7 @@
                 "3300043432",
                 "3300047479"
             ],
-            "samp_name": {
-                "has_raw_value": "cobbmillcreek_2019_sw_WHONDRS-S19S_0090"
-            },
+            "samp_name": "cobbmillcreek_2019_sw_WHONDRS-S19S_0090",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258463"
             ],
@@ -12626,9 +12210,7 @@
             "img_identifiers": [
                 "3300041984"
             ],
-            "samp_name": {
-                "has_raw_value": "blackearthcreek_2019_sw_WHONDRS-S19S_0061"
-            },
+            "samp_name": "blackearthcreek_2019_sw_WHONDRS-S19S_0061",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258249"
             ],
@@ -12689,9 +12271,7 @@
                 "3300047548",
                 "3300043399"
             ],
-            "samp_name": {
-                "has_raw_value": "lewisrun_2019_sw_WHONDRS-S19S_0014"
-            },
+            "samp_name": "lewisrun_2019_sw_WHONDRS-S19S_0014",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258388"
             ],
@@ -12751,9 +12331,7 @@
             "img_identifiers": [
                 "3300044540"
             ],
-            "samp_name": {
-                "has_raw_value": "whiteclaycreek2_2019_sw_WHONDRS-S19S_0038"
-            },
+            "samp_name": "whiteclaycreek2_2019_sw_WHONDRS-S19S_0038",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258409"
             ],
@@ -12811,9 +12389,7 @@
                 "3300047561",
                 "3300043414"
             ],
-            "samp_name": {
-                "has_raw_value": "oksrukuyikcreek_2019_sw_WHONDRS-S19S_0050"
-            },
+            "samp_name": "oksrukuyikcreek_2019_sw_WHONDRS-S19S_0050",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258419"
             ],
@@ -12873,9 +12449,7 @@
             "img_identifiers": [
                 "3300044804"
             ],
-            "samp_name": {
-                "has_raw_value": "cariboucreek_2019_sw_WHONDRS-S19S_0051"
-            },
+            "samp_name": "cariboucreek_2019_sw_WHONDRS-S19S_0051",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258420"
             ],
@@ -12929,9 +12503,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "augustacreek_2019_sw_WHONDRS-S19S_0067"
-            },
+            "samp_name": "augustacreek_2019_sw_WHONDRS-S19S_0067",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258250"
             ],
@@ -12992,9 +12564,7 @@
                 "3300047485",
                 "3300042108"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_01_2020_B_hypo"
-            },
+            "samp_name": "Yojoa_01_2020_B_hypo",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258259"
             ],
@@ -13059,9 +12629,7 @@
             "img_identifiers": [
                 "3300046787"
             ],
-            "samp_name": {
-                "has_raw_value": "southforkpolouse_2019_sw_WHONDRS-S19S_0055"
-            },
+            "samp_name": "southforkpolouse_2019_sw_WHONDRS-S19S_0055",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258424"
             ],
@@ -13119,9 +12687,7 @@
                 "3300043450",
                 "3300046806"
             ],
-            "samp_name": {
-                "has_raw_value": "columbiariver2_2019_sw_WHONDRS-S19S_0076"
-            },
+            "samp_name": "columbiariver2_2019_sw_WHONDRS-S19S_0076",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258441"
             ],
@@ -13182,9 +12748,7 @@
                 "3300048625",
                 "3300043418"
             ],
-            "samp_name": {
-                "has_raw_value": "littlewolfcreek_2019_sw_WHONDRS-S19S_0078"
-            },
+            "samp_name": "littlewolfcreek_2019_sw_WHONDRS-S19S_0078",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258442"
             ],
@@ -13244,9 +12808,7 @@
             "img_identifiers": [
                 "3300044806"
             ],
-            "samp_name": {
-                "has_raw_value": "woodbrook_2019_sw_WHONDRS-S19S_0093"
-            },
+            "samp_name": "woodbrook_2019_sw_WHONDRS-S19S_0093",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258453"
             ],
@@ -13303,9 +12865,7 @@
             "img_identifiers": [
                 "3300046762"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_034"
-            },
+            "samp_name": "NASQAN2011_034",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260796"
             ],
@@ -13363,9 +12923,7 @@
             "img_identifiers": [
                 "3300052320"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_168"
-            },
+            "samp_name": "NASQAN2011_168",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260804"
             ],
@@ -13423,9 +12981,7 @@
             "img_identifiers": [
                 "3300045539"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_130"
-            },
+            "samp_name": "NASQAN2012_130",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260848"
             ],
@@ -13483,9 +13039,7 @@
             "img_identifiers": [
                 "3300045588"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_458"
-            },
+            "samp_name": "NASQAN2011_458",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260870"
             ],
@@ -13543,9 +13097,7 @@
             "img_identifiers": [
                 "3300047280"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_047"
-            },
+            "samp_name": "NASQAN2015_047",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260898"
             ],
@@ -13602,9 +13154,7 @@
             "img_identifiers": [
                 "3300047297"
             ],
-            "samp_name": {
-                "has_raw_value": "ME060026"
-            },
+            "samp_name": "ME060026",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260938"
             ],
@@ -13662,9 +13212,7 @@
             "img_identifiers": [
                 "3300047306"
             ],
-            "samp_name": {
-                "has_raw_value": "Yenisey 2004-2"
-            },
+            "samp_name": "Yenisey 2004-2",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260952"
             ],
@@ -13721,9 +13269,7 @@
             "img_identifiers": [
                 "3300047402"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA142"
-            },
+            "samp_name": "ROCA142",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260966"
             ],
@@ -13780,9 +13326,7 @@
             "img_identifiers": [
                 "3300045432"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_057"
-            },
+            "samp_name": "NASQAN2011_057",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260799"
             ],
@@ -13840,9 +13384,7 @@
             "img_identifiers": [
                 "3300046765"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_172"
-            },
+            "samp_name": "NASQAN2011_172",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260805"
             ],
@@ -13900,9 +13442,7 @@
             "img_identifiers": [
                 "3300046775"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2012_132"
-            },
+            "samp_name": "NASQAN2012_132",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260849"
             ],
@@ -13960,9 +13500,7 @@
             "img_identifiers": [
                 "3300045586"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_265"
-            },
+            "samp_name": "NASQAN2011_265",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260867"
             ],
@@ -14020,9 +13558,7 @@
             "img_identifiers": [
                 "3300047389"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_141"
-            },
+            "samp_name": "NASQAN2014_141",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260885"
             ],
@@ -14079,9 +13615,7 @@
             "img_identifiers": [
                 "3300047274"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_185"
-            },
+            "samp_name": "NASQAN2014_185",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260887"
             ],
@@ -14138,9 +13672,7 @@
             "img_identifiers": [
                 "3300047302"
             ],
-            "samp_name": {
-                "has_raw_value": "Yukon 2004-3"
-            },
+            "samp_name": "Yukon 2004-3",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260943"
             ],
@@ -14197,9 +13729,7 @@
             "img_identifiers": [
                 "3300051163"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA197"
-            },
+            "samp_name": "ROCA197",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260968"
             ],
@@ -14256,9 +13786,7 @@
             "img_identifiers": [
                 "3300046768"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_217"
-            },
+            "samp_name": "NASQAN2011_217",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260812"
             ],
@@ -14315,9 +13843,7 @@
             "img_identifiers": [
                 "3300045532"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_250"
-            },
+            "samp_name": "NASQAN2011_250",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260822"
             ],
@@ -14375,9 +13901,7 @@
             "img_identifiers": [
                 "3300045535"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_282"
-            },
+            "samp_name": "NASQAN2011_282",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260826"
             ],
@@ -14435,9 +13959,7 @@
             "img_identifiers": [
                 "3300045579"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_286"
-            },
+            "samp_name": "NASQAN2011_286",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260827"
             ],
@@ -14495,9 +14017,7 @@
             "img_identifiers": [
                 "3300046043"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_401"
-            },
+            "samp_name": "NASQAN2011_401",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260855"
             ],
@@ -14555,9 +14075,7 @@
             "img_identifiers": [
                 "3300047663"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_002"
-            },
+            "samp_name": "NASQAN2015_002",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260891"
             ],
@@ -14614,9 +14132,7 @@
             "img_identifiers": [
                 "3300047289"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_208"
-            },
+            "samp_name": "NASQAN2015_208",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260917"
             ],
@@ -14673,9 +14189,7 @@
             "img_identifiers": [
                 "3300047397"
             ],
-            "samp_name": {
-                "has_raw_value": "Kolyma 2004-6"
-            },
+            "samp_name": "Kolyma 2004-6",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260958"
             ],
@@ -14732,9 +14246,7 @@
             "img_identifiers": [
                 "3300044296"
             ],
-            "samp_name": {
-                "has_raw_value": "River, Brazzaville, Congo - CONGO_065"
-            },
+            "samp_name": "River, Brazzaville, Congo - CONGO_065",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278648"
             ],
@@ -14792,9 +14304,7 @@
             "img_identifiers": [
                 "3300049858"
             ],
-            "samp_name": {
-                "has_raw_value": "middleoconee_2019_sed_WHONDRS-S19S_0011"
-            },
+            "samp_name": "middleoconee_2019_sed_WHONDRS-S19S_0011",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305607"
             ],
@@ -14855,9 +14365,7 @@
             "img_identifiers": [
                 "3300049847"
             ],
-            "samp_name": {
-                "has_raw_value": "hopbrook_2019_sed_WHONDRS-S19S_0012"
-            },
+            "samp_name": "hopbrook_2019_sed_WHONDRS-S19S_0012",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305608"
             ],
@@ -14914,9 +14422,7 @@
             "img_identifiers": [
                 "3300049842"
             ],
-            "samp_name": {
-                "has_raw_value": "tombigeeriver_2019_sed_WHONDRS-S19S_0020"
-            },
+            "samp_name": "tombigeeriver_2019_sed_WHONDRS-S19S_0020",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305616"
             ],
@@ -14973,9 +14479,7 @@
             "img_identifiers": [
                 "3300049923"
             ],
-            "samp_name": {
-                "has_raw_value": "weststlouiscreek_2019_sed_WHONDRS-S19S_0027"
-            },
+            "samp_name": "weststlouiscreek_2019_sed_WHONDRS-S19S_0027",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305622"
             ],
@@ -15032,9 +14536,7 @@
             "img_identifiers": [
                 "3300049489"
             ],
-            "samp_name": {
-                "has_raw_value": "sycamorecreek_2019_sed_WHONDRS-S19S_0028"
-            },
+            "samp_name": "sycamorecreek_2019_sed_WHONDRS-S19S_0028",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305623"
             ],
@@ -15091,9 +14593,7 @@
             "img_identifiers": [
                 "3300049856"
             ],
-            "samp_name": {
-                "has_raw_value": "marthacreek_2019_sed_WHONDRS-S19S_0030"
-            },
+            "samp_name": "marthacreek_2019_sed_WHONDRS-S19S_0030",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305625"
             ],
@@ -15150,9 +14650,7 @@
             "img_identifiers": [
                 "3300049491"
             ],
-            "samp_name": {
-                "has_raw_value": "marshallgulch_2019_sed_WHONDRS-S19S_0035"
-            },
+            "samp_name": "marshallgulch_2019_sed_WHONDRS-S19S_0035",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305628"
             ],
@@ -15209,9 +14707,7 @@
             "img_identifiers": [
                 "3300049472"
             ],
-            "samp_name": {
-                "has_raw_value": "kingscreek_2019_sed_WHONDRS-S19S_0040"
-            },
+            "samp_name": "kingscreek_2019_sed_WHONDRS-S19S_0040",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305633"
             ],
@@ -15268,9 +14764,7 @@
             "img_identifiers": [
                 "3300049474"
             ],
-            "samp_name": {
-                "has_raw_value": "hugercreek_2019_sed_WHONDRS-S19S_0044"
-            },
+            "samp_name": "hugercreek_2019_sed_WHONDRS-S19S_0044",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305637"
             ],
@@ -15327,9 +14821,7 @@
             "img_identifiers": [
                 "3300049475"
             ],
-            "samp_name": {
-                "has_raw_value": "kuparukriver_2019_sed_WHONDRS-S19S_0047"
-            },
+            "samp_name": "kuparukriver_2019_sed_WHONDRS-S19S_0047",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305638"
             ],
@@ -15386,9 +14878,7 @@
             "img_identifiers": [
                 "3300049227"
             ],
-            "samp_name": {
-                "has_raw_value": "timsbranch_2019_sed_WHONDRS-S19S_0057"
-            },
+            "samp_name": "timsbranch_2019_sed_WHONDRS-S19S_0057",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305642"
             ],
@@ -15445,9 +14935,7 @@
             "img_identifiers": [
                 "3300049479"
             ],
-            "samp_name": {
-                "has_raw_value": "lowercolorado_2019_sed_WHONDRS-S19S_0063"
-            },
+            "samp_name": "lowercolorado_2019_sed_WHONDRS-S19S_0063",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305645"
             ],
@@ -15504,9 +14992,7 @@
             "img_identifiers": [
                 "3300049826"
             ],
-            "samp_name": {
-                "has_raw_value": "littlewolfcreek_2019_sed_WHONDRS-S19S_0078"
-            },
+            "samp_name": "littlewolfcreek_2019_sed_WHONDRS-S19S_0078",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305656"
             ],
@@ -15563,9 +15049,7 @@
             "img_identifiers": [
                 "3300043372"
             ],
-            "samp_name": {
-                "has_raw_value": "thompson_2019_sw_WHONDRS-S195_0003"
-            },
+            "samp_name": "thompson_2019_sw_WHONDRS-S195_0003",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258378"
             ],
@@ -15626,9 +15110,7 @@
                 "3300047547",
                 "3300043398"
             ],
-            "samp_name": {
-                "has_raw_value": "poseycreek_2019_sw_WHONDRS-S19S_0013"
-            },
+            "samp_name": "poseycreek_2019_sw_WHONDRS-S19S_0013",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258387"
             ],
@@ -15688,9 +15170,7 @@
             "img_identifiers": [
                 "3300046777"
             ],
-            "samp_name": {
-                "has_raw_value": "mcdi_2019_sw_WHONDRS-S19S_0017"
-            },
+            "samp_name": "mcdi_2019_sw_WHONDRS-S19S_0017",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258390"
             ],
@@ -15747,9 +15227,7 @@
             "img_identifiers": [
                 "3300043413"
             ],
-            "samp_name": {
-                "has_raw_value": "guil_2019_sw_WHONDRS-S19S_0049"
-            },
+            "samp_name": "guil_2019_sw_WHONDRS-S19S_0049",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258418"
             ],
@@ -15809,9 +15287,7 @@
             "img_identifiers": [
                 "3300041988"
             ],
-            "samp_name": {
-                "has_raw_value": "stroublescreek_2019_sw_WHONDRS-S19S_0089"
-            },
+            "samp_name": "stroublescreek_2019_sw_WHONDRS-S19S_0089",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258255"
             ],
@@ -15872,9 +15348,7 @@
                 "3300042111",
                 "3300047487"
             ],
-            "samp_name": {
-                "has_raw_value": "Yojoa_06_2019_E_epi"
-            },
+            "samp_name": "Yojoa_06_2019_E_epi",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258262"
             ],
@@ -15940,9 +15414,7 @@
                 "3300047477",
                 "3300043430"
             ],
-            "samp_name": {
-                "has_raw_value": "flintriver_2019_sw_WHONDRS-S19S_0015"
-            },
+            "samp_name": "flintriver_2019_sw_WHONDRS-S19S_0015",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258460"
             ],
@@ -16003,9 +15475,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "altamaha_2019_sw_WHONDRS-S19S_0010"
-            },
+            "samp_name": "altamaha_2019_sw_WHONDRS-S19S_0010",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258245"
             ],
@@ -16066,9 +15536,7 @@
                 "3300047553",
                 "3300043443"
             ],
-            "samp_name": {
-                "has_raw_value": "blueriver_2019_sw_WHONDRS-S19S_0024"
-            },
+            "samp_name": "blueriver_2019_sw_WHONDRS-S19S_0024",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258395"
             ],
@@ -16129,9 +15597,7 @@
                 "3300043406",
                 "3300048671"
             ],
-            "samp_name": {
-                "has_raw_value": "marshallgulch_2019_sw_WHONDRS-S19S_0035"
-            },
+            "samp_name": "marshallgulch_2019_sw_WHONDRS-S19S_0035",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258406"
             ],
@@ -16191,9 +15657,7 @@
             "img_identifiers": [
                 "3300041998"
             ],
-            "samp_name": {
-                "has_raw_value": "columbiariver2_2019_sw_WHONDRS-S19S_0076"
-            },
+            "samp_name": "columbiariver2_2019_sw_WHONDRS-S19S_0076",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258252"
             ],
@@ -16253,9 +15717,7 @@
             "img_identifiers": [
                 "3300043447"
             ],
-            "samp_name": {
-                "has_raw_value": "yakimariver_2019_sw_WHONDRS-S19S_0060"
-            },
+            "samp_name": "yakimariver_2019_sw_WHONDRS-S19S_0060",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258427"
             ],
@@ -16316,9 +15778,7 @@
                 "3300043422",
                 "3300046807"
             ],
-            "samp_name": {
-                "has_raw_value": "morescreek_2019_sw_WHONDRS-S19S_0085"
-            },
+            "samp_name": "morescreek_2019_sw_WHONDRS-S19S_0085",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258448"
             ],
@@ -16378,9 +15838,7 @@
             "img_identifiers": [
                 "3300043423"
             ],
-            "samp_name": {
-                "has_raw_value": "redbuttecreek_2019_sw_WHONDRS-S19S_0086"
-            },
+            "samp_name": "redbuttecreek_2019_sw_WHONDRS-S19S_0086",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258449"
             ],
@@ -16440,9 +15898,7 @@
             "img_identifiers": [
                 "3300051214"
             ],
-            "samp_name": {
-                "has_raw_value": "timsbranch_2019_sw_WHONDRS-S19S_0057"
-            },
+            "samp_name": "timsbranch_2019_sw_WHONDRS-S19S_0057",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258464"
             ],
@@ -16500,9 +15956,7 @@
                 "3300043434",
                 "3300047480"
             ],
-            "samp_name": {
-                "has_raw_value": "jordanrivershai3_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "jordanrivershai3_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258467"
             ],
@@ -16563,9 +16017,7 @@
                 "3300042198",
                 "3300047482"
             ],
-            "samp_name": {
-                "has_raw_value": "jordanrivershai6_2019_sw_WHONDRS-S19S_0058"
-            },
+            "samp_name": "jordanrivershai6_2019_sw_WHONDRS-S19S_0058",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258242"
             ],
@@ -16622,9 +16074,7 @@
                 }
             },
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "blythe_2019_sw_WHONDRS-S19S_0092"
-            },
+            "samp_name": "blythe_2019_sw_WHONDRS-S19S_0092",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258256"
             ],
@@ -16684,9 +16134,7 @@
             "img_identifiers": [
                 "3300041990"
             ],
-            "samp_name": {
-                "has_raw_value": "greatmiami_2019_sw_WHONDRS-S19S_0099"
-            },
+            "samp_name": "greatmiami_2019_sw_WHONDRS-S19S_0099",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258257"
             ],
@@ -16747,9 +16195,7 @@
                 "3300047556",
                 "3300043445"
             ],
-            "samp_name": {
-                "has_raw_value": "sycamorecreek_2019_sw_WHONDRS-S19S_0028"
-            },
+            "samp_name": "sycamorecreek_2019_sw_WHONDRS-S19S_0028",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258399"
             ],
@@ -16810,9 +16256,7 @@
                 "3300043446",
                 "3300046804"
             ],
-            "samp_name": {
-                "has_raw_value": "pamunkeyriver_2019_sw_WHONDRS-S19S_0054"
-            },
+            "samp_name": "pamunkeyriver_2019_sw_WHONDRS-S19S_0054",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0258423"
             ],
@@ -16872,9 +16316,7 @@
             "img_identifiers": [
                 "3300047277"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_010"
-            },
+            "samp_name": "NASQAN2015_010",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260892"
             ],
@@ -16931,9 +16373,7 @@
             "img_identifiers": [
                 "3300047293"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_159"
-            },
+            "samp_name": "NASQAN2016_159",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260933"
             ],
@@ -16990,9 +16430,7 @@
             "img_identifiers": [
                 "3300047406"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_053"
-            },
+            "samp_name": "CONGO_053",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260972"
             ],
@@ -17050,9 +16488,7 @@
             "img_identifiers": [
                 "3300045425"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_051"
-            },
+            "samp_name": "NASQAN2011_051",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260798"
             ],
@@ -17110,9 +16546,7 @@
             "img_identifiers": [
                 "3300046767"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_198"
-            },
+            "samp_name": "NASQAN2011_198",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260809"
             ],
@@ -17169,9 +16603,7 @@
             "img_identifiers": [
                 "3300047273"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_144"
-            },
+            "samp_name": "NASQAN2014_144",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260886"
             ],
@@ -17228,9 +16660,7 @@
             "img_identifiers": [
                 "3300047279"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2015_015"
-            },
+            "samp_name": "NASQAN2015_015",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260895"
             ],
@@ -17287,9 +16717,7 @@
             "img_identifiers": [
                 "3300047407"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_061"
-            },
+            "samp_name": "CONGO_061",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260976"
             ],
@@ -17347,9 +16775,7 @@
             "img_identifiers": [
                 "3300045422"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2010_121"
-            },
+            "samp_name": "NASQAN2010_121",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260793"
             ],
@@ -17407,9 +16833,7 @@
             "img_identifiers": [
                 "3300045528"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_209"
-            },
+            "samp_name": "NASQAN2011_209",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260810"
             ],
@@ -17466,9 +16890,7 @@
             "img_identifiers": [
                 "3300045529"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_219"
-            },
+            "samp_name": "NASQAN2011_219",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260813"
             ],
@@ -17525,9 +16947,7 @@
             "img_identifiers": [
                 "3300045537"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_333"
-            },
+            "samp_name": "NASQAN2011_333",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260830"
             ],
@@ -17585,9 +17005,7 @@
             "img_identifiers": [
                 "3300046772"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2011_337"
-            },
+            "samp_name": "NASQAN2011_337",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260831"
             ],
@@ -17645,9 +17063,7 @@
             "img_identifiers": [
                 "3300045526"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2014_035"
-            },
+            "samp_name": "NASQAN2014_035",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260881"
             ],
@@ -17704,9 +17120,7 @@
             "img_identifiers": [
                 "3300047456"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_060"
-            },
+            "samp_name": "NASQAN2016_060",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260925"
             ],
@@ -17763,9 +17177,7 @@
             "img_identifiers": [
                 "3300047295"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_178"
-            },
+            "samp_name": "NASQAN2016_178",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260935"
             ],
@@ -17822,9 +17234,7 @@
             "img_identifiers": [
                 "3300047296"
             ],
-            "samp_name": {
-                "has_raw_value": "NASQAN2016_179"
-            },
+            "samp_name": "NASQAN2016_179",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260936"
             ],
@@ -17881,9 +17291,7 @@
             "img_identifiers": [
                 "3300047400"
             ],
-            "samp_name": {
-                "has_raw_value": "ROCA268"
-            },
+            "samp_name": "ROCA268",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0260962"
             ],
@@ -17940,9 +17348,7 @@
             "img_identifiers": [
                 "3300043823"
             ],
-            "samp_name": {
-                "has_raw_value": "CONGO_040"
-            },
+            "samp_name": "CONGO_040",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0278653"
             ],
@@ -18000,9 +17406,7 @@
             "img_identifiers": [
                 "3300049860"
             ],
-            "samp_name": {
-                "has_raw_value": "mcdi_2019_sed_WHONDRS-S19S_0017"
-            },
+            "samp_name": "mcdi_2019_sed_WHONDRS-S19S_0017",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305613"
             ],
@@ -18059,9 +17463,7 @@
             "img_identifiers": [
                 "3300056589"
             ],
-            "samp_name": {
-                "has_raw_value": "walkerbranch_2019_sed_WHONDRS-S19S_0019"
-            },
+            "samp_name": "walkerbranch_2019_sed_WHONDRS-S19S_0019",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305615"
             ],
@@ -18118,9 +17520,7 @@
             "img_identifiers": [
                 "3300056966"
             ],
-            "samp_name": {
-                "has_raw_value": "redbuttecreek_2019_sed_WHONDRS-S19S_0029"
-            },
+            "samp_name": "redbuttecreek_2019_sed_WHONDRS-S19S_0029",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305624"
             ],
@@ -18177,9 +17577,7 @@
             "img_identifiers": [
                 "3300049857"
             ],
-            "samp_name": {
-                "has_raw_value": "whiteclaycreek2_2019_sed_WHONDRS-S19S_0038"
-            },
+            "samp_name": "whiteclaycreek2_2019_sed_WHONDRS-S19S_0038",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305631"
             ],
@@ -18236,9 +17634,7 @@
             "img_identifiers": [
                 "3300049480"
             ],
-            "samp_name": {
-                "has_raw_value": "shaverscreek_2019_sed_WHONDRS-S19S_0064"
-            },
+            "samp_name": "shaverscreek_2019_sed_WHONDRS-S19S_0064",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305646"
             ],
@@ -18295,9 +17691,7 @@
             "img_identifiers": [
                 "3300049228"
             ],
-            "samp_name": {
-                "has_raw_value": "watershed01_2019_sed_WHONDRS-S19S_0068"
-            },
+            "samp_name": "watershed01_2019_sed_WHONDRS-S19S_0068",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305648"
             ],
@@ -18354,9 +17748,7 @@
             "img_identifiers": [
                 "3300049825"
             ],
-            "samp_name": {
-                "has_raw_value": "cachelapoudre_2019_sed_WHONDRS-S19S_0077"
-            },
+            "samp_name": "cachelapoudre_2019_sed_WHONDRS-S19S_0077",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305655"
             ],
@@ -18413,9 +17805,7 @@
             "img_identifiers": [
                 "3300050381"
             ],
-            "samp_name": {
-                "has_raw_value": "copperriver_2019_sed_WHONDRS-S19S_0091"
-            },
+            "samp_name": "copperriver_2019_sed_WHONDRS-S19S_0091",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305664"
             ],

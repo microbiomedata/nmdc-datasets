@@ -36,9 +36,7 @@
             "img_identifiers": [
                 "3300046665"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co3_16_51 rhizosphere"
-            },
+            "samp_name": "BESC-904-Co3_16_51 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291773"
             ],
@@ -101,9 +99,7 @@
             "img_identifiers": [
                 "3300047319"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL1_34_16 rhizosphere"
-            },
+            "samp_name": "GW-9591-CL1_34_16 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291786"
             ],
@@ -166,9 +162,7 @@
             "img_identifiers": [
                 "3300049459"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co2_62_24 rhizosphere"
-            },
+            "samp_name": "GW-9591-Co2_62_24 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291790"
             ],
@@ -231,9 +225,7 @@
             "img_identifiers": [
                 "3300046528"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co1_24_3 rhizosphere"
-            },
+            "samp_name": "BESC-845-Co1_24_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291754"
             ],
@@ -296,9 +288,7 @@
             "img_identifiers": [
                 "3300046692"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co1_37_5 rhizosphere"
-            },
+            "samp_name": "GW-7986-Co1_37_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291783"
             ],
@@ -358,9 +348,7 @@
             "img_identifiers": [
                 "3300046782"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL2_65_22 soil"
-            },
+            "samp_name": "BESC-234-CL2_65_22 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291597"
             ],
@@ -419,9 +407,7 @@
             "img_identifiers": [
                 "3300049441"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co3_27_41 soil"
-            },
+            "samp_name": "BESC-307-Co3_27_41 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291609"
             ],
@@ -480,9 +466,7 @@
             "img_identifiers": [
                 "3300046784"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co3_15_40 soil"
-            },
+            "samp_name": "BESC-331-Co3_15_40 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291613"
             ],
@@ -541,9 +525,7 @@
             "img_identifiers": [
                 "3300046811"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL2_54_28 soil"
-            },
+            "samp_name": "BESC-351-CL2_54_28 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291615"
             ],
@@ -602,9 +584,7 @@
             "img_identifiers": [
                 "3300049443"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co2_42_17 soil"
-            },
+            "samp_name": "BESC-351-Co2_42_17 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291618"
             ],
@@ -663,9 +643,7 @@
             "img_identifiers": [
                 "3300046719"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co1_22_4 soil"
-            },
+            "samp_name": "BESC-56-Co1_22_4 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291633"
             ],
@@ -724,9 +702,7 @@
             "img_identifiers": [
                 "3300046796"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL2_42_16 soil"
-            },
+            "samp_name": "BESC-833-CL2_42_16 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291636"
             ],
@@ -785,9 +761,7 @@
             "img_identifiers": [
                 "3300049449"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co1_37_5 soil"
-            },
+            "samp_name": "GW-7986-Co1_37_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291674"
             ],
@@ -846,9 +820,7 @@
             "img_identifiers": [
                 "3300046834"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co1_27_3 soil"
-            },
+            "samp_name": "BESC-133-Co1_27_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291591"
             ],
@@ -907,9 +879,7 @@
             "img_identifiers": [
                 "3300046658"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co3_19_46 soil"
-            },
+            "samp_name": "BESC-133-Co3_19_46 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291593"
             ],
@@ -968,9 +938,7 @@
             "img_identifiers": [
                 "3300046838"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL3_77_6 soil"
-            },
+            "samp_name": "BESC-833-CL3_77_6 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291637"
             ],
@@ -1029,9 +997,7 @@
             "img_identifiers": [
                 "3300046723"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL2_50_11 soil"
-            },
+            "samp_name": "BESC-866-CL2_50_11 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291654"
             ],
@@ -1093,9 +1059,7 @@
             "img_identifiers": [
                 "3300053077"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL1_33_12 rhizosphere"
-            },
+            "samp_name": "BESC-285-CL1_33_12 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291713"
             ],
@@ -1158,9 +1122,7 @@
             "img_identifiers": [
                 "3300046515"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co2_62_25 rhizosphere"
-            },
+            "samp_name": "BESC-360-Co2_62_25 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291732"
             ],
@@ -1223,9 +1185,7 @@
             "img_identifiers": [
                 "3300046524"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co1_12_9 rhizosphere"
-            },
+            "samp_name": "BESC-847-Co1_12_9 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291760"
             ],
@@ -1288,9 +1248,7 @@
             "img_identifiers": [
                 "3300046462"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-86-CL2_69_17 rhizosphere"
-            },
+            "samp_name": "BESC-86-CL2_69_17 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291763"
             ],
@@ -1353,9 +1311,7 @@
             "img_identifiers": [
                 "3300046472"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL1_35_33 rhizosphere"
-            },
+            "samp_name": "BESC-13-CL1_35_33 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291692"
             ],
@@ -1418,9 +1374,7 @@
             "img_identifiers": [
                 "3300046531"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL2_41_30 rhizosphere"
-            },
+            "samp_name": "GW-11047-CL2_41_30 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291777"
             ],
@@ -1480,9 +1434,7 @@
             "img_identifiers": [
                 "3300046713"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL2_39_29 soil"
-            },
+            "samp_name": "BESC-13-CL2_39_29 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291583"
             ],
@@ -1541,9 +1493,7 @@
             "img_identifiers": [
                 "3300046815"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co2_47_23 soil"
-            },
+            "samp_name": "BESC-833-Co2_47_23 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291639"
             ],
@@ -1602,9 +1552,7 @@
             "img_identifiers": [
                 "3300046659"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co3_31_37 soil"
-            },
+            "samp_name": "BESC-833-Co3_31_37 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291640"
             ],
@@ -1663,9 +1611,7 @@
             "img_identifiers": [
                 "3300046724"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL3_75_7 soil"
-            },
+            "samp_name": "BESC-866-CL3_75_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291655"
             ],
@@ -1724,9 +1670,7 @@
             "img_identifiers": [
                 "3300047439"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co3_31_39 soil"
-            },
+            "samp_name": "GW-7986-Co3_31_39 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291676"
             ],
@@ -1785,9 +1729,7 @@
             "img_identifiers": [
                 "3300049452"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co3_35_48 soil"
-            },
+            "samp_name": "GW-9591-Co3_35_48 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291682"
             ],
@@ -1846,9 +1788,7 @@
             "img_identifiers": [
                 "3300047441"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co1_7_5 soil"
-            },
+            "samp_name": "SKWD-24-1-Co1_7_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291688"
             ],
@@ -1910,9 +1850,7 @@
             "img_identifiers": [
                 "3300047315"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL2_39_29 rhizosphere"
-            },
+            "samp_name": "BESC-13-CL2_39_29 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291693"
             ],
@@ -1975,9 +1913,7 @@
             "img_identifiers": [
                 "3300046458"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co3_19_46 rhizosphere"
-            },
+            "samp_name": "BESC-133-Co3_19_46 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291703"
             ],
@@ -2040,9 +1976,7 @@
             "img_identifiers": [
                 "3300047471"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-CL2_58_25 rhizosphere"
-            },
+            "samp_name": "SKWD-24-1-CL2_58_25 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291796"
             ],
@@ -2105,9 +2039,7 @@
             "img_identifiers": [
                 "3300053139"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co1_23_3 endosphere"
-            },
+            "samp_name": "BESC-234-Co1_23_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305849"
             ],
@@ -2170,9 +2102,7 @@
             "img_identifiers": [
                 "3300053146"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co2_42_17 endosphere"
-            },
+            "samp_name": "BESC-351-Co2_42_17 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305869"
             ],
@@ -2235,9 +2165,7 @@
             "img_identifiers": [
                 "3300053147"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co3_11_46 endosphere"
-            },
+            "samp_name": "BESC-351-Co3_11_46 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305870"
             ],
@@ -2300,9 +2228,7 @@
             "img_identifiers": [
                 "3300053108"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co2_50_25 endosphere"
-            },
+            "samp_name": "BESC-133-Co2_50_25 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305843"
             ],
@@ -2365,9 +2291,7 @@
             "img_identifiers": [
                 "3300053141"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL2_56_7 endosphere"
-            },
+            "samp_name": "BESC-285-CL2_56_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305855"
             ],
@@ -2430,9 +2354,7 @@
             "img_identifiers": [
                 "3300053727"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co3_31_37 endosphere"
-            },
+            "samp_name": "BESC-833-Co3_31_37 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305892"
             ],
@@ -2495,9 +2417,7 @@
             "img_identifiers": [
                 "3300053134"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co1_7_5 endosphere"
-            },
+            "samp_name": "SKWD-24-1-Co1_7_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305939"
             ],
@@ -2560,9 +2480,7 @@
             "img_identifiers": [
                 "3300053105"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co3_21_57 endosphere"
-            },
+            "samp_name": "BESC-13-Co3_21_57 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305838"
             ],
@@ -2625,9 +2543,7 @@
             "img_identifiers": [
                 "3300053094"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL1_24_28 endosphere"
-            },
+            "samp_name": "BESC-234-CL1_24_28 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305847"
             ],
@@ -2690,9 +2606,7 @@
             "img_identifiers": [
                 "3300053110"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL1_34_5 endosphere"
-            },
+            "samp_name": "BESC-258-CL1_34_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305852"
             ],
@@ -2755,9 +2669,7 @@
             "img_identifiers": [
                 "3300053097"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL2_56_12 endosphere"
-            },
+            "samp_name": "GW-9591-CL2_56_12 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305929"
             ],
@@ -2820,9 +2732,7 @@
             "img_identifiers": [
                 "3300046691"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co3_14_51 rhizosphere"
-            },
+            "samp_name": "GW-4579-Co3_14_51 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291782"
             ],
@@ -2885,9 +2795,7 @@
             "img_identifiers": [
                 "3300046557"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL1_25_34 rhizosphere"
-            },
+            "samp_name": "BESC-388-CL1_25_34 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291734"
             ],
@@ -2950,9 +2858,7 @@
             "img_identifiers": [
                 "3300046476"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-905-CL1_32_20 rhizosphere"
-            },
+            "samp_name": "BESC-905-CL1_32_20 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291774"
             ],
@@ -3015,9 +2921,7 @@
             "img_identifiers": [
                 "3300046499"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL1_24_28 rhizosphere"
-            },
+            "samp_name": "BESC-234-CL1_24_28 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291706"
             ],
@@ -3080,9 +2984,7 @@
             "img_identifiers": [
                 "3300046678"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL1_34_5 rhizosphere"
-            },
+            "samp_name": "BESC-258-CL1_34_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291711"
             ],
@@ -3142,9 +3044,7 @@
             "img_identifiers": [
                 "3300047310"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL2_57_8 soil"
-            },
+            "samp_name": "BESC-307-CL2_57_8 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291606"
             ],
@@ -3203,9 +3103,7 @@
             "img_identifiers": [
                 "3300046726"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co1_23_6 soil"
-            },
+            "samp_name": "BESC-360-Co1_23_6 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291665"
             ],
@@ -3264,9 +3162,7 @@
             "img_identifiers": [
                 "3300046799"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co1_14_4 soil"
-            },
+            "samp_name": "GW-4579-Co1_14_4 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291671"
             ],
@@ -3328,9 +3224,7 @@
             "img_identifiers": [
                 "3300047673"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL3_81_33 rhizosphere"
-            },
+            "samp_name": "BESC-198-CL3_81_33 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291705"
             ],
@@ -3393,9 +3287,7 @@
             "img_identifiers": [
                 "3300046794"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co1_27_3 rhizosphere"
-            },
+            "samp_name": "BESC-133-Co1_27_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291701"
             ],
@@ -3455,9 +3347,7 @@
             "img_identifiers": [
                 "3300046741"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co3_28_42 soil"
-            },
+            "samp_name": "BESC-845-Co3_28_42 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291646"
             ],
@@ -3516,9 +3406,7 @@
             "img_identifiers": [
                 "3300046725"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co3_27_48 soil"
-            },
+            "samp_name": "BESC-866-Co3_27_48 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291658"
             ],
@@ -3580,9 +3468,7 @@
             "img_identifiers": [
                 "3300046536"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL2_62_7 rhizosphere"
-            },
+            "samp_name": "BESC-133-CL2_62_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291699"
             ],
@@ -3645,9 +3531,7 @@
             "img_identifiers": [
                 "3300046511"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-CL2_55_18 rhizosphere"
-            },
+            "samp_name": "BESC-331-CL2_55_18 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291720"
             ],
@@ -3707,9 +3591,7 @@
             "img_identifiers": [
                 "3300047672"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co3_16_51 soil"
-            },
+            "samp_name": "BESC-904-Co3_16_51 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291663"
             ],
@@ -3768,9 +3650,7 @@
             "img_identifiers": [
                 "3300046510"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL3_72_14 soil"
-            },
+            "samp_name": "GW-4579-CL3_72_14 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291670"
             ],
@@ -3832,9 +3712,7 @@
             "img_identifiers": [
                 "3300046648"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co3_15_40 rhizosphere"
-            },
+            "samp_name": "BESC-331-Co3_15_40 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291723"
             ],
@@ -3897,9 +3775,7 @@
             "img_identifiers": [
                 "3300046475"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL1_31_22 rhizosphere"
-            },
+            "samp_name": "BESC-845-CL1_31_22 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291751"
             ],
@@ -3962,9 +3838,7 @@
             "img_identifiers": [
                 "3300047443"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co3_24_32 rhizosphere"
-            },
+            "samp_name": "SKWD-24-1-Co3_24_32 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291799"
             ],
@@ -4027,9 +3901,7 @@
             "img_identifiers": [
                 "3300053136"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL2_62_7 endosphere"
-            },
+            "samp_name": "BESC-133-CL2_62_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305840"
             ],
@@ -4092,9 +3964,7 @@
             "img_identifiers": [
                 "3300053111"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL2_67_23 endosphere"
-            },
+            "samp_name": "BESC-258-CL2_67_23 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305853"
             ],
@@ -4157,9 +4027,7 @@
             "img_identifiers": [
                 "3300053739"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co1_10_3 endosphere"
-            },
+            "samp_name": "BESC-351-Co1_10_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305868"
             ],
@@ -4222,9 +4090,7 @@
             "img_identifiers": [
                 "3300053096"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co1_14_4 endosphere"
-            },
+            "samp_name": "GW-4579-Co1_14_4 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305922"
             ],
@@ -4287,9 +4153,7 @@
             "img_identifiers": [
                 "3300053734"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL3_81_33 endosphere"
-            },
+            "samp_name": "BESC-198-CL3_81_33 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305846"
             ],
@@ -4352,9 +4216,7 @@
             "img_identifiers": [
                 "3300053150"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-470-CL2_38_23 endosphere"
-            },
+            "samp_name": "BESC-470-CL2_38_23 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305884"
             ],
@@ -4417,9 +4279,7 @@
             "img_identifiers": [
                 "3300053163"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL2_50_20 endosphere"
-            },
+            "samp_name": "GW-4579-CL2_50_20 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305920"
             ],
@@ -4482,9 +4342,7 @@
             "img_identifiers": [
                 "3300053140"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL1_33_12 endosphere"
-            },
+            "samp_name": "BESC-285-CL1_33_12 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305854"
             ],
@@ -4547,9 +4405,7 @@
             "img_identifiers": [
                 "3300053112"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL1_26_33 endosphere"
-            },
+            "samp_name": "BESC-307-CL1_26_33 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305856"
             ],
@@ -4612,9 +4468,7 @@
             "img_identifiers": [
                 "3300053089"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co1_12_7 endosphere"
-            },
+            "samp_name": "BESC-331-Co1_12_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305862"
             ],
@@ -4677,9 +4531,7 @@
             "img_identifiers": [
                 "3300053162"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL1_25_23 endosphere"
-            },
+            "samp_name": "GW-4579-CL1_25_23 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305919"
             ],
@@ -4742,9 +4594,7 @@
             "img_identifiers": [
                 "3300053098"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co1_16_8 endosphere"
-            },
+            "samp_name": "GW-9591-Co1_16_8 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305931"
             ],
@@ -4807,9 +4657,7 @@
             "img_identifiers": [
                 "3300053131"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co3_35_48 endosphere"
-            },
+            "samp_name": "GW-9591-Co3_35_48 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305933"
             ],
@@ -4872,9 +4720,7 @@
             "img_identifiers": [
                 "3300046474"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co1_31_6 rhizosphere"
-            },
+            "samp_name": "BESC-307-Co1_31_6 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291717"
             ],
@@ -4937,9 +4783,7 @@
             "img_identifiers": [
                 "3300046542"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co2_52_27 rhizosphere"
-            },
+            "samp_name": "BESC-234-Co2_52_27 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291709"
             ],
@@ -4999,9 +4843,7 @@
             "img_identifiers": [
                 "3300046716"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co2_62_25 soil"
-            },
+            "samp_name": "BESC-360-Co2_62_25 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291622"
             ],
@@ -5063,9 +4905,7 @@
             "img_identifiers": [
                 "3300046514"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL2_44_14 rhizosphere"
-            },
+            "samp_name": "BESC-360-CL2_44_14 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291730"
             ],
@@ -5128,9 +4968,7 @@
             "img_identifiers": [
                 "3300047469"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co3_31_39 rhizosphere"
-            },
+            "samp_name": "GW-7986-Co3_31_39 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291785"
             ],
@@ -5190,9 +5028,7 @@
             "img_identifiers": [
                 "3300046708"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co3_21_57 soil"
-            },
+            "samp_name": "BESC-13-Co3_21_57 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291587"
             ],
@@ -5251,9 +5087,7 @@
             "img_identifiers": [
                 "3300046498"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co1_31_6 soil"
-            },
+            "samp_name": "BESC-307-Co1_31_6 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291607"
             ],
@@ -5312,9 +5146,7 @@
             "img_identifiers": [
                 "3300046738"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co1_12_7 soil"
-            },
+            "samp_name": "BESC-331-Co1_12_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291611"
             ],
@@ -5373,9 +5205,7 @@
             "img_identifiers": [
                 "3300046789"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co2_50_17 soil"
-            },
+            "samp_name": "BESC-331-Co2_50_17 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291612"
             ],
@@ -5434,9 +5264,7 @@
             "img_identifiers": [
                 "3300046717"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL3_88_32 soil"
-            },
+            "samp_name": "BESC-448-CL3_88_32 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291631"
             ],
@@ -5498,9 +5326,7 @@
             "img_identifiers": [
                 "3300053078"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL1_27_10 rhizosphere"
-            },
+            "samp_name": "BESC-351-CL1_27_10 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291724"
             ],
@@ -5563,9 +5389,7 @@
             "img_identifiers": [
                 "3300046492"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co3_21_57 rhizosphere"
-            },
+            "samp_name": "BESC-13-Co3_21_57 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291697"
             ],
@@ -5628,9 +5452,7 @@
             "img_identifiers": [
                 "3300046663"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL3_77_6 rhizosphere"
-            },
+            "samp_name": "BESC-833-CL3_77_6 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291747"
             ],
@@ -5693,9 +5515,7 @@
             "img_identifiers": [
                 "3300046681"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL3_83_27 rhizosphere"
-            },
+            "samp_name": "BESC-847-CL3_83_27 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291759"
             ],
@@ -5755,9 +5575,7 @@
             "img_identifiers": [
                 "3300053075"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co2_54_7 soil"
-            },
+            "samp_name": "BESC-388-Co2_54_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291628"
             ],
@@ -5816,9 +5634,7 @@
             "img_identifiers": [
                 "3300046814"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co1_6_4 soil"
-            },
+            "samp_name": "BESC-833-Co1_6_4 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291638"
             ],
@@ -5877,9 +5693,7 @@
             "img_identifiers": [
                 "3300046747"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL2_41_30 soil"
-            },
+            "samp_name": "GW-11047-CL2_41_30 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291667"
             ],
@@ -5938,9 +5752,7 @@
             "img_identifiers": [
                 "3300049458"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co2_54_22 soil"
-            },
+            "samp_name": "SKWD-24-1-Co2_54_22 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291689"
             ],
@@ -6002,9 +5814,7 @@
             "img_identifiers": [
                 "3300046539"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co3_13_34 rhizosphere"
-            },
+            "samp_name": "BESC-360-Co3_13_34 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291733"
             ],
@@ -6067,9 +5877,7 @@
             "img_identifiers": [
                 "3300046453"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co3_8_57 rhizosphere"
-            },
+            "samp_name": "BESC-388-Co3_8_57 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291739"
             ],
@@ -6132,9 +5940,7 @@
             "img_identifiers": [
                 "3300046615"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co3_27_48 rhizosphere"
-            },
+            "samp_name": "BESC-866-Co3_27_48 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291768"
             ],
@@ -6197,9 +6003,7 @@
             "img_identifiers": [
                 "3300053101"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL2_39_29 endosphere"
-            },
+            "samp_name": "BESC-13-CL2_39_29 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305834"
             ],
@@ -6262,9 +6066,7 @@
             "img_identifiers": [
                 "3300053161"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co3_16_51 endosphere"
-            },
+            "samp_name": "BESC-904-Co3_16_51 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305915"
             ],
@@ -6327,9 +6129,7 @@
             "img_identifiers": [
                 "3300053732"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co3_23_35 endosphere"
-            },
+            "samp_name": "SKWA-24-3-Co3_23_35 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305937"
             ],
@@ -6392,9 +6192,7 @@
             "img_identifiers": [
                 "3300053733"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL1_35_33 endosphere"
-            },
+            "samp_name": "BESC-13-CL1_35_33 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305833"
             ],
@@ -6457,9 +6255,7 @@
             "img_identifiers": [
                 "3300053724"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co3_21_62 endosphere"
-            },
+            "samp_name": "BESC-234-Co3_21_62 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305851"
             ],
@@ -6522,9 +6318,7 @@
             "img_identifiers": [
                 "3300053122"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL3_77_6 endosphere"
-            },
+            "samp_name": "BESC-833-CL3_77_6 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305889"
             ],
@@ -6587,9 +6381,7 @@
             "img_identifiers": [
                 "3300053177"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL1_23_5 endosphere"
-            },
+            "samp_name": "GW-11047-CL1_23_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305917"
             ],
@@ -6652,9 +6444,7 @@
             "img_identifiers": [
                 "3300053730"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co2_68_28 endosphere"
-            },
+            "samp_name": "GW-7986-Co2_68_28 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305926"
             ],
@@ -6717,9 +6507,7 @@
             "img_identifiers": [
                 "3300053133"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co2_41_10 endosphere"
-            },
+            "samp_name": "SKWA-24-3-Co2_41_10 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305936"
             ],
@@ -6782,9 +6570,7 @@
             "img_identifiers": [
                 "3300053138"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL2_38_5 endosphere"
-            },
+            "samp_name": "BESC-198-CL2_38_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305845"
             ],
@@ -6847,9 +6633,7 @@
             "img_identifiers": [
                 "3300055283"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL1_25_23_RD_R2 endosphere"
-            },
+            "samp_name": "GW-4579-CL1_25_23_RD_R2 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305942"
             ],
@@ -6909,9 +6693,7 @@
             "img_identifiers": [
                 "3300047053"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co2_51_17 soil"
-            },
+            "samp_name": "BESC-904-Co2_51_17 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291662"
             ],
@@ -6973,9 +6755,7 @@
             "img_identifiers": [
                 "3300046491"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co2_41_23 rhizosphere"
-            },
+            "samp_name": "BESC-13-Co2_41_23 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291696"
             ],
@@ -7038,9 +6818,7 @@
             "img_identifiers": [
                 "3300046457"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co2_50_25 rhizosphere"
-            },
+            "samp_name": "BESC-133-Co2_50_25 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291702"
             ],
@@ -7103,9 +6881,7 @@
             "img_identifiers": [
                 "3300046461"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL3_80_19 rhizosphere"
-            },
+            "samp_name": "BESC-845-CL3_80_19 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291753"
             ],
@@ -7165,9 +6941,7 @@
             "img_identifiers": [
                 "3300046709"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL3_81_33 soil"
-            },
+            "samp_name": "BESC-198-CL3_81_33 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291595"
             ],
@@ -7229,9 +7003,7 @@
             "img_identifiers": [
                 "3300046518"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co1_22_4 rhizosphere"
-            },
+            "samp_name": "BESC-56-Co1_22_4 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291743"
             ],
@@ -7294,9 +7066,7 @@
             "img_identifiers": [
                 "3300047323"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co3_23_35 rhizosphere"
-            },
+            "samp_name": "SKWA-24-3-Co3_23_35 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291795"
             ],
@@ -7356,9 +7126,7 @@
             "img_identifiers": [
                 "3300053081"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL3_72_12 soil"
-            },
+            "samp_name": "BESC-360-CL3_72_12 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291621"
             ],
@@ -7417,9 +7185,7 @@
             "img_identifiers": [
                 "3300046835"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co1_32_7 soil"
-            },
+            "samp_name": "BESC-388-Co1_32_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291627"
             ],
@@ -7478,9 +7244,7 @@
             "img_identifiers": [
                 "3300053076"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co3_8_57 soil"
-            },
+            "samp_name": "BESC-388-Co3_8_57 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291629"
             ],
@@ -7539,9 +7303,7 @@
             "img_identifiers": [
                 "3300046818"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co1_24_3 soil"
-            },
+            "samp_name": "BESC-845-Co1_24_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291644"
             ],
@@ -7600,9 +7362,7 @@
             "img_identifiers": [
                 "3300047091"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co1_12_9 soil"
-            },
+            "samp_name": "BESC-847-Co1_12_9 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291650"
             ],
@@ -7661,9 +7421,7 @@
             "img_identifiers": [
                 "3300049448"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL1_23_5 soil"
-            },
+            "samp_name": "GW-11047-CL1_23_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291666"
             ],
@@ -7725,9 +7483,7 @@
             "img_identifiers": [
                 "3300046523"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co3_28_42 rhizosphere"
-            },
+            "samp_name": "BESC-845-Co3_28_42 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291756"
             ],
@@ -7787,9 +7543,7 @@
             "img_identifiers": [
                 "3300046736"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co1_23_3 soil"
-            },
+            "samp_name": "BESC-234-Co1_23_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291598"
             ],
@@ -7848,9 +7602,7 @@
             "img_identifiers": [
                 "3300049444"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co3_11_46 soil"
-            },
+            "samp_name": "BESC-351-Co3_11_46 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291619"
             ],
@@ -7909,9 +7661,7 @@
             "img_identifiers": [
                 "3300046740"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL3_80_19 soil"
-            },
+            "samp_name": "BESC-845-CL3_80_19 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291643"
             ],
@@ -7973,9 +7723,7 @@
             "img_identifiers": [
                 "3300047472"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co2_54_22 rhizosphere"
-            },
+            "samp_name": "SKWD-24-1-Co2_54_22 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291798"
             ],
@@ -8035,9 +7783,7 @@
             "img_identifiers": [
                 "3300048623"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co1_10_5 soil"
-            },
+            "samp_name": "BESC-866-Co1_10_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291656"
             ],
@@ -8096,9 +7842,7 @@
             "img_identifiers": [
                 "3300046823"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL2_57_20 soil"
-            },
+            "samp_name": "BESC-904-CL2_57_20 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291659"
             ],
@@ -8157,9 +7901,7 @@
             "img_identifiers": [
                 "3300046824"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL3_91_3 soil"
-            },
+            "samp_name": "BESC-904-CL3_91_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291660"
             ],
@@ -8221,9 +7963,7 @@
             "img_identifiers": [
                 "3300046506"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co1_30_3 rhizosphere"
-            },
+            "samp_name": "BESC-13-Co1_30_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291695"
             ],
@@ -8286,9 +8026,7 @@
             "img_identifiers": [
                 "3300053084"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL2_65_22 rhizosphere"
-            },
+            "samp_name": "BESC-234-CL2_65_22 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291707"
             ],
@@ -8351,9 +8089,7 @@
             "img_identifiers": [
                 "3300046455"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL1_26_33 rhizosphere"
-            },
+            "samp_name": "BESC-307-CL1_26_33 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291715"
             ],
@@ -8416,9 +8152,7 @@
             "img_identifiers": [
                 "3300046559"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL2_50_20 rhizosphere"
-            },
+            "samp_name": "GW-4579-CL2_50_20 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291779"
             ],
@@ -8481,9 +8215,7 @@
             "img_identifiers": [
                 "3300048089"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL3_84_27 rhizosphere"
-            },
+            "samp_name": "BESC-351-CL3_84_27 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291726"
             ],
@@ -8546,9 +8278,7 @@
             "img_identifiers": [
                 "3300046810"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co2_51_17 rhizosphere"
-            },
+            "samp_name": "BESC-904-Co2_51_17 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291772"
             ],
@@ -8608,9 +8338,7 @@
             "img_identifiers": [
                 "3300046791"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL1_25_34 soil"
-            },
+            "samp_name": "BESC-388-CL1_25_34 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291624"
             ],
@@ -8669,9 +8397,7 @@
             "img_identifiers": [
                 "3300047093"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co3_14_51 soil"
-            },
+            "samp_name": "GW-4579-Co3_14_51 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291673"
             ],
@@ -8730,9 +8456,7 @@
             "img_identifiers": [
                 "3300047513"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co1_16_8 soil"
-            },
+            "samp_name": "GW-9591-Co1_16_8 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291680"
             ],
@@ -8794,9 +8518,7 @@
             "img_identifiers": [
                 "3300046690"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL3_88_3 rhizosphere"
-            },
+            "samp_name": "BESC-388-CL3_88_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291736"
             ],
@@ -8859,9 +8581,7 @@
             "img_identifiers": [
                 "3300046533"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL2_37_16 rhizosphere"
-            },
+            "samp_name": "BESC-845-CL2_37_16 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291752"
             ],
@@ -8924,9 +8644,7 @@
             "img_identifiers": [
                 "3300046664"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co1_5_9 rhizosphere"
-            },
+            "samp_name": "BESC-904-Co1_5_9 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291771"
             ],
@@ -8989,9 +8707,7 @@
             "img_identifiers": [
                 "3300049460"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co2_41_10 rhizosphere"
-            },
+            "samp_name": "SKWA-24-3-Co2_41_10 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291794"
             ],
@@ -9054,9 +8770,7 @@
             "img_identifiers": [
                 "3300053725"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL2_57_8 endosphere"
-            },
+            "samp_name": "BESC-307-CL2_57_8 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305857"
             ],
@@ -9119,9 +8833,7 @@
             "img_identifiers": [
                 "3300053726"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL1_27_10 endosphere"
-            },
+            "samp_name": "BESC-351-CL1_27_10 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305865"
             ],
@@ -9184,9 +8896,7 @@
             "img_identifiers": [
                 "3300053115"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL3_72_12 endosphere"
-            },
+            "samp_name": "BESC-360-CL3_72_12 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305872"
             ],
@@ -9249,9 +8959,7 @@
             "img_identifiers": [
                 "3300053155"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL3_83_27 endosphere"
-            },
+            "samp_name": "BESC-847-CL3_83_27 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305901"
             ],
@@ -9314,9 +9022,7 @@
             "img_identifiers": [
                 "3300053102"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL3_85_26 endosphere"
-            },
+            "samp_name": "BESC-13-CL3_85_26 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305835"
             ],
@@ -9379,9 +9085,7 @@
             "img_identifiers": [
                 "3300053109"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co2_52_27 endosphere"
-            },
+            "samp_name": "BESC-234-Co2_52_27 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305850"
             ],
@@ -9444,9 +9148,7 @@
             "img_identifiers": [
                 "3300053117"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co2_62_25 endosphere"
-            },
+            "samp_name": "BESC-360-Co2_62_25 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305874"
             ],
@@ -9509,9 +9211,7 @@
             "img_identifiers": [
                 "3300053118"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co3_13_34 endosphere"
-            },
+            "samp_name": "BESC-360-Co3_13_34 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305875"
             ],
@@ -9574,9 +9274,7 @@
             "img_identifiers": [
                 "3300053149"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co3_8_57 endosphere"
-            },
+            "samp_name": "BESC-388-Co3_8_57 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305881"
             ],
@@ -9639,9 +9337,7 @@
             "img_identifiers": [
                 "3300053737"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL1_35_3 endosphere"
-            },
+            "samp_name": "BESC-448-CL1_35_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305882"
             ],
@@ -9704,9 +9400,7 @@
             "img_identifiers": [
                 "3300053151"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co1_22_4 endosphere"
-            },
+            "samp_name": "BESC-56-Co1_22_4 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305885"
             ],
@@ -9769,9 +9463,7 @@
             "img_identifiers": [
                 "3300053123"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL3_80_19 endosphere"
-            },
+            "samp_name": "BESC-845-CL3_80_19 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305895"
             ],
@@ -9834,9 +9526,7 @@
             "img_identifiers": [
                 "3300053130"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co2_44_8 endosphere"
-            },
+            "samp_name": "GW-4579-Co2_44_8 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305923"
             ],
@@ -9899,9 +9589,7 @@
             "img_identifiers": [
                 "3300053099"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co1_3_5 endosphere"
-            },
+            "samp_name": "SKWA-24-3-Co1_3_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305935"
             ],
@@ -9964,9 +9652,7 @@
             "img_identifiers": [
                 "3300053723"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL2_65_22 endosphere"
-            },
+            "samp_name": "BESC-234-CL2_65_22 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305848"
             ],
@@ -10029,9 +9715,7 @@
             "img_identifiers": [
                 "3300053092"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co3_15_40 endosphere"
-            },
+            "samp_name": "BESC-331-Co3_15_40 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305864"
             ],
@@ -10094,9 +9778,7 @@
             "img_identifiers": [
                 "3300053127"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co3_9_34 endosphere"
-            },
+            "samp_name": "BESC-847-Co3_9_34 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305904"
             ],
@@ -10159,9 +9841,7 @@
             "img_identifiers": [
                 "3300053158"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co1_10_5 endosphere"
-            },
+            "samp_name": "BESC-866-Co1_10_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305908"
             ],
@@ -10224,9 +9904,7 @@
             "img_identifiers": [
                 "3300053135"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co2_54_22 endosphere"
-            },
+            "samp_name": "SKWD-24-1-Co2_54_22 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305940"
             ],
@@ -10289,9 +9967,7 @@
             "img_identifiers": [
                 "3300046517"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-470-CL2_38_23 rhizosphere"
-            },
+            "samp_name": "BESC-470-CL2_38_23 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291742"
             ],
@@ -10354,9 +10030,7 @@
             "img_identifiers": [
                 "3300046526"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL1_25_23 rhizosphere"
-            },
+            "samp_name": "GW-4579-CL1_25_23 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291778"
             ],
@@ -10419,9 +10093,7 @@
             "img_identifiers": [
                 "3300046459"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL3_88_32 rhizosphere"
-            },
+            "samp_name": "BESC-448-CL3_88_32 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291741"
             ],
@@ -10484,9 +10156,7 @@
             "img_identifiers": [
                 "3300046530"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co1_10_5 rhizosphere"
-            },
+            "samp_name": "BESC-866-Co1_10_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291766"
             ],
@@ -10546,9 +10216,7 @@
             "img_identifiers": [
                 "3300046783"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co3_21_62 soil"
-            },
+            "samp_name": "BESC-234-Co3_21_62 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291600"
             ],
@@ -10607,9 +10275,7 @@
             "img_identifiers": [
                 "3300046737"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL1_26_33 soil"
-            },
+            "samp_name": "BESC-307-CL1_26_33 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291605"
             ],
@@ -10671,9 +10337,7 @@
             "img_identifiers": [
                 "3300046460"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co3_31_37 rhizosphere"
-            },
+            "samp_name": "BESC-833-Co3_31_37 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291750"
             ],
@@ -10733,9 +10397,7 @@
             "img_identifiers": [
                 "3300046706"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co2_52_27 soil"
-            },
+            "samp_name": "BESC-234-Co2_52_27 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291599"
             ],
@@ -10794,9 +10456,7 @@
             "img_identifiers": [
                 "3300046790"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co3_13_34 soil"
-            },
+            "samp_name": "BESC-360-Co3_13_34 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291623"
             ],
@@ -10855,9 +10515,7 @@
             "img_identifiers": [
                 "3300046722"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-86-CL2_69_17 soil"
-            },
+            "samp_name": "BESC-86-CL2_69_17 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291653"
             ],
@@ -10916,9 +10574,7 @@
             "img_identifiers": [
                 "3300054113"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co3_23_35 soil"
-            },
+            "samp_name": "SKWA-24-3-Co3_23_35 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291686"
             ],
@@ -10980,9 +10636,7 @@
             "img_identifiers": [
                 "3300046500"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co1_23_3 rhizosphere"
-            },
+            "samp_name": "BESC-234-Co1_23_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291708"
             ],
@@ -11045,9 +10699,7 @@
             "img_identifiers": [
                 "3300047470"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co1_3_5 rhizosphere"
-            },
+            "samp_name": "SKWA-24-3-Co1_3_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291793"
             ],
@@ -11107,9 +10759,7 @@
             "img_identifiers": [
                 "3300046656"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL1_35_33 soil"
-            },
+            "samp_name": "BESC-13-CL1_35_33 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291582"
             ],
@@ -11168,9 +10818,7 @@
             "img_identifiers": [
                 "3300046707"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL3_85_26 soil"
-            },
+            "samp_name": "BESC-13-CL3_85_26 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291584"
             ],
@@ -11229,9 +10877,7 @@
             "img_identifiers": [
                 "3300048622"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co1_30_3 soil"
-            },
+            "samp_name": "BESC-13-Co1_30_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291585"
             ],
@@ -11290,9 +10936,7 @@
             "img_identifiers": [
                 "3300046795"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co3_6_53 soil"
-            },
+            "samp_name": "BESC-56-Co3_6_53 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291635"
             ],
@@ -11354,9 +10998,7 @@
             "img_identifiers": [
                 "3300048088"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL2_56_7 rhizosphere"
-            },
+            "samp_name": "BESC-285-CL2_56_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291714"
             ],
@@ -11419,9 +11061,7 @@
             "img_identifiers": [
                 "3300046529"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL2_50_11 rhizosphere"
-            },
+            "samp_name": "BESC-866-CL2_50_11 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291764"
             ],
@@ -11481,9 +11121,7 @@
             "img_identifiers": [
                 "3300053082"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co2_58_19 soil"
-            },
+            "samp_name": "BESC-866-Co2_58_19 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291657"
             ],
@@ -11542,9 +11180,7 @@
             "img_identifiers": [
                 "3300046727"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL2_50_20 soil"
-            },
+            "samp_name": "GW-4579-CL2_50_20 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291669"
             ],
@@ -11603,9 +11239,7 @@
             "img_identifiers": [
                 "3300047467"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co2_68_28 soil"
-            },
+            "samp_name": "GW-7986-Co2_68_28 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291675"
             ],
@@ -11664,9 +11298,7 @@
             "img_identifiers": [
                 "3300047468"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co1_3_5 soil"
-            },
+            "samp_name": "SKWA-24-3-Co1_3_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291684"
             ],
@@ -11725,9 +11357,7 @@
             "img_identifiers": [
                 "3300049453"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co2_41_10 soil"
-            },
+            "samp_name": "SKWA-24-3-Co2_41_10 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291685"
             ],
@@ -11786,9 +11416,7 @@
             "img_identifiers": [
                 "3300047442"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co3_24_32 soil"
-            },
+            "samp_name": "SKWD-24-1-Co3_24_32 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291690"
             ],
@@ -11850,9 +11478,7 @@
             "img_identifiers": [
                 "3300046507"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co2_62_14 rhizosphere"
-            },
+            "samp_name": "BESC-307-Co2_62_14 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291718"
             ],
@@ -11915,9 +11541,7 @@
             "img_identifiers": [
                 "3300047320"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co2_68_28 rhizosphere"
-            },
+            "samp_name": "GW-7986-Co2_68_28 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291784"
             ],
@@ -11980,9 +11604,7 @@
             "img_identifiers": [
                 "3300046473"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL3_85_26 rhizosphere"
-            },
+            "samp_name": "BESC-13-CL3_85_26 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291694"
             ],
@@ -12045,9 +11667,7 @@
             "img_identifiers": [
                 "3300046520"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co2_47_23 rhizosphere"
-            },
+            "samp_name": "BESC-833-Co2_47_23 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291749"
             ],
@@ -12107,9 +11727,7 @@
             "img_identifiers": [
                 "3300046836"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL1_34_5 soil"
-            },
+            "samp_name": "BESC-258-CL1_34_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291601"
             ],
@@ -12168,9 +11786,7 @@
             "img_identifiers": [
                 "3300053074"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co1_10_3 soil"
-            },
+            "samp_name": "BESC-351-Co1_10_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291617"
             ],
@@ -12229,9 +11845,7 @@
             "img_identifiers": [
                 "3300047090"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL3_83_27 soil"
-            },
+            "samp_name": "BESC-847-CL3_83_27 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291649"
             ],
@@ -12290,9 +11904,7 @@
             "img_identifiers": [
                 "3300046798"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL1_25_23 soil"
-            },
+            "samp_name": "GW-4579-CL1_25_23 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291668"
             ],
@@ -12351,9 +11963,7 @@
             "img_identifiers": [
                 "3300049450"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL1_34_16 soil"
-            },
+            "samp_name": "GW-9591-CL1_34_16 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291677"
             ],
@@ -12415,9 +12025,7 @@
             "img_identifiers": [
                 "3300046809"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL2_67_23 rhizosphere"
-            },
+            "samp_name": "BESC-258-CL2_67_23 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291712"
             ],
@@ -12480,9 +12088,7 @@
             "img_identifiers": [
                 "3300046525"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co1_23_6 rhizosphere"
-            },
+            "samp_name": "BESC-360-Co1_23_6 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291775"
             ],
@@ -12545,9 +12151,7 @@
             "img_identifiers": [
                 "3300047322"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-CL2_69_25 rhizosphere"
-            },
+            "samp_name": "SKWA-24-3-CL2_69_25 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291792"
             ],
@@ -12610,9 +12214,7 @@
             "img_identifiers": [
                 "3300053152"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co3_6_53 endosphere"
-            },
+            "samp_name": "BESC-56-Co3_6_53 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305887"
             ],
@@ -12675,9 +12277,7 @@
             "img_identifiers": [
                 "3300053154"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL2_38_7 endosphere"
-            },
+            "samp_name": "BESC-847-CL2_38_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305900"
             ],
@@ -12740,9 +12340,7 @@
             "img_identifiers": [
                 "3300053178"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL2_41_30 endosphere"
-            },
+            "samp_name": "GW-11047-CL2_41_30 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305918"
             ],
@@ -12805,9 +12403,7 @@
             "img_identifiers": [
                 "3300053091"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL1_34_16 endosphere"
-            },
+            "samp_name": "GW-9591-CL1_34_16 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305928"
             ],
@@ -12870,9 +12466,7 @@
             "img_identifiers": [
                 "3300053736"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co2_54_7 endosphere"
-            },
+            "samp_name": "BESC-388-Co2_54_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305880"
             ],
@@ -12935,9 +12529,7 @@
             "img_identifiers": [
                 "3300053124"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co3_28_42 endosphere"
-            },
+            "samp_name": "BESC-845-Co3_28_42 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305898"
             ],
@@ -13000,9 +12592,7 @@
             "img_identifiers": [
                 "3300053159"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL2_57_20 endosphere"
-            },
+            "samp_name": "BESC-904-CL2_57_20 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305911"
             ],
@@ -13065,9 +12655,7 @@
             "img_identifiers": [
                 "3300053095"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL3_72_14 endosphere"
-            },
+            "samp_name": "GW-4579-CL3_72_14 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305921"
             ],
@@ -13130,9 +12718,7 @@
             "img_identifiers": [
                 "3300053087"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co3_14_51 endosphere"
-            },
+            "samp_name": "GW-4579-Co3_14_51 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305924"
             ],
@@ -13195,9 +12781,7 @@
             "img_identifiers": [
                 "3300053088"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co1_37_5 endosphere"
-            },
+            "samp_name": "GW-7986-Co1_37_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305925"
             ],
@@ -13260,9 +12844,7 @@
             "img_identifiers": [
                 "3300053100"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co3_24_32 endosphere"
-            },
+            "samp_name": "SKWD-24-1-Co3_24_32 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305941"
             ],
@@ -13325,9 +12907,7 @@
             "img_identifiers": [
                 "3300053114"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co2_50_17 endosphere"
-            },
+            "samp_name": "BESC-331-Co2_50_17 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305863"
             ],
@@ -13390,9 +12970,7 @@
             "img_identifiers": [
                 "3300053153"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co2_60_28 endosphere"
-            },
+            "samp_name": "BESC-845-Co2_60_28 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305897"
             ],
@@ -13455,9 +13033,7 @@
             "img_identifiers": [
                 "3300053128"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL3_75_7 endosphere"
-            },
+            "samp_name": "BESC-866-CL3_75_7 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305907"
             ],
@@ -13520,9 +13096,7 @@
             "img_identifiers": [
                 "3300053090"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co3_31_39 endosphere"
-            },
+            "samp_name": "GW-7986-Co3_31_39 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305927"
             ],
@@ -13585,9 +13159,7 @@
             "img_identifiers": [
                 "3300053093"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co2_62_24 endosphere"
-            },
+            "samp_name": "GW-9591-Co2_62_24 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305932"
             ],
@@ -13650,9 +13222,7 @@
             "img_identifiers": [
                 "3300046558"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co3_6_53 rhizosphere"
-            },
+            "samp_name": "BESC-56-Co3_6_53 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291745"
             ],
@@ -13715,9 +13285,7 @@
             "img_identifiers": [
                 "3300046684"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co2_44_8 rhizosphere"
-            },
+            "samp_name": "GW-4579-Co2_44_8 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291781"
             ],
@@ -13780,9 +13348,7 @@
             "img_identifiers": [
                 "3300046471"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co3_9_34 rhizosphere"
-            },
+            "samp_name": "BESC-847-Co3_9_34 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291762"
             ],
@@ -13842,9 +13408,7 @@
             "img_identifiers": [
                 "3300046817"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL2_62_7 soil"
-            },
+            "samp_name": "BESC-133-CL2_62_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291589"
             ],
@@ -13903,9 +13467,7 @@
             "img_identifiers": [
                 "3300046714"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL1_24_28 soil"
-            },
+            "samp_name": "BESC-234-CL1_24_28 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291596"
             ],
@@ -13967,9 +13529,7 @@
             "img_identifiers": [
                 "3300046543"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL1_28_5 rhizosphere"
-            },
+            "samp_name": "BESC-847-CL1_28_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291757"
             ],
@@ -14029,9 +13589,7 @@
             "img_identifiers": [
                 "3300046780"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL1_28_16 soil"
-            },
+            "samp_name": "BESC-133-CL1_28_16 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291588"
             ],
@@ -14095,9 +13653,7 @@
             "img_identifiers": [
                 "3300046781"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL3_93_10 soil"
-            },
+            "samp_name": "BESC-133-CL3_93_10 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291590"
             ],
@@ -14156,9 +13712,7 @@
             "img_identifiers": [
                 "3300046797"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co2_60_28 soil"
-            },
+            "samp_name": "BESC-845-Co2_60_28 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291645"
             ],
@@ -14217,9 +13771,7 @@
             "img_identifiers": [
                 "3300046825"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co2_69_13 soil"
-            },
+            "samp_name": "BESC-847-Co2_69_13 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291651"
             ],
@@ -14278,9 +13830,7 @@
             "img_identifiers": [
                 "3300046688"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co3_9_34 soil"
-            },
+            "samp_name": "BESC-847-Co3_9_34 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291652"
             ],
@@ -14339,9 +13889,7 @@
             "img_identifiers": [
                 "3300047314"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-CL2_69_25 soil"
-            },
+            "samp_name": "SKWA-24-3-CL2_69_25 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291683"
             ],
@@ -14403,9 +13951,7 @@
             "img_identifiers": [
                 "3300047317"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL2_57_8 rhizosphere"
-            },
+            "samp_name": "BESC-307-CL2_57_8 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291716"
             ],
@@ -14468,9 +14014,7 @@
             "img_identifiers": [
                 "3300047446"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co3_35_48 rhizosphere"
-            },
+            "samp_name": "GW-9591-Co3_35_48 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291791"
             ],
@@ -14533,9 +14077,7 @@
             "img_identifiers": [
                 "3300047318"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co1_6_4 rhizosphere"
-            },
+            "samp_name": "BESC-833-Co1_6_4 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291748"
             ],
@@ -14598,9 +14140,7 @@
             "img_identifiers": [
                 "3300046694"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co2_69_13 rhizosphere"
-            },
+            "samp_name": "BESC-847-Co2_69_13 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291761"
             ],
@@ -14663,9 +14203,7 @@
             "img_identifiers": [
                 "3300047445"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co1_16_8 rhizosphere"
-            },
+            "samp_name": "GW-9591-Co1_16_8 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291789"
             ],
@@ -14725,9 +14263,7 @@
             "img_identifiers": [
                 "3300046657"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co2_50_25 soil"
-            },
+            "samp_name": "BESC-133-Co2_50_25 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291592"
             ],
@@ -14786,9 +14322,7 @@
             "img_identifiers": [
                 "3300046739"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL2_44_14 soil"
-            },
+            "samp_name": "BESC-360-CL2_44_14 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291620"
             ],
@@ -14847,9 +14381,7 @@
             "img_identifiers": [
                 "3300047316"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-CL2_58_25 soil"
-            },
+            "samp_name": "SKWD-24-1-CL2_58_25 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291687"
             ],
@@ -14911,9 +14443,7 @@
             "img_identifiers": [
                 "3300046538"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co1_12_7 rhizosphere"
-            },
+            "samp_name": "BESC-331-Co1_12_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291721"
             ],
@@ -14976,9 +14506,7 @@
             "img_identifiers": [
                 "3300046660"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co1_32_7 rhizosphere"
-            },
+            "samp_name": "BESC-388-Co1_32_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291737"
             ],
@@ -15041,9 +14569,7 @@
             "img_identifiers": [
                 "3300046680"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL2_38_7 rhizosphere"
-            },
+            "samp_name": "BESC-847-CL2_38_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291758"
             ],
@@ -15106,9 +14632,7 @@
             "img_identifiers": [
                 "3300047444"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL2_56_12 rhizosphere"
-            },
+            "samp_name": "GW-9591-CL2_56_12 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291787"
             ],
@@ -15171,9 +14695,7 @@
             "img_identifiers": [
                 "3300053142"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co1_31_6 endosphere"
-            },
+            "samp_name": "BESC-307-Co1_31_6 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305858"
             ],
@@ -15236,9 +14758,7 @@
             "img_identifiers": [
                 "3300053145"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL3_84_27 endosphere"
-            },
+            "samp_name": "BESC-351-CL3_84_27 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305867"
             ],
@@ -15301,9 +14821,7 @@
             "img_identifiers": [
                 "3300053738"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL2_37_16 endosphere"
-            },
+            "samp_name": "BESC-845-CL2_37_16 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305894"
             ],
@@ -15366,9 +14884,7 @@
             "img_identifiers": [
                 "3300053722"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL3_98_5 endosphere"
-            },
+            "samp_name": "GW-9591-CL3_98_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305930"
             ],
@@ -15431,9 +14947,7 @@
             "img_identifiers": [
                 "3300053107"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL3_93_10 endosphere"
-            },
+            "samp_name": "BESC-133-CL3_93_10 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305841"
             ],
@@ -15496,9 +15010,7 @@
             "img_identifiers": [
                 "3300053143"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co3_27_41 endosphere"
-            },
+            "samp_name": "BESC-307-Co3_27_41 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305860"
             ],
@@ -15561,9 +15073,7 @@
             "img_identifiers": [
                 "3300053148"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL2_44_14 endosphere"
-            },
+            "samp_name": "BESC-360-CL2_44_14 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305871"
             ],
@@ -15626,9 +15136,7 @@
             "img_identifiers": [
                 "3300053116"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co1_23_6 endosphere"
-            },
+            "samp_name": "BESC-360-Co1_23_6 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305873"
             ],
@@ -15691,9 +15199,7 @@
             "img_identifiers": [
                 "3300053104"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co2_41_23 endosphere"
-            },
+            "samp_name": "BESC-13-Co2_41_23 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305837"
             ],
@@ -15756,9 +15262,7 @@
             "img_identifiers": [
                 "3300053121"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL2_42_16 endosphere"
-            },
+            "samp_name": "BESC-833-CL2_42_16 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305888"
             ],
@@ -15821,9 +15325,7 @@
             "img_identifiers": [
                 "3300053132"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-CL2_69_25 endosphere"
-            },
+            "samp_name": "SKWA-24-3-CL2_69_25 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305934"
             ],
@@ -15886,9 +15388,7 @@
             "img_identifiers": [
                 "3300048090"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co1_10_3 rhizosphere"
-            },
+            "samp_name": "BESC-351-Co1_10_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291727"
             ],
@@ -15951,9 +15451,7 @@
             "img_identifiers": [
                 "3300046477"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL1_23_5 rhizosphere"
-            },
+            "samp_name": "GW-11047-CL1_23_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291776"
             ],
@@ -16016,9 +15514,7 @@
             "img_identifiers": [
                 "3300046454"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL2_38_5 rhizosphere"
-            },
+            "samp_name": "BESC-198-CL2_38_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291704"
             ],
@@ -16081,9 +15577,7 @@
             "img_identifiers": [
                 "3300046513"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co2_42_17 rhizosphere"
-            },
+            "samp_name": "BESC-351-Co2_42_17 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291728"
             ],
@@ -16143,9 +15637,7 @@
             "img_identifiers": [
                 "3300046829"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL1_33_12 soil"
-            },
+            "samp_name": "BESC-285-CL1_33_12 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291603"
             ],
@@ -16204,9 +15696,7 @@
             "img_identifiers": [
                 "3300049440"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL2_56_7 soil"
-            },
+            "samp_name": "BESC-285-CL2_56_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291604"
             ],
@@ -16268,9 +15758,7 @@
             "img_identifiers": [
                 "3300046512"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co2_50_17 rhizosphere"
-            },
+            "samp_name": "BESC-331-Co2_50_17 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291722"
             ],
@@ -16330,9 +15818,7 @@
             "img_identifiers": [
                 "3300046715"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co2_62_14 soil"
-            },
+            "samp_name": "BESC-307-Co2_62_14 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291608"
             ],
@@ -16391,9 +15877,7 @@
             "img_identifiers": [
                 "3300046720"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co2_51_16 soil"
-            },
+            "samp_name": "BESC-56-Co2_51_16 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291634"
             ],
@@ -16452,9 +15936,7 @@
             "img_identifiers": [
                 "3300047092"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co1_5_9 soil"
-            },
+            "samp_name": "BESC-904-Co1_5_9 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291661"
             ],
@@ -16513,9 +15995,7 @@
             "img_identifiers": [
                 "3300046816"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL1_27_10 soil"
-            },
+            "samp_name": "BESC-351-CL1_27_10 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291614"
             ],
@@ -16574,9 +16054,7 @@
             "img_identifiers": [
                 "3300049442"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL3_84_27 soil"
-            },
+            "samp_name": "BESC-351-CL3_84_27 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291616"
             ],
@@ -16638,9 +16116,7 @@
             "img_identifiers": [
                 "3300046537"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co3_21_62 rhizosphere"
-            },
+            "samp_name": "BESC-234-Co3_21_62 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291710"
             ],
@@ -16700,9 +16176,7 @@
             "img_identifiers": [
                 "3300046822"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL1_28_5 soil"
-            },
+            "samp_name": "BESC-847-CL1_28_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291647"
             ],
@@ -16764,9 +16238,7 @@
             "img_identifiers": [
                 "3300046516"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL1_35_3 rhizosphere"
-            },
+            "samp_name": "BESC-448-CL1_35_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291740"
             ],
@@ -16829,9 +16301,7 @@
             "img_identifiers": [
                 "3300053083"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co2_58_19 rhizosphere"
-            },
+            "samp_name": "BESC-866-Co2_58_19 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291767"
             ],
@@ -16891,9 +16361,7 @@
             "img_identifiers": [
                 "3300048687"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co2_41_23 soil"
-            },
+            "samp_name": "BESC-13-Co2_41_23 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291586"
             ],
@@ -16952,9 +16420,7 @@
             "img_identifiers": [
                 "3300046788"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-CL2_55_18 soil"
-            },
+            "samp_name": "BESC-331-CL2_55_18 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291610"
             ],
@@ -17013,9 +16479,7 @@
             "img_identifiers": [
                 "3300046813"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL3_88_3 soil"
-            },
+            "samp_name": "BESC-388-CL3_88_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291626"
             ],
@@ -17074,9 +16538,7 @@
             "img_identifiers": [
                 "3300047311"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL2_37_16 soil"
-            },
+            "samp_name": "BESC-845-CL2_37_16 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291642"
             ],
@@ -17135,9 +16597,7 @@
             "img_identifiers": [
                 "3300047313"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL3_98_5 soil"
-            },
+            "samp_name": "GW-9591-CL3_98_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291679"
             ],
@@ -17199,9 +16659,7 @@
             "img_identifiers": [
                 "3300046535"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL1_28_16 rhizosphere"
-            },
+            "samp_name": "BESC-133-CL1_28_16 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291698"
             ],
@@ -17264,9 +16722,7 @@
             "img_identifiers": [
                 "3300048091"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co2_54_7 rhizosphere"
-            },
+            "samp_name": "BESC-388-Co2_54_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291738"
             ],
@@ -17329,9 +16785,7 @@
             "img_identifiers": [
                 "3300053086"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co2_62_14 endosphere"
-            },
+            "samp_name": "BESC-307-Co2_62_14 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305859"
             ],
@@ -17394,9 +16848,7 @@
             "img_identifiers": [
                 "3300053113"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-331-CL2_55_18 endosphere"
-            },
+            "samp_name": "BESC-331-CL2_55_18 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305861"
             ],
@@ -17459,9 +16911,7 @@
             "img_identifiers": [
                 "3300053735"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL2_50_4 endosphere"
-            },
+            "samp_name": "BESC-388-CL2_50_4 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305877"
             ],
@@ -17524,9 +16974,7 @@
             "img_identifiers": [
                 "3300053126"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co1_12_9 endosphere"
-            },
+            "samp_name": "BESC-847-Co1_12_9 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305902"
             ],
@@ -17589,9 +17037,7 @@
             "img_identifiers": [
                 "3300053129"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co2_58_19 endosphere"
-            },
+            "samp_name": "BESC-866-Co2_58_19 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305909"
             ],
@@ -17654,9 +17100,7 @@
             "img_identifiers": [
                 "3300053144"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL2_54_28 endosphere"
-            },
+            "samp_name": "BESC-351-CL2_54_28 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305866"
             ],
@@ -17719,9 +17163,7 @@
             "img_identifiers": [
                 "3300053731"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co1_6_4 endosphere"
-            },
+            "samp_name": "BESC-833-Co1_6_4 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305890"
             ],
@@ -17784,9 +17226,7 @@
             "img_identifiers": [
                 "3300053125"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL1_28_5 endosphere"
-            },
+            "samp_name": "BESC-847-CL1_28_5 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305899"
             ],
@@ -17849,9 +17289,7 @@
             "img_identifiers": [
                 "3300046522"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co2_60_28 rhizosphere"
-            },
+            "samp_name": "BESC-845-Co2_60_28 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291755"
             ],
@@ -17914,9 +17352,7 @@
             "img_identifiers": [
                 "3300046463"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL3_75_7 rhizosphere"
-            },
+            "samp_name": "BESC-866-CL3_75_7 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291765"
             ],
@@ -17979,9 +17415,7 @@
             "img_identifiers": [
                 "3300046674"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL3_93_10 rhizosphere"
-            },
+            "samp_name": "BESC-133-CL3_93_10 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291700"
             ],
@@ -18044,9 +17478,7 @@
             "img_identifiers": [
                 "3300047321"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL3_98_5 rhizosphere"
-            },
+            "samp_name": "GW-9591-CL3_98_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291788"
             ],
@@ -18106,9 +17538,7 @@
             "img_identifiers": [
                 "3300047440"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL2_56_12 soil"
-            },
+            "samp_name": "GW-9591-CL2_56_12 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291678"
             ],
@@ -18170,9 +17600,7 @@
             "img_identifiers": [
                 "3300046501"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co3_27_41 rhizosphere"
-            },
+            "samp_name": "BESC-307-Co3_27_41 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291719"
             ],
@@ -18235,9 +17663,7 @@
             "img_identifiers": [
                 "3300046452"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co3_11_46 rhizosphere"
-            },
+            "samp_name": "BESC-351-Co3_11_46 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291729"
             ],
@@ -18297,9 +17723,7 @@
             "img_identifiers": [
                 "3300046718"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL2_38_5 soil"
-            },
+            "samp_name": "BESC-198-CL2_38_5 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291594"
             ],
@@ -18358,9 +17782,7 @@
             "img_identifiers": [
                 "3300046837"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL2_67_23 soil"
-            },
+            "samp_name": "BESC-258-CL2_67_23 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291602"
             ],
@@ -18419,9 +17841,7 @@
             "img_identifiers": [
                 "3300049445"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL1_35_3 soil"
-            },
+            "samp_name": "BESC-448-CL1_35_3 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291630"
             ],
@@ -18480,9 +17900,7 @@
             "img_identifiers": [
                 "3300046721"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL1_31_22 soil"
-            },
+            "samp_name": "BESC-845-CL1_31_22 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291641"
             ],
@@ -18544,9 +17962,7 @@
             "img_identifiers": [
                 "3300046689"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL2_54_28 rhizosphere"
-            },
+            "samp_name": "BESC-351-CL2_54_28 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291725"
             ],
@@ -18609,9 +18025,7 @@
             "img_identifiers": [
                 "3300046683"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL3_91_3 rhizosphere"
-            },
+            "samp_name": "BESC-904-CL3_91_3 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291770"
             ],
@@ -18671,9 +18085,7 @@
             "img_identifiers": [
                 "3300049451"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co2_62_24 soil"
-            },
+            "samp_name": "GW-9591-Co2_62_24 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291681"
             ],
@@ -18735,9 +18147,7 @@
             "img_identifiers": [
                 "3300046679"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL2_50_4 rhizosphere"
-            },
+            "samp_name": "BESC-388-CL2_50_4 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291735"
             ],
@@ -18800,9 +18210,7 @@
             "img_identifiers": [
                 "3300046616"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co1_14_4 rhizosphere"
-            },
+            "samp_name": "GW-4579-Co1_14_4 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291780"
             ],
@@ -18865,9 +18273,7 @@
             "img_identifiers": [
                 "3300053085"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL3_72_12 rhizosphere"
-            },
+            "samp_name": "BESC-360-CL3_72_12 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291731"
             ],
@@ -18930,9 +18336,7 @@
             "img_identifiers": [
                 "3300046519"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co2_51_16 rhizosphere"
-            },
+            "samp_name": "BESC-56-Co2_51_16 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291744"
             ],
@@ -18995,9 +18399,7 @@
             "img_identifiers": [
                 "3300046675"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL2_57_20 rhizosphere"
-            },
+            "samp_name": "BESC-904-CL2_57_20 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291769"
             ],
@@ -19057,9 +18459,7 @@
             "img_identifiers": [
                 "3300046812"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL2_50_4 soil"
-            },
+            "samp_name": "BESC-388-CL2_50_4 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291625"
             ],
@@ -19118,9 +18518,7 @@
             "img_identifiers": [
                 "3300046792"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-470-CL2_38_23 soil"
-            },
+            "samp_name": "BESC-470-CL2_38_23 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291632"
             ],
@@ -19179,9 +18577,7 @@
             "img_identifiers": [
                 "3300047089"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL2_38_7 soil"
-            },
+            "samp_name": "BESC-847-CL2_38_7 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291648"
             ],
@@ -19240,9 +18636,7 @@
             "img_identifiers": [
                 "3300047312"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-905-CL1_32_20 soil"
-            },
+            "samp_name": "BESC-905-CL1_32_20 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291664"
             ],
@@ -19301,9 +18695,7 @@
             "img_identifiers": [
                 "3300046826"
             ],
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co2_44_8 soil"
-            },
+            "samp_name": "GW-4579-Co2_44_8 soil",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291672"
             ],
@@ -19365,9 +18757,7 @@
             "img_identifiers": [
                 "3300046642"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL2_42_16 rhizosphere"
-            },
+            "samp_name": "BESC-833-CL2_42_16 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291746"
             ],
@@ -19430,9 +18820,7 @@
             "img_identifiers": [
                 "3300047447"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co1_7_5 rhizosphere"
-            },
+            "samp_name": "SKWD-24-1-Co1_7_5 rhizosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0291797"
             ],
@@ -19495,9 +18883,7 @@
             "img_identifiers": [
                 "3300053137"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co1_27_3 endosphere"
-            },
+            "samp_name": "BESC-133-Co1_27_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305842"
             ],
@@ -19560,9 +18946,7 @@
             "img_identifiers": [
                 "3300053157"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-86-CL2_69_17 endosphere"
-            },
+            "samp_name": "BESC-86-CL2_69_17 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305905"
             ],
@@ -19625,9 +19009,7 @@
             "img_identifiers": [
                 "3300053160"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co2_51_17 endosphere"
-            },
+            "samp_name": "BESC-904-Co2_51_17 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305914"
             ],
@@ -19690,9 +19072,7 @@
             "img_identifiers": [
                 "3300053119"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL1_25_34 endosphere"
-            },
+            "samp_name": "BESC-388-CL1_25_34 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305876"
             ],
@@ -19755,9 +19135,7 @@
             "img_identifiers": [
                 "3300053729"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL2_50_11 endosphere"
-            },
+            "samp_name": "BESC-866-CL2_50_11 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305906"
             ],
@@ -19820,9 +19198,7 @@
             "img_identifiers": [
                 "3300053103"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co1_30_3 endosphere"
-            },
+            "samp_name": "BESC-13-Co1_30_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305836"
             ],
@@ -19885,9 +19261,7 @@
             "img_identifiers": [
                 "3300053106"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL1_28_16 endosphere"
-            },
+            "samp_name": "BESC-133-CL1_28_16 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305839"
             ],
@@ -19950,9 +19324,7 @@
             "img_identifiers": [
                 "3300053120"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL3_88_3 endosphere"
-            },
+            "samp_name": "BESC-388-CL3_88_3 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305878"
             ],
@@ -20015,9 +19387,7 @@
             "img_identifiers": [
                 "3300053079"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co2_47_23 endosphere"
-            },
+            "samp_name": "BESC-833-Co2_47_23 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305891"
             ],
@@ -20080,9 +19450,7 @@
             "img_identifiers": [
                 "3300053156"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co2_69_13 endosphere"
-            },
+            "samp_name": "BESC-847-Co2_69_13 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305903"
             ],
@@ -20145,9 +19513,7 @@
             "img_identifiers": [
                 "3300053080"
             ],
-            "samp_name": {
-                "has_raw_value": "BESC-905-CL1_32_20 endosphere"
-            },
+            "samp_name": "BESC-905-CL1_32_20 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305916"
             ],
@@ -20210,9 +19576,7 @@
             "img_identifiers": [
                 "3300053728"
             ],
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-CL2_58_25 endosphere"
-            },
+            "samp_name": "SKWD-24-1-CL2_58_25 endosphere",
             "gold_biosample_identifiers": [
                 "GOLD:Gb0305938"
             ],
