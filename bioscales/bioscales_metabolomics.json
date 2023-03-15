@@ -33,9 +33,7 @@
             },
             "collected_from": "nmdc:frsite-11-5tz5zk13",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL1_35_33 leaf tissue"
-            },
+            "samp_name": "BESC-13-CL1_35_33 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -80,9 +78,7 @@
             },
             "collected_from": "nmdc:frsite-11-3rtbsa77",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL2_39_29 leaf tissue"
-            },
+            "samp_name": "BESC-13-CL2_39_29 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -127,9 +123,7 @@
             },
             "collected_from": "nmdc:frsite-11-nsp3nb76",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-CL3_85_26 leaf tissue"
-            },
+            "samp_name": "BESC-13-CL3_85_26 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -174,9 +168,7 @@
             },
             "collected_from": "nmdc:frsite-11-b5fjv129",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co1_30_3 leaf tissue"
-            },
+            "samp_name": "BESC-13-Co1_30_3 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -221,9 +213,7 @@
             },
             "collected_from": "nmdc:frsite-11-y7ygwt03",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co2_41_23 leaf tissue"
-            },
+            "samp_name": "BESC-13-Co2_41_23 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -268,9 +258,7 @@
             },
             "collected_from": "nmdc:frsite-11-zg5wtx34",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-13-Co3_21_57 leaf tissue"
-            },
+            "samp_name": "BESC-13-Co3_21_57 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -315,9 +303,7 @@
             },
             "collected_from": "nmdc:frsite-11-zg6h9679",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL2_62_7 leaf tissue"
-            },
+            "samp_name": "BESC-133-CL2_62_7 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -362,9 +348,7 @@
             },
             "collected_from": "nmdc:frsite-11-c91kj397",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-133-CL3_93_10 leaf tissue"
-            },
+            "samp_name": "BESC-133-CL3_93_10 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -409,9 +393,7 @@
             },
             "collected_from": "nmdc:frsite-11-y2296j08",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co1_27_3 leaf tissue"
-            },
+            "samp_name": "BESC-133-Co1_27_3 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -456,9 +438,7 @@
             },
             "collected_from": "nmdc:frsite-11-9ew6ah11",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co2_50_25 leaf tissue"
-            },
+            "samp_name": "BESC-133-Co2_50_25 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -503,9 +483,7 @@
             },
             "collected_from": "nmdc:frsite-11-kj203678",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-133-Co3_19_46 leaf tissue"
-            },
+            "samp_name": "BESC-133-Co3_19_46 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -550,9 +528,7 @@
             },
             "collected_from": "nmdc:frsite-11-1qe39t85",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-198-CL3_81_33 leaf tissue"
-            },
+            "samp_name": "BESC-198-CL3_81_33 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -597,9 +573,7 @@
             },
             "collected_from": "nmdc:frsite-11-8xzypx59",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL1_24_28 leaf tissue"
-            },
+            "samp_name": "BESC-234-CL1_24_28 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -644,9 +618,7 @@
             },
             "collected_from": "nmdc:frsite-11-6pmz0258",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-234-CL2_65_22 leaf tissue"
-            },
+            "samp_name": "BESC-234-CL2_65_22 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -691,9 +663,7 @@
             },
             "collected_from": "nmdc:frsite-11-jxmben97",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co1_23_3 leaf tissue"
-            },
+            "samp_name": "BESC-234-Co1_23_3 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -738,9 +708,7 @@
             },
             "collected_from": "nmdc:frsite-11-kv0haa56",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co2_52_27 leaf tissue"
-            },
+            "samp_name": "BESC-234-Co2_52_27 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -785,9 +753,7 @@
             },
             "collected_from": "nmdc:frsite-11-td7bah30",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-234-Co3_21_62 leaf tissue"
-            },
+            "samp_name": "BESC-234-Co3_21_62 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -832,9 +798,7 @@
             },
             "collected_from": "nmdc:frsite-11-94ttv597",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL1_34_5 leaf tissue"
-            },
+            "samp_name": "BESC-258-CL1_34_5 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -879,9 +843,7 @@
             },
             "collected_from": "nmdc:frsite-11-vrsa4h93",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-258-CL2_67_23 leaf tissue"
-            },
+            "samp_name": "BESC-258-CL2_67_23 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -926,9 +888,7 @@
             },
             "collected_from": "nmdc:frsite-11-45n3hf70",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL1_33_12 leaf tissue"
-            },
+            "samp_name": "BESC-285-CL1_33_12 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -973,9 +933,7 @@
             },
             "collected_from": "nmdc:frsite-11-k4fpz230",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-285-CL2_56_7 leaf tissue"
-            },
+            "samp_name": "BESC-285-CL2_56_7 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1020,9 +978,7 @@
             },
             "collected_from": "nmdc:frsite-11-2k54ck24",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-307-CL1_26_33 leaf tissue"
-            },
+            "samp_name": "BESC-307-CL1_26_33 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1067,9 +1023,7 @@
             },
             "collected_from": "nmdc:frsite-11-rdtsg676",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co1_31_6 leaf tissue"
-            },
+            "samp_name": "BESC-307-Co1_31_6 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1114,9 +1068,7 @@
             },
             "collected_from": "nmdc:frsite-11-pgjcdt69",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co2_62_14 leaf tissue"
-            },
+            "samp_name": "BESC-307-Co2_62_14 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1161,9 +1113,7 @@
             },
             "collected_from": "nmdc:frsite-11-hydbjb20",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-307-Co3_27_41 leaf tissue"
-            },
+            "samp_name": "BESC-307-Co3_27_41 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1208,9 +1158,7 @@
             },
             "collected_from": "nmdc:frsite-11-18f4qw61",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-331-CL2_55_18 leaf tissue"
-            },
+            "samp_name": "BESC-331-CL2_55_18 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1255,9 +1203,7 @@
             },
             "collected_from": "nmdc:frsite-11-awzs8875",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co1_12_7 leaf tissue"
-            },
+            "samp_name": "BESC-331-Co1_12_7 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1302,9 +1248,7 @@
             },
             "collected_from": "nmdc:frsite-11-m9vkyw31",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co2_50_17 leaf tissue"
-            },
+            "samp_name": "BESC-331-Co2_50_17 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1349,9 +1293,7 @@
             },
             "collected_from": "nmdc:frsite-11-4ns58z05",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-331-Co3_15_40 leaf tissue"
-            },
+            "samp_name": "BESC-331-Co3_15_40 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1396,9 +1338,7 @@
             },
             "collected_from": "nmdc:frsite-11-50zbh910",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL1_27_10 leaf tissue"
-            },
+            "samp_name": "BESC-351-CL1_27_10 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1443,9 +1383,7 @@
             },
             "collected_from": "nmdc:frsite-11-zxg3cd16",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL2_54_28 leaf tissue"
-            },
+            "samp_name": "BESC-351-CL2_54_28 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1490,9 +1428,7 @@
             },
             "collected_from": "nmdc:frsite-11-3x3f1v59",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-CL3_84_27 leaf tissue"
-            },
+            "samp_name": "BESC-351-CL3_84_27 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1537,9 +1473,7 @@
             },
             "collected_from": "nmdc:frsite-11-nbcsew46",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co1_10_3 leaf tissue"
-            },
+            "samp_name": "BESC-351-Co1_10_3 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1584,9 +1518,7 @@
             },
             "collected_from": "nmdc:frsite-11-hw8dvc50",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co2_42_17 leaf tissue"
-            },
+            "samp_name": "BESC-351-Co2_42_17 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1631,9 +1563,7 @@
             },
             "collected_from": "nmdc:frsite-11-z0hk9y80",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-351-Co3_11_46 leaf tissue"
-            },
+            "samp_name": "BESC-351-Co3_11_46 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1678,9 +1608,7 @@
             },
             "collected_from": "nmdc:frsite-11-1m2hem59",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL2_44_14 leaf tissue"
-            },
+            "samp_name": "BESC-360-CL2_44_14 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1725,9 +1653,7 @@
             },
             "collected_from": "nmdc:frsite-11-meprzy20",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-360-CL3_72_12 leaf tissue"
-            },
+            "samp_name": "BESC-360-CL3_72_12 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1772,9 +1698,7 @@
             },
             "collected_from": "nmdc:frsite-11-xpq6ay66",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co1_23_6 leaf tissue"
-            },
+            "samp_name": "BESC-360-Co1_23_6 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1819,9 +1743,7 @@
             },
             "collected_from": "nmdc:frsite-11-2wbzge02",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co2_62_25 leaf tissue"
-            },
+            "samp_name": "BESC-360-Co2_62_25 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1866,9 +1788,7 @@
             },
             "collected_from": "nmdc:frsite-11-vk1gn602",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-360-Co3_13_34 leaf tissue"
-            },
+            "samp_name": "BESC-360-Co3_13_34 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1913,9 +1833,7 @@
             },
             "collected_from": "nmdc:frsite-11-6r8mrw35",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL1_25_34 leaf tissue"
-            },
+            "samp_name": "BESC-388-CL1_25_34 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -1960,9 +1878,7 @@
             },
             "collected_from": "nmdc:frsite-11-ran33y41",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL2_50_4 leaf tissue"
-            },
+            "samp_name": "BESC-388-CL2_50_4 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2007,9 +1923,7 @@
             },
             "collected_from": "nmdc:frsite-11-yhw0cq69",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-CL3_88_3 leaf tissue"
-            },
+            "samp_name": "BESC-388-CL3_88_3 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2054,9 +1968,7 @@
             },
             "collected_from": "nmdc:frsite-11-dxf24m84",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co1_32_7 leaf tissue"
-            },
+            "samp_name": "BESC-388-Co1_32_7 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2101,9 +2013,7 @@
             },
             "collected_from": "nmdc:frsite-11-wdy01683",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co2_54_7 leaf tissue"
-            },
+            "samp_name": "BESC-388-Co2_54_7 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2148,9 +2058,7 @@
             },
             "collected_from": "nmdc:frsite-11-enj5vx03",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-388-Co3_8_57 leaf tissue"
-            },
+            "samp_name": "BESC-388-Co3_8_57 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2195,9 +2103,7 @@
             },
             "collected_from": "nmdc:frsite-11-60seky18",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL1_35_3 leaf tissue"
-            },
+            "samp_name": "BESC-448-CL1_35_3 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2242,9 +2148,7 @@
             },
             "collected_from": "nmdc:frsite-11-g646ed81",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-448-CL3_88_32 leaf tissue"
-            },
+            "samp_name": "BESC-448-CL3_88_32 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2289,9 +2193,7 @@
             },
             "collected_from": "nmdc:frsite-11-s2dqk408",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-470-CL2_38_23 leaf tissue"
-            },
+            "samp_name": "BESC-470-CL2_38_23 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2336,9 +2238,7 @@
             },
             "collected_from": "nmdc:frsite-11-f4gns222",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co1_22_4 leaf tissue"
-            },
+            "samp_name": "BESC-56-Co1_22_4 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2383,9 +2283,7 @@
             },
             "collected_from": "nmdc:frsite-11-2kbtkg98",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co2_51_16 leaf tissue"
-            },
+            "samp_name": "BESC-56-Co2_51_16 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2430,9 +2328,7 @@
             },
             "collected_from": "nmdc:frsite-11-deynvw25",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-56-Co3_6_53 leaf tissue"
-            },
+            "samp_name": "BESC-56-Co3_6_53 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2477,9 +2373,7 @@
             },
             "collected_from": "nmdc:frsite-11-3y3t1571",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-833-CL2_42_16 leaf tissue"
-            },
+            "samp_name": "BESC-833-CL2_42_16 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2524,9 +2418,7 @@
             },
             "collected_from": "nmdc:frsite-11-h0751d21",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co1_6_4 leaf tissue"
-            },
+            "samp_name": "BESC-833-Co1_6_4 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2571,9 +2463,7 @@
             },
             "collected_from": "nmdc:frsite-11-a2k8v461",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co2_47_23 leaf tissue"
-            },
+            "samp_name": "BESC-833-Co2_47_23 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2618,9 +2508,7 @@
             },
             "collected_from": "nmdc:frsite-11-0mqbhb55",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-833-Co3_31_37 leaf tissue"
-            },
+            "samp_name": "BESC-833-Co3_31_37 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2665,9 +2553,7 @@
             },
             "collected_from": "nmdc:frsite-11-s8vfqq56",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL1_31_22 leaf tissue"
-            },
+            "samp_name": "BESC-845-CL1_31_22 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2712,9 +2598,7 @@
             },
             "collected_from": "nmdc:frsite-11-0yd34d30",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-845-CL3_80_19 leaf tissue"
-            },
+            "samp_name": "BESC-845-CL3_80_19 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2759,9 +2643,7 @@
             },
             "collected_from": "nmdc:frsite-11-dsrwen26",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co1_24_3 leaf tissue"
-            },
+            "samp_name": "BESC-845-Co1_24_3 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2806,9 +2688,7 @@
             },
             "collected_from": "nmdc:frsite-11-h5kdc303",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co2_60_28 leaf tissue"
-            },
+            "samp_name": "BESC-845-Co2_60_28 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2853,9 +2733,7 @@
             },
             "collected_from": "nmdc:frsite-11-y1g4ck43",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-845-Co3_28_42 leaf tissue"
-            },
+            "samp_name": "BESC-845-Co3_28_42 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2900,9 +2778,7 @@
             },
             "collected_from": "nmdc:frsite-11-w895tj61",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL1_28_5 leaf tissue"
-            },
+            "samp_name": "BESC-847-CL1_28_5 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2947,9 +2823,7 @@
             },
             "collected_from": "nmdc:frsite-11-15rgbe45",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL2_38_7 leaf tissue"
-            },
+            "samp_name": "BESC-847-CL2_38_7 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -2994,9 +2868,7 @@
             },
             "collected_from": "nmdc:frsite-11-zf3dvh83",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-CL3_83_27 leaf tissue"
-            },
+            "samp_name": "BESC-847-CL3_83_27 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3041,9 +2913,7 @@
             },
             "collected_from": "nmdc:frsite-11-ge60pd55",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co1_12_9 leaf tissue"
-            },
+            "samp_name": "BESC-847-Co1_12_9 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3088,9 +2958,7 @@
             },
             "collected_from": "nmdc:frsite-11-v8e20s85",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co2_69_13 leaf tissue"
-            },
+            "samp_name": "BESC-847-Co2_69_13 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3135,9 +3003,7 @@
             },
             "collected_from": "nmdc:frsite-11-yncgtg68",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-847-Co3_9_34 leaf tissue"
-            },
+            "samp_name": "BESC-847-Co3_9_34 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3182,9 +3048,7 @@
             },
             "collected_from": "nmdc:frsite-11-gkd24t59",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-86-CL2_69_17 leaf tissue"
-            },
+            "samp_name": "BESC-86-CL2_69_17 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3229,9 +3093,7 @@
             },
             "collected_from": "nmdc:frsite-11-a7npv636",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-866-CL3_75_7 leaf tissue"
-            },
+            "samp_name": "BESC-866-CL3_75_7 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3276,9 +3138,7 @@
             },
             "collected_from": "nmdc:frsite-11-z7hrbm49",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co1_10_5 leaf tissue"
-            },
+            "samp_name": "BESC-866-Co1_10_5 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3323,9 +3183,7 @@
             },
             "collected_from": "nmdc:frsite-11-4w8npz69",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co2_58_19 leaf tissue"
-            },
+            "samp_name": "BESC-866-Co2_58_19 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3370,9 +3228,7 @@
             },
             "collected_from": "nmdc:frsite-11-bbwh9b58",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-866-Co3_27_48 leaf tissue"
-            },
+            "samp_name": "BESC-866-Co3_27_48 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3417,9 +3273,7 @@
             },
             "collected_from": "nmdc:frsite-11-ag4btc40",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-904-CL3_91_3 leaf tissue"
-            },
+            "samp_name": "BESC-904-CL3_91_3 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3464,9 +3318,7 @@
             },
             "collected_from": "nmdc:frsite-11-npfz3857",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co1_5_9 leaf tissue"
-            },
+            "samp_name": "BESC-904-Co1_5_9 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3511,9 +3363,7 @@
             },
             "collected_from": "nmdc:frsite-11-5erc2s28",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co2_51_17 leaf tissue"
-            },
+            "samp_name": "BESC-904-Co2_51_17 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3558,9 +3408,7 @@
             },
             "collected_from": "nmdc:frsite-11-xckqtm38",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-904-Co3_16_51 leaf tissue"
-            },
+            "samp_name": "BESC-904-Co3_16_51 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3605,9 +3453,7 @@
             },
             "collected_from": "nmdc:frsite-11-xgvxrk09",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "BESC-905-CL1_32_20 leaf tissue"
-            },
+            "samp_name": "BESC-905-CL1_32_20 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3652,9 +3498,7 @@
             },
             "collected_from": "nmdc:frsite-11-nvfgbv20",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL1_23_5 leaf tissue"
-            },
+            "samp_name": "GW-11047-CL1_23_5 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3699,9 +3543,7 @@
             },
             "collected_from": "nmdc:frsite-11-aakdhx89",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-11047-CL2_41_30 leaf tissue"
-            },
+            "samp_name": "GW-11047-CL2_41_30 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3743,9 +3585,7 @@
             },
             "collected_from": "nmdc:frsite-11-33ydwj35",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-4579-CL3_72_14 leaf tissue"
-            },
+            "samp_name": "GW-4579-CL3_72_14 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3789,9 +3629,7 @@
             },
             "collected_from": "nmdc:frsite-11-2kar1689",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co1_14_4 leaf tissue"
-            },
+            "samp_name": "GW-4579-Co1_14_4 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3836,9 +3674,7 @@
             },
             "collected_from": "nmdc:frsite-11-gj4b7r82",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co2_44_8 leaf tissue"
-            },
+            "samp_name": "GW-4579-Co2_44_8 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3883,9 +3719,7 @@
             },
             "collected_from": "nmdc:frsite-11-xswyyh42",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-4579-Co3_14_51 leaf tissue"
-            },
+            "samp_name": "GW-4579-Co3_14_51 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3930,9 +3764,7 @@
             },
             "collected_from": "nmdc:frsite-11-4mh6ez17",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co1_37_5 leaf tissue"
-            },
+            "samp_name": "GW-7986-Co1_37_5 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -3977,9 +3809,7 @@
             },
             "collected_from": "nmdc:frsite-11-deg3jc90",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co2_68_28 leaf tissue"
-            },
+            "samp_name": "GW-7986-Co2_68_28 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4024,9 +3854,7 @@
             },
             "collected_from": "nmdc:frsite-11-d8gr3x28",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-7986-Co3_31_39 leaf tissue"
-            },
+            "samp_name": "GW-7986-Co3_31_39 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4071,9 +3899,7 @@
             },
             "collected_from": "nmdc:frsite-11-h2vqs249",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-9591-CL3_98_5 leaf tissue"
-            },
+            "samp_name": "GW-9591-CL3_98_5 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4118,9 +3944,7 @@
             },
             "collected_from": "nmdc:frsite-11-htxpdg27",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co1_16_8 leaf tissue"
-            },
+            "samp_name": "GW-9591-Co1_16_8 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4165,9 +3989,7 @@
             },
             "collected_from": "nmdc:frsite-11-11d1jp93",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co2_62_24 leaf tissue"
-            },
+            "samp_name": "GW-9591-Co2_62_24 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4212,9 +4034,7 @@
             },
             "collected_from": "nmdc:frsite-11-tp5fvq81",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "GW-9591-Co3_35_48 leaf tissue"
-            },
+            "samp_name": "GW-9591-Co3_35_48 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4259,9 +4079,7 @@
             },
             "collected_from": "nmdc:frsite-11-gads4259",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-CL2_69_25 leaf tissue"
-            },
+            "samp_name": "SKWA-24-3-CL2_69_25 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4306,9 +4124,7 @@
             },
             "collected_from": "nmdc:frsite-11-6rdwh541",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co1_3_5 leaf tissue"
-            },
+            "samp_name": "SKWA-24-3-Co1_3_5 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4353,9 +4169,7 @@
             },
             "collected_from": "nmdc:frsite-11-89c7aj36",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co2_41_10 leaf tissue"
-            },
+            "samp_name": "SKWA-24-3-Co2_41_10 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4400,9 +4214,7 @@
             },
             "collected_from": "nmdc:frsite-11-8cgdr458",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWA-24-3-Co3_23_35 leaf tissue"
-            },
+            "samp_name": "SKWA-24-3-Co3_23_35 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4447,9 +4259,7 @@
             },
             "collected_from": "nmdc:frsite-11-a0xgtr56",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-CL2_58_25 leaf tissue"
-            },
+            "samp_name": "SKWD-24-1-CL2_58_25 leaf tissue",
             "elev": 1.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4494,9 +4304,7 @@
             },
             "collected_from": "nmdc:frsite-11-n1kkm793",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co1_7_5 leaf tissue"
-            },
+            "samp_name": "SKWD-24-1-Co1_7_5 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4541,9 +4349,7 @@
             },
             "collected_from": "nmdc:frsite-11-gcww7647",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co2_54_22 leaf tissue"
-            },
+            "samp_name": "SKWD-24-1-Co2_54_22 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
@@ -4588,9 +4394,7 @@
             },
             "collected_from": "nmdc:frsite-11-pe2b7f12",
             "type": "nmdc:Biosample",
-            "samp_name": {
-                "has_raw_value": "SKWD-24-1-Co3_24_32 leaf tissue"
-            },
+            "samp_name": "SKWD-24-1-Co3_24_32 leaf tissue",
             "elev": 62.0,
             "geo_loc_name": {
                 "has_raw_value": "USA: Oregon"
