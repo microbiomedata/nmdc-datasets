@@ -39,7 +39,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2695"
+                "has_raw_value": "46.1208 -123.2695",
+                "latitude": 46.1208,
+                "longitude": -123.2695
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -84,7 +86,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -129,7 +133,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2715"
+                "has_raw_value": "46.1209 -123.2715",
+                "latitude": 46.1209,
+                "longitude": -123.2715
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -174,7 +180,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.194"
+                "has_raw_value": "44.5879 -123.194",
+                "latitude": 44.5879,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -219,7 +227,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1934"
+                "has_raw_value": "44.5878 -123.1934",
+                "latitude": 44.5878,
+                "longitude": -123.1934
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -264,7 +274,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1924"
+                "has_raw_value": "44.588 -123.1924",
+                "latitude": 44.588,
+                "longitude": -123.1924
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -309,7 +321,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2705"
+                "has_raw_value": "46.1215 -123.2705",
+                "latitude": 46.1215,
+                "longitude": -123.2705
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -354,7 +368,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2718"
+                "has_raw_value": "46.1214 -123.2718",
+                "latitude": 46.1214,
+                "longitude": -123.2718
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -399,7 +415,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -444,7 +462,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -489,7 +509,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1927"
+                "has_raw_value": "44.5881 -123.1927",
+                "latitude": 44.5881,
+                "longitude": -123.1927
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -534,7 +556,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2713"
+                "has_raw_value": "46.1208 -123.2713",
+                "latitude": 46.1208,
+                "longitude": -123.2713
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -579,7 +603,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2691"
+                "has_raw_value": "46.1209 -123.2691",
+                "latitude": 46.1209,
+                "longitude": -123.2691
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -624,7 +650,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -669,7 +697,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -714,7 +744,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -759,7 +791,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1922"
+                "has_raw_value": "44.588 -123.1922",
+                "latitude": 44.588,
+                "longitude": -123.1922
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -804,7 +838,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2694"
+                "has_raw_value": "46.1216 -123.2694",
+                "latitude": 46.1216,
+                "longitude": -123.2694
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -849,7 +885,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2707"
+                "has_raw_value": "46.121 -123.2707",
+                "latitude": 46.121,
+                "longitude": -123.2707
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -894,7 +932,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2694"
+                "has_raw_value": "46.1214 -123.2694",
+                "latitude": 46.1214,
+                "longitude": -123.2694
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -939,7 +979,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2703"
+                "has_raw_value": "46.1215 -123.2703",
+                "latitude": 46.1215,
+                "longitude": -123.2703
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -984,7 +1026,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2692"
+                "has_raw_value": "46.1208 -123.2692",
+                "latitude": 46.1208,
+                "longitude": -123.2692
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1029,7 +1073,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1074,7 +1120,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1936"
+                "has_raw_value": "44.5875 -123.1936",
+                "latitude": 44.5875,
+                "longitude": -123.1936
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1119,7 +1167,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1929"
+                "has_raw_value": "44.588 -123.1929",
+                "latitude": 44.588,
+                "longitude": -123.1929
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1164,7 +1214,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2703"
+                "has_raw_value": "46.1212 -123.2703",
+                "latitude": 46.1212,
+                "longitude": -123.2703
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1209,7 +1261,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1939"
+                "has_raw_value": "44.5882 -123.1939",
+                "latitude": 44.5882,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1254,7 +1308,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1936"
+                "has_raw_value": "44.5877 -123.1936",
+                "latitude": 44.5877,
+                "longitude": -123.1936
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1299,7 +1355,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1929"
+                "has_raw_value": "44.5881 -123.1929",
+                "latitude": 44.5881,
+                "longitude": -123.1929
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1344,7 +1402,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2691"
+                "has_raw_value": "46.1214 -123.2691",
+                "latitude": 46.1214,
+                "longitude": -123.2691
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1389,7 +1449,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2703"
+                "has_raw_value": "46.1209 -123.2703",
+                "latitude": 46.1209,
+                "longitude": -123.2703
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1434,7 +1496,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2714"
+                "has_raw_value": "46.1209 -123.2714",
+                "latitude": 46.1209,
+                "longitude": -123.2714
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1479,7 +1543,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1524,7 +1590,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1936"
+                "has_raw_value": "44.5878 -123.1936",
+                "latitude": 44.5878,
+                "longitude": -123.1936
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1569,7 +1637,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1927"
+                "has_raw_value": "44.5882 -123.1927",
+                "latitude": 44.5882,
+                "longitude": -123.1927
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1614,7 +1684,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2698"
+                "has_raw_value": "46.1213 -123.2698",
+                "latitude": 46.1213,
+                "longitude": -123.2698
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1659,7 +1731,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2709"
+                "has_raw_value": "46.1213 -123.2709",
+                "latitude": 46.1213,
+                "longitude": -123.2709
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1704,7 +1778,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1939"
+                "has_raw_value": "44.588 -123.1939",
+                "latitude": 44.588,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1749,7 +1825,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1794,7 +1872,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1839,7 +1919,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2691"
+                "has_raw_value": "46.1208 -123.2691",
+                "latitude": 46.1208,
+                "longitude": -123.2691
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1884,7 +1966,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2701"
+                "has_raw_value": "46.1216 -123.2701",
+                "latitude": 46.1216,
+                "longitude": -123.2701
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1929,7 +2013,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2715"
+                "has_raw_value": "46.1214 -123.2715",
+                "latitude": 46.1214,
+                "longitude": -123.2715
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -1974,7 +2060,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2019,7 +2107,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1939"
+                "has_raw_value": "44.5876 -123.1939",
+                "latitude": 44.5876,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2064,7 +2154,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1924"
+                "has_raw_value": "44.5882 -123.1924",
+                "latitude": 44.5882,
+                "longitude": -123.1924
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2109,7 +2201,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2695"
+                "has_raw_value": "46.1216 -123.2695",
+                "latitude": 46.1216,
+                "longitude": -123.2695
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2154,7 +2248,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1207 -123.2716"
+                "has_raw_value": "46.1207 -123.2716",
+                "latitude": 46.1207,
+                "longitude": -123.2716
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2199,7 +2295,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2696"
+                "has_raw_value": "46.1211 -123.2696",
+                "latitude": 46.1211,
+                "longitude": -123.2696
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2244,7 +2342,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2289,7 +2389,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2334,7 +2436,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1925"
+                "has_raw_value": "44.5882 -123.1925",
+                "latitude": 44.5882,
+                "longitude": -123.1925
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2379,7 +2483,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2698"
+                "has_raw_value": "46.1212 -123.2698",
+                "latitude": 46.1212,
+                "longitude": -123.2698
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2424,7 +2530,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2469,7 +2577,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1934"
+                "has_raw_value": "44.5877 -123.1934",
+                "latitude": 44.5877,
+                "longitude": -123.1934
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2514,7 +2624,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.193"
+                "has_raw_value": "44.5879 -123.193",
+                "latitude": 44.5879,
+                "longitude": -123.193
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2559,7 +2671,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2693"
+                "has_raw_value": "46.1211 -123.2693",
+                "latitude": 46.1211,
+                "longitude": -123.2693
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2604,7 +2718,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2713"
+                "has_raw_value": "46.1212 -123.2713",
+                "latitude": 46.1212,
+                "longitude": -123.2713
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2649,7 +2765,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2694,7 +2812,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1932"
+                "has_raw_value": "44.5875 -123.1932",
+                "latitude": 44.5875,
+                "longitude": -123.1932
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2739,7 +2859,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1928"
+                "has_raw_value": "44.5879 -123.1928",
+                "latitude": 44.5879,
+                "longitude": -123.1928
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2784,7 +2906,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2692"
+                "has_raw_value": "46.1215 -123.2692",
+                "latitude": 46.1215,
+                "longitude": -123.2692
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2829,7 +2953,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2696"
+                "has_raw_value": "46.1214 -123.2696",
+                "latitude": 46.1214,
+                "longitude": -123.2696
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2874,7 +3000,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2714"
+                "has_raw_value": "46.121 -123.2714",
+                "latitude": 46.121,
+                "longitude": -123.2714
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2919,7 +3047,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1938"
+                "has_raw_value": "44.5882 -123.1938",
+                "latitude": 44.5882,
+                "longitude": -123.1938
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -2964,7 +3094,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1937"
+                "has_raw_value": "44.5874 -123.1937",
+                "latitude": 44.5874,
+                "longitude": -123.1937
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3009,7 +3141,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3054,7 +3188,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2708"
+                "has_raw_value": "46.1212 -123.2708",
+                "latitude": 46.1212,
+                "longitude": -123.2708
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3099,7 +3235,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.271"
+                "has_raw_value": "46.1215 -123.271",
+                "latitude": 46.1215,
+                "longitude": -123.271
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3144,7 +3282,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3189,7 +3329,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1935"
+                "has_raw_value": "44.5875 -123.1935",
+                "latitude": 44.5875,
+                "longitude": -123.1935
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3234,7 +3376,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1926"
+                "has_raw_value": "44.588 -123.1926",
+                "latitude": 44.588,
+                "longitude": -123.1926
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3279,7 +3423,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2716"
+                "has_raw_value": "46.1216 -123.2716",
+                "latitude": 46.1216,
+                "longitude": -123.2716
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3324,7 +3470,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.1939"
+                "has_raw_value": "44.5883 -123.1939",
+                "latitude": 44.5883,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3369,7 +3517,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3414,7 +3564,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3459,7 +3611,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2694"
+                "has_raw_value": "46.1211 -123.2694",
+                "latitude": 46.1211,
+                "longitude": -123.2694
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3504,7 +3658,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.269"
+                "has_raw_value": "46.1216 -123.269",
+                "latitude": 46.1216,
+                "longitude": -123.269
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3549,7 +3705,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3591,7 +3749,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2709"
+                "has_raw_value": "46.1213 -123.2709",
+                "latitude": 46.1213,
+                "longitude": -123.2709
             },
             "habitat": "leaf tissue",
             "location": "USA"
@@ -3635,7 +3795,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.194"
+                "has_raw_value": "44.5881 -123.194",
+                "latitude": 44.5881,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3680,7 +3842,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1938"
+                "has_raw_value": "44.5877 -123.1938",
+                "latitude": 44.5877,
+                "longitude": -123.1938
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3725,7 +3889,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3770,7 +3936,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1939"
+                "has_raw_value": "44.5878 -123.1939",
+                "latitude": 44.5878,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3815,7 +3983,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1932"
+                "has_raw_value": "44.5874 -123.1932",
+                "latitude": 44.5874,
+                "longitude": -123.1932
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3860,7 +4030,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1929"
+                "has_raw_value": "44.5879 -123.1929",
+                "latitude": 44.5879,
+                "longitude": -123.1929
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3905,7 +4077,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2719"
+                "has_raw_value": "46.1215 -123.2719",
+                "latitude": 46.1215,
+                "longitude": -123.2719
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3950,7 +4124,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1939"
+                "has_raw_value": "44.5881 -123.1939",
+                "latitude": 44.5881,
+                "longitude": -123.1939
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -3995,7 +4171,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4040,7 +4218,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1926"
+                "has_raw_value": "44.5878 -123.1926",
+                "latitude": 44.5878,
+                "longitude": -123.1926
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4085,7 +4265,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2709"
+                "has_raw_value": "46.1209 -123.2709",
+                "latitude": 46.1209,
+                "longitude": -123.2709
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4130,7 +4312,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4175,7 +4359,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1938"
+                "has_raw_value": "44.5878 -123.1938",
+                "latitude": 44.5878,
+                "longitude": -123.1938
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4220,7 +4406,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.193"
+                "has_raw_value": "44.588 -123.193",
+                "latitude": 44.588,
+                "longitude": -123.193
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4265,7 +4453,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4310,7 +4500,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4355,7 +4547,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1934"
+                "has_raw_value": "44.5876 -123.1934",
+                "latitude": 44.5876,
+                "longitude": -123.1934
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
@@ -4400,7 +4594,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1931"
+                "has_raw_value": "44.588 -123.1931",
+                "latitude": 44.588,
+                "longitude": -123.1931
             },
             "habitat": "leaf tissue",
             "host_name": "Populus",
