@@ -2911,7 +2911,7 @@
             "lat_lon": {
                 "has_raw_value": "38.456 -121.5013",
                 "latitude": 38.456,
-                "longitude": 121.5013
+                "longitude": -121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3206,7 +3206,7 @@
             },
             "lat_lon": {
                 "has_raw_value": "68.75 161.3",
-                "latitude": 68,
+                "latitude": 68.75,
                 "longitude": 161.3
             },
             "samp_taxon_id": {
@@ -5289,7 +5289,7 @@
             "lat_lon": {
                 "has_raw_value": "38.456 -121.5013",
                 "latitude": 38.456,
-                "longitude": 121.5013
+                "longitude": -121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8303,7 +8303,7 @@
             "lat_lon": {
                 "has_raw_value": "32.541 -87.7982",
                 "latitude": 32.541,
-                "longitude": 87.7982
+                "longitude": -87.7982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8434,7 +8434,7 @@
             "lat_lon": {
                 "has_raw_value": "32.541 -87.7982",
                 "latitude": 32.541,
-                "longitude": 87.7982
+                "longitude": -87.7982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8492,7 +8492,7 @@
             },
             "lat_lon": {
                 "has_raw_value": "45.2476 7.8043",
-                "latitude": 45,
+                "latitude": 45.2476,
                 "longitude": 7.8043
             },
             "samp_taxon_id": {
@@ -9026,7 +9026,7 @@
             "lat_lon": {
                 "has_raw_value": "37.676 -121.2663",
                 "latitude": 37.676,
-                "longitude": 121.2663
+                "longitude": -121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10593,7 +10593,7 @@
             "lat_lon": {
                 "has_raw_value": "35.868 -106.5233",
                 "latitude": 35.868,
-                "longitude": 106.5233
+                "longitude": -106.5233
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10718,7 +10718,7 @@
             },
             "lat_lon": {
                 "has_raw_value": "45.2476 7.8043",
-                "latitude": 45,
+                "latitude": 45.2476,
                 "longitude": 7.8043
             },
             "samp_taxon_id": {
@@ -11017,7 +11017,7 @@
             "lat_lon": {
                 "has_raw_value": "41.178 -91.182",
                 "latitude": 41.178,
-                "longitude": 91.182
+                "longitude": -91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11314,7 +11314,7 @@
             "lat_lon": {
                 "has_raw_value": "38.456 -121.5013",
                 "latitude": 38.456,
-                "longitude": 121.5013
+                "longitude": -121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13494,7 +13494,7 @@
             "lat_lon": {
                 "has_raw_value": "41.178 -91.182",
                 "latitude": 41.178,
-                "longitude": 91.182
+                "longitude": -91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13553,7 +13553,7 @@
             "lat_lon": {
                 "has_raw_value": "37.676 -121.2663",
                 "latitude": 37.676,
-                "longitude": 121.2663
+                "longitude": -121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14326,7 +14326,7 @@
             "lat_lon": {
                 "has_raw_value": "41.178 -91.182",
                 "latitude": 41.178,
-                "longitude": 91.182
+                "longitude": -91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14624,7 +14624,7 @@
             "lat_lon": {
                 "has_raw_value": "37.676 -121.2663",
                 "latitude": 37.676,
-                "longitude": 121.2663
+                "longitude": -121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14682,7 +14682,7 @@
             },
             "lat_lon": {
                 "has_raw_value": "68.75 161.3",
-                "latitude": 68,
+                "latitude": 68.75,
                 "longitude": 161.3
             },
             "samp_taxon_id": {
@@ -16266,7 +16266,7 @@
             "lat_lon": {
                 "has_raw_value": "46.253 -119.4772",
                 "latitude": 46.253,
-                "longitude": 119.4772
+                "longitude": -119.4772
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
