@@ -45,7 +45,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -108,7 +110,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2695"
+                "has_raw_value": "46.1212 -123.2695",
+                "latitude": 46.1212,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -171,7 +175,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -234,7 +240,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -297,7 +305,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1939"
+                "has_raw_value": "44.5878 -123.1939",
+                "latitude": 44.5878,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -357,7 +367,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -416,7 +428,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1929"
+                "has_raw_value": "44.588 -123.1929",
+                "latitude": 44.588,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -475,7 +489,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1929"
+                "has_raw_value": "44.5881 -123.1929",
+                "latitude": 44.5881,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -534,7 +550,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2703"
+                "has_raw_value": "46.1209 -123.2703",
+                "latitude": 46.1209,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -593,7 +611,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1936"
+                "has_raw_value": "44.5878 -123.1936",
+                "latitude": 44.5878,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -652,7 +672,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -711,7 +733,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2698"
+                "has_raw_value": "46.1212 -123.2698",
+                "latitude": 46.1212,
+                "longitude": -123.2698
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -770,7 +794,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1939"
+                "has_raw_value": "44.5878 -123.1939",
+                "latitude": 44.5878,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -829,7 +855,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -888,7 +916,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1927"
+                "has_raw_value": "44.5881 -123.1927",
+                "latitude": 44.5881,
+                "longitude": -123.1927
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -947,7 +977,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2712"
+                "has_raw_value": "46.1215 -123.2712",
+                "latitude": 46.1215,
+                "longitude": -123.2712
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1006,7 +1038,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2701"
+                "has_raw_value": "46.1214 -123.2701",
+                "latitude": 46.1214,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1068,7 +1102,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2694"
+                "has_raw_value": "46.1214 -123.2694",
+                "latitude": 46.1214,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1131,7 +1167,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1194,7 +1232,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1938"
+                "has_raw_value": "44.5882 -123.1938",
+                "latitude": 44.5882,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1257,7 +1297,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2708"
+                "has_raw_value": "46.1212 -123.2708",
+                "latitude": 46.1212,
+                "longitude": -123.2708
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1320,7 +1362,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2695"
+                "has_raw_value": "46.1208 -123.2695",
+                "latitude": 46.1208,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1383,7 +1427,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1443,7 +1489,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1502,7 +1550,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1934"
+                "has_raw_value": "44.5877 -123.1934",
+                "latitude": 44.5877,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1561,7 +1611,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.193"
+                "has_raw_value": "44.5879 -123.193",
+                "latitude": 44.5879,
+                "longitude": -123.193
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1620,7 +1672,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.271"
+                "has_raw_value": "46.1215 -123.271",
+                "latitude": 46.1215,
+                "longitude": -123.271
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1679,7 +1733,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1929"
+                "has_raw_value": "44.5879 -123.1929",
+                "latitude": 44.5879,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1738,7 +1794,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1926"
+                "has_raw_value": "44.5878 -123.1926",
+                "latitude": 44.5878,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1797,7 +1855,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -1859,7 +1919,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1922,7 +1984,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1927"
+                "has_raw_value": "44.5881 -123.1927",
+                "latitude": 44.5881,
+                "longitude": -123.1927
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -1985,7 +2049,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -2048,7 +2114,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.58807 -123.194072"
+                "has_raw_value": "44.58807 -123.194072",
+                "latitude": 44.58807,
+                "longitude": -123.194072
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2111,7 +2179,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587809 -123.193624"
+                "has_raw_value": "44.587809 -123.193624",
+                "latitude": 44.587809,
+                "longitude": -123.193624
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2174,7 +2244,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588226 -123.192776"
+                "has_raw_value": "44.588226 -123.192776",
+                "latitude": 44.588226,
+                "longitude": -123.192776
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2237,7 +2309,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587694 -123.193368"
+                "has_raw_value": "44.587694 -123.193368",
+                "latitude": 44.587694,
+                "longitude": -123.193368
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2300,7 +2374,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121529 -123.27034"
+                "has_raw_value": "46.121529 -123.27034",
+                "latitude": 46.121529,
+                "longitude": -123.27034
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2363,7 +2439,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587955 -123.193022"
+                "has_raw_value": "44.587955 -123.193022",
+                "latitude": 44.587955,
+                "longitude": -123.193022
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2426,7 +2504,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588286 -123.194027"
+                "has_raw_value": "44.588286 -123.194027",
+                "latitude": 44.588286,
+                "longitude": -123.194027
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2489,7 +2569,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588088 -123.192429"
+                "has_raw_value": "44.588088 -123.192429",
+                "latitude": 44.588088,
+                "longitude": -123.192429
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2552,7 +2634,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120986 -123.26911"
+                "has_raw_value": "46.120986 -123.26911",
+                "latitude": 46.120986,
+                "longitude": -123.26911
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2615,7 +2699,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121608 -123.269447"
+                "has_raw_value": "46.121608 -123.269447",
+                "latitude": 46.121608,
+                "longitude": -123.269447
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2678,7 +2764,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121439 -123.270375"
+                "has_raw_value": "46.121439 -123.270375",
+                "latitude": 46.121439,
+                "longitude": -123.270375
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -2741,7 +2829,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -2804,7 +2894,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2691"
+                "has_raw_value": "46.1208 -123.2691",
+                "latitude": 46.1208,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -2867,7 +2959,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2694"
+                "has_raw_value": "46.1211 -123.2694",
+                "latitude": 46.1211,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -2930,7 +3024,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2691"
+                "has_raw_value": "46.1209 -123.2691",
+                "latitude": 46.1209,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -2993,7 +3089,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2694"
+                "has_raw_value": "46.1216 -123.2694",
+                "latitude": 46.1216,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3053,7 +3151,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2704"
+                "has_raw_value": "46.1214 -123.2704",
+                "latitude": 46.1214,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3112,7 +3212,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1939"
+                "has_raw_value": "44.588 -123.1939",
+                "latitude": 44.588,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3171,7 +3273,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.194"
+                "has_raw_value": "44.5881 -123.194",
+                "latitude": 44.5881,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3233,7 +3337,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2713"
+                "has_raw_value": "46.1208 -123.2713",
+                "latitude": 46.1208,
+                "longitude": -123.2713
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3296,7 +3402,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3356,7 +3464,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1928"
+                "has_raw_value": "44.5879 -123.1928",
+                "latitude": 44.5879,
+                "longitude": -123.1928
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3415,7 +3525,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1926"
+                "has_raw_value": "44.588 -123.1926",
+                "latitude": 44.588,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3477,7 +3589,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2705"
+                "has_raw_value": "46.1215 -123.2705",
+                "latitude": 46.1215,
+                "longitude": -123.2705
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3540,7 +3654,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2703"
+                "has_raw_value": "46.1212 -123.2703",
+                "latitude": 46.1212,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3600,7 +3716,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3659,7 +3777,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2709"
+                "has_raw_value": "46.1213 -123.2709",
+                "latitude": 46.1213,
+                "longitude": -123.2709
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -3721,7 +3841,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1929"
+                "has_raw_value": "44.5881 -123.1929",
+                "latitude": 44.5881,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3784,7 +3906,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2693"
+                "has_raw_value": "46.1211 -123.2693",
+                "latitude": 46.1211,
+                "longitude": -123.2693
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3847,7 +3971,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1931"
+                "has_raw_value": "44.588 -123.1931",
+                "latitude": 44.588,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -3910,7 +4036,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121519 -123.270589"
+                "has_raw_value": "46.121519 -123.270589",
+                "latitude": 46.121519,
+                "longitude": -123.270589
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -3973,7 +4101,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121096 -123.270783"
+                "has_raw_value": "46.121096 -123.270783",
+                "latitude": 46.121096,
+                "longitude": -123.270783
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4036,7 +4166,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588248 -123.19409"
+                "has_raw_value": "44.588248 -123.19409",
+                "latitude": 44.588248,
+                "longitude": -123.19409
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4099,7 +4231,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588192 -123.19405"
+                "has_raw_value": "44.588192 -123.19405",
+                "latitude": 44.588192,
+                "longitude": -123.19405
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4162,7 +4296,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120803 -123.271378"
+                "has_raw_value": "46.120803 -123.271378",
+                "latitude": 46.120803,
+                "longitude": -123.271378
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4225,7 +4361,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121117 -123.269633"
+                "has_raw_value": "46.121117 -123.269633",
+                "latitude": 46.121117,
+                "longitude": -123.269633
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4288,7 +4426,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121233 -123.270148"
+                "has_raw_value": "46.121233 -123.270148",
+                "latitude": 46.121233,
+                "longitude": -123.270148
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4351,7 +4491,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.26946"
+                "has_raw_value": "46.1214 -123.26946",
+                "latitude": 46.1214,
+                "longitude": -123.26946
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4414,7 +4556,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120839 -123.269219"
+                "has_raw_value": "46.120839 -123.269219",
+                "latitude": 46.120839,
+                "longitude": -123.269219
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4477,7 +4621,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588222 -123.193963"
+                "has_raw_value": "44.588222 -123.193963",
+                "latitude": 44.588222,
+                "longitude": -123.193963
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4540,7 +4686,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121108 -123.269142"
+                "has_raw_value": "46.121108 -123.269142",
+                "latitude": 46.121108,
+                "longitude": -123.269142
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4603,7 +4751,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588162 -123.19393"
+                "has_raw_value": "44.588162 -123.19393",
+                "latitude": 44.588162,
+                "longitude": -123.19393
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4666,7 +4816,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587894 -123.192683"
+                "has_raw_value": "44.587894 -123.192683",
+                "latitude": 44.587894,
+                "longitude": -123.192683
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -4729,7 +4881,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -4792,7 +4946,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -4852,7 +5008,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -4914,7 +5072,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2698"
+                "has_raw_value": "46.1213 -123.2698",
+                "latitude": 46.1213,
+                "longitude": -123.2698
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -4977,7 +5137,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1929"
+                "has_raw_value": "44.5879 -123.1929",
+                "latitude": 44.5879,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5037,7 +5199,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1924"
+                "has_raw_value": "44.588 -123.1924",
+                "latitude": 44.588,
+                "longitude": -123.1924
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5096,7 +5260,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5155,7 +5321,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1939"
+                "has_raw_value": "44.5882 -123.1939",
+                "latitude": 44.5882,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5214,7 +5382,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1936"
+                "has_raw_value": "44.5877 -123.1936",
+                "latitude": 44.5877,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5273,7 +5443,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1207 -123.2716"
+                "has_raw_value": "46.1207 -123.2716",
+                "latitude": 46.1207,
+                "longitude": -123.2716
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5335,7 +5507,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2691"
+                "has_raw_value": "46.1214 -123.2691",
+                "latitude": 46.1214,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5398,7 +5572,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1924"
+                "has_raw_value": "44.588 -123.1924",
+                "latitude": 44.588,
+                "longitude": -123.1924
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5461,7 +5637,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2712"
+                "has_raw_value": "46.1215 -123.2712",
+                "latitude": 46.1215,
+                "longitude": -123.2712
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5524,7 +5702,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2714"
+                "has_raw_value": "46.121 -123.2714",
+                "latitude": 46.121,
+                "longitude": -123.2714
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5584,7 +5764,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1939"
+                "has_raw_value": "44.5876 -123.1939",
+                "latitude": 44.5876,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5643,7 +5825,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5702,7 +5886,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2697"
+                "has_raw_value": "46.1209 -123.2697",
+                "latitude": 46.1209,
+                "longitude": -123.2697
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5761,7 +5947,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1934"
+                "has_raw_value": "44.5876 -123.1934",
+                "latitude": 44.5876,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -5823,7 +6011,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5886,7 +6076,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1924"
+                "has_raw_value": "44.5882 -123.1924",
+                "latitude": 44.5882,
+                "longitude": -123.1924
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -5949,7 +6141,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1926"
+                "has_raw_value": "44.588 -123.1926",
+                "latitude": 44.588,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -6012,7 +6206,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120936 -123.269747"
+                "has_raw_value": "46.120936 -123.269747",
+                "latitude": 46.120936,
+                "longitude": -123.269747
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6075,7 +6271,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588158 -123.192616"
+                "has_raw_value": "44.588158 -123.192616",
+                "latitude": 44.588158,
+                "longitude": -123.192616
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6138,7 +6336,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588067 -123.193099"
+                "has_raw_value": "44.588067 -123.193099",
+                "latitude": 44.588067,
+                "longitude": -123.193099
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6201,7 +6401,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120845 -123.269575"
+                "has_raw_value": "46.120845 -123.269575",
+                "latitude": 46.120845,
+                "longitude": -123.269575
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6264,7 +6466,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588086 -123.192277"
+                "has_raw_value": "44.588086 -123.192277",
+                "latitude": 44.588086,
+                "longitude": -123.192277
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6327,7 +6531,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121531 -123.271207"
+                "has_raw_value": "46.121531 -123.271207",
+                "latitude": 46.121531,
+                "longitude": -123.271207
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6390,7 +6596,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.12162 -123.269023"
+                "has_raw_value": "46.12162 -123.269023",
+                "latitude": 46.12162,
+                "longitude": -123.269023
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6453,7 +6661,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.58745 -123.193254"
+                "has_raw_value": "44.58745 -123.193254",
+                "latitude": 44.58745,
+                "longitude": -123.193254
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6516,7 +6726,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587826 -123.193839"
+                "has_raw_value": "44.587826 -123.193839",
+                "latitude": 44.587826,
+                "longitude": -123.193839
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6579,7 +6791,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121586 -123.269608"
+                "has_raw_value": "46.121586 -123.269608",
+                "latitude": 46.121586,
+                "longitude": -123.269608
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6642,7 +6856,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121108 -123.269142"
+                "has_raw_value": "46.121108 -123.269142",
+                "latitude": 46.121108,
+                "longitude": -123.269142
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -6702,7 +6918,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -6764,7 +6982,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1934"
+                "has_raw_value": "44.5878 -123.1934",
+                "latitude": 44.5878,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -6827,7 +7047,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -6890,7 +7112,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2713"
+                "has_raw_value": "46.1212 -123.2713",
+                "latitude": 46.1212,
+                "longitude": -123.2713
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -6950,7 +7174,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2713"
+                "has_raw_value": "46.1208 -123.2713",
+                "latitude": 46.1208,
+                "longitude": -123.2713
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7012,7 +7238,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -7075,7 +7303,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.193"
+                "has_raw_value": "44.588 -123.193",
+                "latitude": 44.588,
+                "longitude": -123.193
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -7135,7 +7365,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2709"
+                "has_raw_value": "46.1213 -123.2709",
+                "latitude": 46.1213,
+                "longitude": -123.2709
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7194,7 +7426,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7253,7 +7487,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1924"
+                "has_raw_value": "44.5882 -123.1924",
+                "latitude": 44.5882,
+                "longitude": -123.1924
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7312,7 +7548,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7371,7 +7609,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1938"
+                "has_raw_value": "44.5882 -123.1938",
+                "latitude": 44.5882,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7430,7 +7670,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.269"
+                "has_raw_value": "46.1216 -123.269",
+                "latitude": 46.1216,
+                "longitude": -123.269
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7492,7 +7734,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1928"
+                "has_raw_value": "44.5879 -123.1928",
+                "latitude": 44.5879,
+                "longitude": -123.1928
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -7552,7 +7796,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7611,7 +7857,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1927"
+                "has_raw_value": "44.5882 -123.1927",
+                "latitude": 44.5882,
+                "longitude": -123.1927
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7670,7 +7918,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2713"
+                "has_raw_value": "46.1212 -123.2713",
+                "latitude": 46.1212,
+                "longitude": -123.2713
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7732,7 +7982,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1934"
+                "has_raw_value": "44.5876 -123.1934",
+                "latitude": 44.5876,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -7792,7 +8044,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7851,7 +8105,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2704"
+                "has_raw_value": "46.1211 -123.2704",
+                "latitude": 46.1211,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7910,7 +8166,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2716"
+                "has_raw_value": "46.1216 -123.2716",
+                "latitude": 46.1216,
+                "longitude": -123.2716
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -7972,7 +8230,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.194"
+                "has_raw_value": "44.5879 -123.194",
+                "latitude": 44.5879,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8035,7 +8295,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8098,7 +8360,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2692"
+                "has_raw_value": "46.1208 -123.2692",
+                "latitude": 46.1208,
+                "longitude": -123.2692
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8161,7 +8425,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2701"
+                "has_raw_value": "46.1212 -123.2701",
+                "latitude": 46.1212,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8224,7 +8490,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2714"
+                "has_raw_value": "46.1209 -123.2714",
+                "latitude": 46.1209,
+                "longitude": -123.2714
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8287,7 +8555,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8347,7 +8617,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2691"
+                "has_raw_value": "46.1208 -123.2691",
+                "latitude": 46.1208,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -8406,7 +8678,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1926"
+                "has_raw_value": "44.5881 -123.1926",
+                "latitude": 44.5881,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -8465,7 +8739,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1939"
+                "has_raw_value": "44.5881 -123.1939",
+                "latitude": 44.5881,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -8527,7 +8803,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2715"
+                "has_raw_value": "46.1214 -123.2715",
+                "latitude": 46.1214,
+                "longitude": -123.2715
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8590,7 +8868,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2696"
+                "has_raw_value": "46.1213 -123.2696",
+                "latitude": 46.1213,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8653,7 +8933,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.1939"
+                "has_raw_value": "44.5883 -123.1939",
+                "latitude": 44.5883,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8716,7 +8998,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1938"
+                "has_raw_value": "44.5878 -123.1938",
+                "latitude": 44.5878,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -8779,7 +9063,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121462 -123.270441"
+                "has_raw_value": "46.121462 -123.270441",
+                "latitude": 46.121462,
+                "longitude": -123.270441
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -8842,7 +9128,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121413 -123.269199"
+                "has_raw_value": "46.121413 -123.269199",
+                "latitude": 46.121413,
+                "longitude": -123.269199
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -8905,7 +9193,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121345 -123.270991"
+                "has_raw_value": "46.121345 -123.270991",
+                "latitude": 46.121345,
+                "longitude": -123.270991
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -8968,7 +9258,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121012 -123.271438"
+                "has_raw_value": "46.121012 -123.271438",
+                "latitude": 46.121012,
+                "longitude": -123.271438
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9031,7 +9323,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120985 -123.271523"
+                "has_raw_value": "46.120985 -123.271523",
+                "latitude": 46.120985,
+                "longitude": -123.271523
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9094,7 +9388,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587669 -123.193301"
+                "has_raw_value": "44.587669 -123.193301",
+                "latitude": 44.587669,
+                "longitude": -123.193301
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9157,7 +9453,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.58753 -123.19336"
+                "has_raw_value": "44.58753 -123.19336",
+                "latitude": 44.58753,
+                "longitude": -123.19336
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9220,7 +9518,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588202 -123.193144"
+                "has_raw_value": "44.588202 -123.193144",
+                "latitude": 44.588202,
+                "longitude": -123.193144
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9283,7 +9583,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.58826 -123.192446"
+                "has_raw_value": "44.58826 -123.192446",
+                "latitude": 44.58826,
+                "longitude": -123.192446
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9346,7 +9648,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121649 -123.269525"
+                "has_raw_value": "46.121649 -123.269525",
+                "latitude": 46.121649,
+                "longitude": -123.269525
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9409,7 +9713,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588085 -123.194044"
+                "has_raw_value": "44.588085 -123.194044",
+                "latitude": 44.588085,
+                "longitude": -123.194044
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9472,7 +9778,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121204 -123.271338"
+                "has_raw_value": "46.121204 -123.271338",
+                "latitude": 46.121204,
+                "longitude": -123.271338
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9535,7 +9843,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587786 -123.193893"
+                "has_raw_value": "44.587786 -123.193893",
+                "latitude": 44.587786,
+                "longitude": -123.193893
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9598,7 +9908,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588348 -123.19403"
+                "has_raw_value": "44.588348 -123.19403",
+                "latitude": 44.588348,
+                "longitude": -123.19403
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9661,7 +9973,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121006 -123.270477"
+                "has_raw_value": "46.121006 -123.270477",
+                "latitude": 46.121006,
+                "longitude": -123.270477
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9724,7 +10038,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588172 -123.19295"
+                "has_raw_value": "44.588172 -123.19295",
+                "latitude": 44.588172,
+                "longitude": -123.19295
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9787,7 +10103,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588254 -123.193143"
+                "has_raw_value": "44.588254 -123.193143",
+                "latitude": 44.588254,
+                "longitude": -123.193143
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9850,7 +10168,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588251 -123.194029"
+                "has_raw_value": "44.588251 -123.194029",
+                "latitude": 44.588251,
+                "longitude": -123.194029
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9913,7 +10233,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587646 -123.193454"
+                "has_raw_value": "44.587646 -123.193454",
+                "latitude": 44.587646,
+                "longitude": -123.193454
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -9976,7 +10298,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2696"
+                "has_raw_value": "46.1211 -123.2696",
+                "latitude": 46.1211,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10039,7 +10363,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2691"
+                "has_raw_value": "46.1211 -123.2691",
+                "latitude": 46.1211,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10102,7 +10428,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1207 -123.2716"
+                "has_raw_value": "46.1207 -123.2716",
+                "latitude": 46.1207,
+                "longitude": -123.2716
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10165,7 +10493,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10225,7 +10555,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1922"
+                "has_raw_value": "44.588 -123.1922",
+                "latitude": 44.588,
+                "longitude": -123.1922
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10284,7 +10616,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2692"
+                "has_raw_value": "46.1208 -123.2692",
+                "latitude": 46.1208,
+                "longitude": -123.2692
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10346,7 +10680,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.193"
+                "has_raw_value": "44.5879 -123.193",
+                "latitude": 44.5879,
+                "longitude": -123.193
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10406,7 +10742,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10465,7 +10803,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10524,7 +10864,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2708"
+                "has_raw_value": "46.1212 -123.2708",
+                "latitude": 46.1212,
+                "longitude": -123.2708
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10583,7 +10925,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.193"
+                "has_raw_value": "44.588 -123.193",
+                "latitude": 44.588,
+                "longitude": -123.193
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10645,7 +10989,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.194"
+                "has_raw_value": "44.588 -123.194",
+                "latitude": 44.588,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10708,7 +11054,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -10768,7 +11116,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1208 -123.2695"
+                "has_raw_value": "46.1208 -123.2695",
+                "latitude": 46.1208,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10827,7 +11177,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2715"
+                "has_raw_value": "46.1209 -123.2715",
+                "latitude": 46.1209,
+                "longitude": -123.2715
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10886,7 +11238,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.194"
+                "has_raw_value": "44.5879 -123.194",
+                "latitude": 44.5879,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -10945,7 +11299,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1925"
+                "has_raw_value": "44.5882 -123.1925",
+                "latitude": 44.5882,
+                "longitude": -123.1925
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11007,7 +11363,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2703"
+                "has_raw_value": "46.1215 -123.2703",
+                "latitude": 46.1215,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11070,7 +11428,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2701"
+                "has_raw_value": "46.1214 -123.2701",
+                "latitude": 46.1214,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11130,7 +11490,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1935"
+                "has_raw_value": "44.5875 -123.1935",
+                "latitude": 44.5875,
+                "longitude": -123.1935
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11189,7 +11551,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2701"
+                "has_raw_value": "46.1212 -123.2701",
+                "latitude": 46.1212,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11248,7 +11612,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1932"
+                "has_raw_value": "44.5874 -123.1932",
+                "latitude": 44.5874,
+                "longitude": -123.1932
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11307,7 +11673,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11366,7 +11734,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1938"
+                "has_raw_value": "44.5878 -123.1938",
+                "latitude": 44.5878,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11425,7 +11795,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1931"
+                "has_raw_value": "44.588 -123.1931",
+                "latitude": 44.588,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11487,7 +11859,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1936"
+                "has_raw_value": "44.5875 -123.1936",
+                "latitude": 44.5875,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11550,7 +11924,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1932"
+                "has_raw_value": "44.5874 -123.1932",
+                "latitude": 44.5874,
+                "longitude": -123.1932
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11613,7 +11989,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2715"
+                "has_raw_value": "46.1209 -123.2715",
+                "latitude": 46.1209,
+                "longitude": -123.2715
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11676,7 +12054,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1934"
+                "has_raw_value": "44.5877 -123.1934",
+                "latitude": 44.5877,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -11736,7 +12116,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2694"
+                "has_raw_value": "46.1216 -123.2694",
+                "latitude": 46.1216,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11795,7 +12177,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11854,7 +12238,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2714"
+                "has_raw_value": "46.121 -123.2714",
+                "latitude": 46.121,
+                "longitude": -123.2714
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11913,7 +12299,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2691"
+                "has_raw_value": "46.1211 -123.2691",
+                "latitude": 46.1211,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -11972,7 +12360,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2695"
+                "has_raw_value": "46.1212 -123.2695",
+                "latitude": 46.1212,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -12034,7 +12424,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2707"
+                "has_raw_value": "46.121 -123.2707",
+                "latitude": 46.121,
+                "longitude": -123.2707
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -12097,7 +12489,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1939"
+                "has_raw_value": "44.588 -123.1939",
+                "latitude": 44.588,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -12160,7 +12554,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2709"
+                "has_raw_value": "46.1209 -123.2709",
+                "latitude": 46.1209,
+                "longitude": -123.2709
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -12223,7 +12619,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588289 -123.192566"
+                "has_raw_value": "44.588289 -123.192566",
+                "latitude": 44.588289,
+                "longitude": -123.192566
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12286,7 +12684,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121497 -123.269638"
+                "has_raw_value": "46.121497 -123.269638",
+                "latitude": 46.121497,
+                "longitude": -123.269638
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12349,7 +12749,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120901 -123.269789"
+                "has_raw_value": "46.120901 -123.269789",
+                "latitude": 46.120901,
+                "longitude": -123.269789
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12412,7 +12814,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121285 -123.269504"
+                "has_raw_value": "46.121285 -123.269504",
+                "latitude": 46.121285,
+                "longitude": -123.269504
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12475,7 +12879,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587648 -123.193914"
+                "has_raw_value": "44.587648 -123.193914",
+                "latitude": 44.587648,
+                "longitude": -123.193914
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12538,7 +12944,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587994 -123.192874"
+                "has_raw_value": "44.587994 -123.192874",
+                "latitude": 44.587994,
+                "longitude": -123.192874
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12601,7 +13009,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.12116 -123.270413"
+                "has_raw_value": "46.12116 -123.270413",
+                "latitude": 46.12116,
+                "longitude": -123.270413
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12664,7 +13074,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121352 -123.270987"
+                "has_raw_value": "46.121352 -123.270987",
+                "latitude": 46.121352,
+                "longitude": -123.270987
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12727,7 +13139,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588185 -123.192616"
+                "has_raw_value": "44.588185 -123.192616",
+                "latitude": 44.588185,
+                "longitude": -123.192616
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12790,7 +13204,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587879 -123.193993"
+                "has_raw_value": "44.587879 -123.193993",
+                "latitude": 44.587879,
+                "longitude": -123.193993
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12853,7 +13269,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588049 -123.193187"
+                "has_raw_value": "44.588049 -123.193187",
+                "latitude": 44.588049,
+                "longitude": -123.193187
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12916,7 +13334,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587702 -123.193614"
+                "has_raw_value": "44.587702 -123.193614",
+                "latitude": 44.587702,
+                "longitude": -123.193614
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -12979,7 +13399,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587562 -123.193264"
+                "has_raw_value": "44.587562 -123.193264",
+                "latitude": 44.587562,
+                "longitude": -123.193264
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -13042,7 +13464,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121531 -123.271098"
+                "has_raw_value": "46.121531 -123.271098",
+                "latitude": 46.121531,
+                "longitude": -123.271098
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -13105,7 +13529,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587953 -123.192965"
+                "has_raw_value": "44.587953 -123.192965",
+                "latitude": 44.587953,
+                "longitude": -123.192965
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -13168,7 +13594,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587532 -123.193385"
+                "has_raw_value": "44.587532 -123.193385",
+                "latitude": 44.587532,
+                "longitude": -123.193385
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -13231,7 +13659,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1925"
+                "has_raw_value": "44.5882 -123.1925",
+                "latitude": 44.5882,
+                "longitude": -123.1925
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -13294,7 +13724,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1938"
+                "has_raw_value": "44.5877 -123.1938",
+                "latitude": 44.5877,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -13357,7 +13789,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -13417,7 +13851,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2705"
+                "has_raw_value": "46.1215 -123.2705",
+                "latitude": 46.1215,
+                "longitude": -123.2705
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13476,7 +13912,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2691"
+                "has_raw_value": "46.1209 -123.2691",
+                "latitude": 46.1209,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13538,7 +13976,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2692"
+                "has_raw_value": "46.1215 -123.2692",
+                "latitude": 46.1215,
+                "longitude": -123.2692
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -13602,7 +14042,9 @@
                 "has_raw_value": "USA: Oregon, Clatskanie"
             },
             "lat_lon": {
-                "has_raw_value": "46.121307 -123.269236"
+                "has_raw_value": "46.121307 -123.269236",
+                "latitude": 46.121307,
+                "longitude": -123.269236
             },
             "ph": 5.07,
             "samp_taxon_id": {
@@ -13662,7 +14104,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2718"
+                "has_raw_value": "46.1214 -123.2718",
+                "latitude": 46.1214,
+                "longitude": -123.2718
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13721,7 +14165,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1932"
+                "has_raw_value": "44.5875 -123.1932",
+                "latitude": 44.5875,
+                "longitude": -123.1932
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13780,7 +14226,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1937"
+                "has_raw_value": "44.5874 -123.1937",
+                "latitude": 44.5874,
+                "longitude": -123.1937
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13839,7 +14287,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1931"
+                "has_raw_value": "44.5882 -123.1931",
+                "latitude": 44.5882,
+                "longitude": -123.1931
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13898,7 +14348,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2709"
+                "has_raw_value": "46.1209 -123.2709",
+                "latitude": 46.1209,
+                "longitude": -123.2709
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -13960,7 +14412,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2704"
+                "has_raw_value": "46.1214 -123.2704",
+                "latitude": 46.1214,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14023,7 +14477,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1926"
+                "has_raw_value": "44.5878 -123.1926",
+                "latitude": 44.5878,
+                "longitude": -123.1926
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14086,7 +14542,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.194"
+                "has_raw_value": "44.5883 -123.194",
+                "latitude": 44.5883,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14149,7 +14607,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5874 -123.1937"
+                "has_raw_value": "44.5874 -123.1937",
+                "latitude": 44.5874,
+                "longitude": -123.1937
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14212,7 +14672,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.1939"
+                "has_raw_value": "44.5881 -123.1939",
+                "latitude": 44.5881,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14272,7 +14734,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1933"
+                "has_raw_value": "44.5876 -123.1933",
+                "latitude": 44.5876,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -14331,7 +14795,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2698"
+                "has_raw_value": "46.1213 -123.2698",
+                "latitude": 46.1213,
+                "longitude": -123.2698
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -14390,7 +14856,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2704"
+                "has_raw_value": "46.121 -123.2704",
+                "latitude": 46.121,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -14452,7 +14920,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1939"
+                "has_raw_value": "44.5882 -123.1939",
+                "latitude": 44.5882,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14515,7 +14985,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5879 -123.1939"
+                "has_raw_value": "44.5879 -123.1939",
+                "latitude": 44.5879,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14578,7 +15050,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2696"
+                "has_raw_value": "46.1214 -123.2696",
+                "latitude": 46.1214,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14641,7 +15115,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2703"
+                "has_raw_value": "46.1214 -123.2703",
+                "latitude": 46.1214,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -14704,7 +15180,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587958 -123.193966"
+                "has_raw_value": "44.587958 -123.193966",
+                "latitude": 44.587958,
+                "longitude": -123.193966
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -14767,7 +15245,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120965 -123.271442"
+                "has_raw_value": "46.120965 -123.271442",
+                "latitude": 46.120965,
+                "longitude": -123.271442
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -14830,7 +15310,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.12132 -123.269603"
+                "has_raw_value": "46.12132 -123.269603",
+                "latitude": 46.12132,
+                "longitude": -123.269603
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -14893,7 +15375,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121521 -123.27199"
+                "has_raw_value": "46.121521 -123.27199",
+                "latitude": 46.121521,
+                "longitude": -123.27199
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -14956,7 +15440,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121447 -123.2718"
+                "has_raw_value": "46.121447 -123.2718",
+                "latitude": 46.121447,
+                "longitude": -123.2718
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15019,7 +15505,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588011 -123.192906"
+                "has_raw_value": "44.588011 -123.192906",
+                "latitude": 44.588011,
+                "longitude": -123.192906
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15082,7 +15570,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121316 -123.26986"
+                "has_raw_value": "46.121316 -123.26986",
+                "latitude": 46.121316,
+                "longitude": -123.26986
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15145,7 +15635,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588071 -123.1939784"
+                "has_raw_value": "44.588071 -123.1939784",
+                "latitude": 44.588071,
+                "longitude": -123.1939784
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15208,7 +15700,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587823 -123.193444"
+                "has_raw_value": "44.587823 -123.193444",
+                "latitude": 44.587823,
+                "longitude": -123.193444
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15271,7 +15765,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121297 -123.269816"
+                "has_raw_value": "46.121297 -123.269816",
+                "latitude": 46.121297,
+                "longitude": -123.269816
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15334,7 +15830,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120971 -123.270935"
+                "has_raw_value": "46.120971 -123.270935",
+                "latitude": 46.120971,
+                "longitude": -123.270935
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -15397,7 +15895,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -15460,7 +15960,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.269"
+                "has_raw_value": "46.1216 -123.269",
+                "latitude": 46.1216,
+                "longitude": -123.269
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -15523,7 +16025,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2696"
+                "has_raw_value": "46.1215 -123.2696",
+                "latitude": 46.1215,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -15586,7 +16090,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1936"
+                "has_raw_value": "44.5878 -123.1936",
+                "latitude": 44.5878,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -15646,7 +16152,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2694"
+                "has_raw_value": "46.1214 -123.2694",
+                "latitude": 46.1214,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -15705,7 +16213,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2703"
+                "has_raw_value": "46.1215 -123.2703",
+                "latitude": 46.1215,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -15767,7 +16277,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1936"
+                "has_raw_value": "44.5877 -123.1936",
+                "latitude": 44.5877,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -15827,7 +16339,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1936"
+                "has_raw_value": "44.5875 -123.1936",
+                "latitude": 44.5875,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -15886,7 +16400,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -15945,7 +16461,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5883 -123.1939"
+                "has_raw_value": "44.5883 -123.1939",
+                "latitude": 44.5883,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16004,7 +16522,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2691"
+                "has_raw_value": "46.1214 -123.2691",
+                "latitude": 46.1214,
+                "longitude": -123.2691
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16063,7 +16583,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2714"
+                "has_raw_value": "46.1209 -123.2714",
+                "latitude": 46.1209,
+                "longitude": -123.2714
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16125,7 +16647,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1922"
+                "has_raw_value": "44.588 -123.1922",
+                "latitude": 44.588,
+                "longitude": -123.1922
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -16185,7 +16709,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2692"
+                "has_raw_value": "46.1215 -123.2692",
+                "latitude": 46.1215,
+                "longitude": -123.2692
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16247,7 +16773,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2695"
+                "has_raw_value": "46.1216 -123.2695",
+                "latitude": 46.1216,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -16310,7 +16838,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1935"
+                "has_raw_value": "44.5875 -123.1935",
+                "latitude": 44.5875,
+                "longitude": -123.1935
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -16370,7 +16900,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5878 -123.1934"
+                "has_raw_value": "44.5878 -123.1934",
+                "latitude": 44.5878,
+                "longitude": -123.1934
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16429,7 +16961,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2703"
+                "has_raw_value": "46.1212 -123.2703",
+                "latitude": 46.1212,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16488,7 +17022,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2715"
+                "has_raw_value": "46.1214 -123.2715",
+                "latitude": 46.1214,
+                "longitude": -123.2715
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16547,7 +17083,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2696"
+                "has_raw_value": "46.1213 -123.2696",
+                "latitude": 46.1213,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16606,7 +17144,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2719"
+                "has_raw_value": "46.1215 -123.2719",
+                "latitude": 46.1215,
+                "longitude": -123.2719
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -16668,7 +17208,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2692"
+                "has_raw_value": "46.1213 -123.2692",
+                "latitude": 46.1213,
+                "longitude": -123.2692
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -16731,7 +17273,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1939"
+                "has_raw_value": "44.5876 -123.1939",
+                "latitude": 44.5876,
+                "longitude": -123.1939
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -16794,7 +17338,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587539 -123.193689"
+                "has_raw_value": "44.587539 -123.193689",
+                "latitude": 44.587539,
+                "longitude": -123.193689
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -16857,7 +17403,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121253 -123.270368"
+                "has_raw_value": "46.121253 -123.270368",
+                "latitude": 46.121253,
+                "longitude": -123.270368
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -16920,7 +17468,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121602 -123.270125"
+                "has_raw_value": "46.121602 -123.270125",
+                "latitude": 46.121602,
+                "longitude": -123.270125
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -16983,7 +17533,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588219 -123.193899"
+                "has_raw_value": "44.588219 -123.193899",
+                "latitude": 44.588219,
+                "longitude": -123.193899
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -17046,7 +17598,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587593 -123.193547"
+                "has_raw_value": "44.587593 -123.193547",
+                "latitude": 44.587593,
+                "longitude": -123.193547
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -17109,7 +17663,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120945 -123.270302"
+                "has_raw_value": "46.120945 -123.270302",
+                "latitude": 46.120945,
+                "longitude": -123.270302
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -17172,7 +17728,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588305 128.194052"
+                "has_raw_value": "44.588305 128.194052",
+                "latitude": 44.588305,
+                "longitude": 128.194052
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -17235,7 +17793,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121579 -123.269208"
+                "has_raw_value": "46.121579 -123.269208",
+                "latitude": 46.121579,
+                "longitude": -123.269208
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -17298,7 +17858,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1932"
+                "has_raw_value": "44.5875 -123.1932",
+                "latitude": 44.5875,
+                "longitude": -123.1932
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17361,7 +17923,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.271"
+                "has_raw_value": "46.1215 -123.271",
+                "latitude": 46.1215,
+                "longitude": -123.271
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17424,7 +17988,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2718"
+                "has_raw_value": "46.1214 -123.2718",
+                "latitude": 46.1214,
+                "longitude": -123.2718
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17487,7 +18053,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2719"
+                "has_raw_value": "46.1215 -123.2719",
+                "latitude": 46.1215,
+                "longitude": -123.2719
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17547,7 +18115,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2703"
+                "has_raw_value": "46.1214 -123.2703",
+                "latitude": 46.1214,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -17609,7 +18179,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588 -123.1929"
+                "has_raw_value": "44.588 -123.1929",
+                "latitude": 44.588,
+                "longitude": -123.1929
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17672,7 +18244,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.1927"
+                "has_raw_value": "44.5882 -123.1927",
+                "latitude": 44.5882,
+                "longitude": -123.1927
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -17732,7 +18306,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1215 -123.2696"
+                "has_raw_value": "46.1215 -123.2696",
+                "latitude": 46.1215,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -17791,7 +18367,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121 -123.2707"
+                "has_raw_value": "46.121 -123.2707",
+                "latitude": 46.121,
+                "longitude": -123.2707
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -17850,7 +18428,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2695"
+                "has_raw_value": "46.1216 -123.2695",
+                "latitude": 46.1216,
+                "longitude": -123.2695
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -17909,7 +18489,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2693"
+                "has_raw_value": "46.1211 -123.2693",
+                "latitude": 46.1211,
+                "longitude": -123.2693
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -17971,7 +18553,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1209 -123.2703"
+                "has_raw_value": "46.1209 -123.2703",
+                "latitude": 46.1209,
+                "longitude": -123.2703
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18034,7 +18618,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2716"
+                "has_raw_value": "46.1216 -123.2716",
+                "latitude": 46.1216,
+                "longitude": -123.2716
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18094,7 +18680,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5875 -123.1933"
+                "has_raw_value": "44.5875 -123.1933",
+                "latitude": 44.5875,
+                "longitude": -123.1933
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18156,7 +18744,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2701"
+                "has_raw_value": "46.1216 -123.2701",
+                "latitude": 46.1216,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18219,7 +18809,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5881 -123.194"
+                "has_raw_value": "44.5881 -123.194",
+                "latitude": 44.5881,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18282,7 +18874,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1213 -123.2709"
+                "has_raw_value": "46.1213 -123.2709",
+                "latitude": 46.1213,
+                "longitude": -123.2709
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18345,7 +18939,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5876 -123.1936"
+                "has_raw_value": "44.5876 -123.1936",
+                "latitude": 44.5876,
+                "longitude": -123.1936
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18408,7 +19004,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2704"
+                "has_raw_value": "46.1211 -123.2704",
+                "latitude": 46.1211,
+                "longitude": -123.2704
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18468,7 +19066,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1216 -123.2701"
+                "has_raw_value": "46.1216 -123.2701",
+                "latitude": 46.1216,
+                "longitude": -123.2701
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18527,7 +19127,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2696"
+                "has_raw_value": "46.1211 -123.2696",
+                "latitude": 46.1211,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18586,7 +19188,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1214 -123.2696"
+                "has_raw_value": "46.1214 -123.2696",
+                "latitude": 46.1214,
+                "longitude": -123.2696
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18645,7 +19249,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1211 -123.2694"
+                "has_raw_value": "46.1211 -123.2694",
+                "latitude": 46.1211,
+                "longitude": -123.2694
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18704,7 +19310,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5877 -123.1938"
+                "has_raw_value": "44.5877 -123.1938",
+                "latitude": 44.5877,
+                "longitude": -123.1938
             },
             "samp_taxon_id": {
                 "has_raw_value": "soil metagenome [NCBITaxon:410658]"
@@ -18766,7 +19374,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.1212 -123.2698"
+                "has_raw_value": "46.1212 -123.2698",
+                "latitude": 46.1212,
+                "longitude": -123.2698
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18829,7 +19439,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.5882 -123.194"
+                "has_raw_value": "44.5882 -123.194",
+                "latitude": 44.5882,
+                "longitude": -123.194
             },
             "samp_taxon_id": {
                 "has_raw_value": "rhizosphere metagenome [NCBITaxon:939928]"
@@ -18892,7 +19504,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.588014 -123.194065"
+                "has_raw_value": "44.588014 -123.194065",
+                "latitude": 44.588014,
+                "longitude": -123.194065
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -18955,7 +19569,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121225 -123.270853"
+                "has_raw_value": "46.121225 -123.270853",
+                "latitude": 46.121225,
+                "longitude": -123.270853
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19018,7 +19634,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587688 -123.193613"
+                "has_raw_value": "44.587688 -123.193613",
+                "latitude": 44.587688,
+                "longitude": -123.193613
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19081,7 +19699,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.120814 -123.269165"
+                "has_raw_value": "46.120814 -123.269165",
+                "latitude": 46.120814,
+                "longitude": -123.269165
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19144,7 +19764,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121406 -123.270107"
+                "has_raw_value": "46.121406 -123.270107",
+                "latitude": 46.121406,
+                "longitude": -123.270107
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19207,7 +19829,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587973 -123.19406"
+                "has_raw_value": "44.587973 -123.19406",
+                "latitude": 44.587973,
+                "longitude": -123.19406
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19270,7 +19894,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121307 -123.269236"
+                "has_raw_value": "46.121307 -123.269236",
+                "latitude": 46.121307,
+                "longitude": -123.269236
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19333,7 +19959,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121423 -123.271523"
+                "has_raw_value": "46.121423 -123.271523",
+                "latitude": 46.121423,
+                "longitude": -123.271523
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19396,7 +20024,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587743 -123.193438"
+                "has_raw_value": "44.587743 -123.193438",
+                "latitude": 44.587743,
+                "longitude": -123.193438
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19459,7 +20089,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.587442 -123.193709"
+                "has_raw_value": "44.587442 -123.193709",
+                "latitude": 44.587442,
+                "longitude": -123.193709
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19522,7 +20154,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121171 -123.269419"
+                "has_raw_value": "46.121171 -123.269419",
+                "latitude": 46.121171,
+                "longitude": -123.269419
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"
@@ -19585,7 +20219,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "46.121006 -123.270477"
+                "has_raw_value": "46.121006 -123.270477",
+                "latitude": 46.121006,
+                "longitude": -123.270477
             },
             "samp_taxon_id": {
                 "has_raw_value": "root metagenome [NCBITaxon:1118232]"

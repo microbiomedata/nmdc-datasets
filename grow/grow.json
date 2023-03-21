@@ -44,7 +44,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.6679 -81.8403"
+                "has_raw_value": "31.6679 -81.8403",
+                "latitude": 31.6679,
+                "longitude": -81.8403
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -105,7 +107,9 @@
                 "has_raw_value": "USA: Kansas"
             },
             "lat_lon": {
-                "has_raw_value": "39.1041 -96.6027"
+                "has_raw_value": "39.1041 -96.6027",
+                "latitude": 39.1041,
+                "longitude": -96.6027
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -165,7 +169,9 @@
                 "has_raw_value": "USA: Salt Lake City, Utah"
             },
             "lat_lon": {
-                "has_raw_value": "40.7846 -111.7954"
+                "has_raw_value": "40.7846 -111.7954",
+                "latitude": 40.7846,
+                "longitude": -111.7954
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -225,7 +231,9 @@
                 "has_raw_value": "USA: Stabler, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "45.7922 -121.9299"
+                "has_raw_value": "45.7922 -121.9299",
+                "latitude": 45.7922,
+                "longitude": -121.9299
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -285,7 +293,9 @@
                 "has_raw_value": "USA: Blacksburg, Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "37.2101 -80.4451"
+                "has_raw_value": "37.2101 -80.4451",
+                "latitude": 37.2101,
+                "longitude": -80.4451
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -345,7 +355,9 @@
                 "has_raw_value": "USA: Blue River, Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.2605 -122.1642"
+                "has_raw_value": "44.2605 -122.1642",
+                "latitude": 44.2605,
+                "longitude": -122.1642
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -405,7 +417,9 @@
                 "has_raw_value": "USA: Ft. Bragg, California"
             },
             "lat_lon": {
-                "has_raw_value": "39.3623 -123.7348"
+                "has_raw_value": "39.3623 -123.7348",
+                "latitude": 39.3623,
+                "longitude": -123.7348
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -471,7 +485,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8084 -87.9952"
+                "has_raw_value": "14.8084 -87.9952",
+                "latitude": 14.8084,
+                "longitude": -87.9952
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -531,7 +547,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "37.0522 -119.1953"
+                "has_raw_value": "37.0522 -119.1953",
+                "latitude": 37.0522,
+                "longitude": -119.1953
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -588,7 +606,9 @@
                 "has_raw_value": "USA: Burlington, Massachusetts"
             },
             "lat_lon": {
-                "has_raw_value": "42.5233 -71.1854"
+                "has_raw_value": "42.5233 -71.1854",
+                "latitude": 42.5233,
+                "longitude": -71.1854
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -649,7 +669,9 @@
                 "has_raw_value": "USA: Cincinnati, Ohio"
             },
             "lat_lon": {
-                "has_raw_value": "39.2386 -84.7123"
+                "has_raw_value": "39.2386 -84.7123",
+                "latitude": 39.2386,
+                "longitude": -84.7123
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -710,7 +732,9 @@
                 "has_raw_value": "Israel: Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -767,7 +791,9 @@
                 "has_raw_value": "USA: Florida"
             },
             "lat_lon": {
-                "has_raw_value": "29.9493 -85.0154"
+                "has_raw_value": "29.9493 -85.0154",
+                "latitude": 29.9493,
+                "longitude": -85.0154
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -824,7 +850,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "61.9333 -162.8666"
+                "has_raw_value": "61.9333 -162.8666",
+                "latitude": 61.9333,
+                "longitude": -162.8666
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -881,7 +909,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "38.456 -121.5013"
+                "has_raw_value": "38.456 -121.5013",
+                "latitude": 38.456,
+                "longitude": -121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -939,7 +969,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -997,7 +1029,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1055,7 +1089,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "39.7033 -90.6454"
+                "has_raw_value": "39.7033 -90.6454",
+                "latitude": 39.7033,
+                "longitude": -90.6454
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1113,7 +1149,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.1308 -87.9414"
+                "has_raw_value": "38.1308 -87.9414",
+                "latitude": 38.1308,
+                "longitude": -87.9414
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1170,7 +1208,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "45.0061 -74.7949"
+                "has_raw_value": "45.0061 -74.7949",
+                "latitude": 45.0061,
+                "longitude": -74.7949
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1228,7 +1268,9 @@
                 "has_raw_value": "Thailand: Chiang Ma"
             },
             "lat_lon": {
-                "has_raw_value": "19.4571 98.9901"
+                "has_raw_value": "19.4571 98.9901",
+                "latitude": 19.4571,
+                "longitude": 98.9901
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1285,7 +1327,9 @@
                 "has_raw_value": "Brazil: Obidos"
             },
             "lat_lon": {
-                "has_raw_value": "-1.919 -55.5257"
+                "has_raw_value": "-1.919 -55.5257",
+                "latitude": -1.919,
+                "longitude": -55.5257
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1343,7 +1387,9 @@
                 "has_raw_value": "Congo: Moembe"
             },
             "lat_lon": {
-                "has_raw_value": "-2.9134 15.6292"
+                "has_raw_value": "-2.9134 15.6292",
+                "latitude": -2.9134,
+                "longitude": 15.6292
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1400,7 +1446,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "39.0941 -77.9808"
+                "has_raw_value": "39.0941 -77.9808",
+                "latitude": 39.0941,
+                "longitude": -77.9808
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -1457,7 +1505,9 @@
                 "has_raw_value": "USA: Michigan"
             },
             "lat_lon": {
-                "has_raw_value": "42.3921 -85.35412"
+                "has_raw_value": "42.3921 -85.35412",
+                "latitude": 42.3921,
+                "longitude": -85.35412
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -1514,7 +1564,9 @@
                 "has_raw_value": "USA: Utah"
             },
             "lat_lon": {
-                "has_raw_value": "41.950204 -111.580533"
+                "has_raw_value": "41.950204 -111.580533",
+                "latitude": 41.950204,
+                "longitude": -111.580533
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -1574,7 +1626,9 @@
                 "has_raw_value": "USA: Richland, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.3727 -119.2719"
+                "has_raw_value": "46.3727 -119.2719",
+                "latitude": 46.3727,
+                "longitude": -119.2719
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1634,7 +1688,9 @@
                 "has_raw_value": "USA: Avondale, Pennsylvania"
             },
             "lat_lon": {
-                "has_raw_value": "39.8579 -75.7831"
+                "has_raw_value": "39.8579 -75.7831",
+                "latitude": 39.8579,
+                "longitude": -75.7831
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1695,7 +1751,9 @@
                 "has_raw_value": "United Kingdom: Hampton in Arden, England"
             },
             "lat_lon": {
-                "has_raw_value": "52.4198 -1.7043"
+                "has_raw_value": "52.4198 -1.7043",
+                "latitude": 52.4198,
+                "longitude": -1.7043
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1757,7 +1815,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.9144 -88.0205"
+                "has_raw_value": "14.9144 -88.0205",
+                "latitude": 14.9144,
+                "longitude": -88.0205
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1814,7 +1874,9 @@
                 "has_raw_value": "USA: Wyoming"
             },
             "lat_lon": {
-                "has_raw_value": "42.9875 -108.3982"
+                "has_raw_value": "42.9875 -108.3982",
+                "latitude": 42.9875,
+                "longitude": -108.3982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1875,7 +1937,9 @@
                 "has_raw_value": "USA: Alvord, Texas"
             },
             "lat_lon": {
-                "has_raw_value": "33.3783 -97.7833"
+                "has_raw_value": "33.3783 -97.7833",
+                "latitude": 33.3783,
+                "longitude": -97.7833
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1935,7 +1999,9 @@
                 "has_raw_value": "USA: Sierra National Forest, California"
             },
             "lat_lon": {
-                "has_raw_value": "36.9549 -119.0237"
+                "has_raw_value": "36.9549 -119.0237",
+                "latitude": 36.9549,
+                "longitude": -119.0237
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -1993,7 +2059,9 @@
                 "has_raw_value": "USA: Oak Ridge, Tennessee"
             },
             "lat_lon": {
-                "has_raw_value": "35.9662 -84.3573"
+                "has_raw_value": "35.9662 -84.3573",
+                "latitude": 35.9662,
+                "longitude": -84.3573
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2053,7 +2121,9 @@
                 "has_raw_value": "USA: Prineville, Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.3 -120.8582"
+                "has_raw_value": "44.3 -120.8582",
+                "latitude": 44.3,
+                "longitude": -120.8582
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2113,7 +2183,9 @@
                 "has_raw_value": "Germany: Brandenburg"
             },
             "lat_lon": {
-                "has_raw_value": "52.4762 13.6259"
+                "has_raw_value": "52.4762 13.6259",
+                "latitude": 52.4762,
+                "longitude": 13.6259
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2179,7 +2251,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8084 -87.9952"
+                "has_raw_value": "14.8084 -87.9952",
+                "latitude": 14.8084,
+                "longitude": -87.9952
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2239,7 +2313,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "36.9612 -119.0282"
+                "has_raw_value": "36.9612 -119.0282",
+                "latitude": 36.9612,
+                "longitude": -119.0282
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2299,7 +2375,9 @@
                 "has_raw_value": "USA: Massachusetts"
             },
             "lat_lon": {
-                "has_raw_value": "42.4717 -72.331"
+                "has_raw_value": "42.4717 -72.331",
+                "latitude": 42.4717,
+                "longitude": -72.331
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2357,7 +2435,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.7805 -90.252"
+                "has_raw_value": "41.7805 -90.252",
+                "latitude": 41.7805,
+                "longitude": -90.252
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2414,7 +2494,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "29.8571 -89.9778"
+                "has_raw_value": "29.8571 -89.9778",
+                "latitude": 29.8571,
+                "longitude": -89.9778
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2472,7 +2554,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2529,7 +2613,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.7585 -91.3959"
+                "has_raw_value": "30.7585 -91.3959",
+                "latitude": 30.7585,
+                "longitude": -91.3959
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2586,7 +2672,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.6907 -91.7362"
+                "has_raw_value": "30.6907 -91.7362",
+                "latitude": 30.6907,
+                "longitude": -91.7362
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2643,7 +2731,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.7585 -91.3959"
+                "has_raw_value": "30.7585 -91.3959",
+                "latitude": 30.7585,
+                "longitude": -91.3959
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2700,7 +2790,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "29.6928 -91.2119"
+                "has_raw_value": "29.6928 -91.2119",
+                "latitude": 29.6928,
+                "longitude": -91.2119
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2758,7 +2850,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.178 -91.182"
+                "has_raw_value": "41.178 -91.182",
+                "latitude": 41.178,
+                "longitude": -91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2815,7 +2909,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "38.456 -121.5013"
+                "has_raw_value": "38.456 -121.5013",
+                "latitude": 38.456,
+                "longitude": 121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2872,7 +2968,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "41.7216 -73.9411"
+                "has_raw_value": "41.7216 -73.9411",
+                "latitude": 41.7216,
+                "longitude": -73.9411
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2930,7 +3028,9 @@
                 "has_raw_value": "Thailand: Chiang Rai"
             },
             "lat_lon": {
-                "has_raw_value": "19.6813 100.1978"
+                "has_raw_value": "19.6813 100.1978",
+                "latitude": 19.6813,
+                "longitude": 100.1978
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -2987,7 +3087,9 @@
                 "has_raw_value": "Canada: Tsiigehtchic, Northwest Territories"
             },
             "lat_lon": {
-                "has_raw_value": "67.4333 -133.75"
+                "has_raw_value": "67.4333 -133.75",
+                "latitude": 67.4333,
+                "longitude": -133.75
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3044,7 +3146,9 @@
                 "has_raw_value": "Russia: Yamalo-Nenets Autonomous Okrug"
             },
             "lat_lon": {
-                "has_raw_value": "66.5166 66.6"
+                "has_raw_value": "66.5166 66.6",
+                "latitude": 66.5166,
+                "longitude": 66.6
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3101,7 +3205,9 @@
                 "has_raw_value": "Russia: Sakha Republic"
             },
             "lat_lon": {
-                "has_raw_value": "68.75 161.3"
+                "has_raw_value": "68.75 161.3",
+                "latitude": 68,
+                "longitude": 161.3
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3159,7 +3265,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3216,7 +3324,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.667875 -81.840062"
+                "has_raw_value": "31.667875 -81.840062",
+                "latitude": 31.667875,
+                "longitude": -81.840062
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3273,7 +3383,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "38.8952 -78.1476"
+                "has_raw_value": "38.8952 -78.1476",
+                "latitude": 38.8952,
+                "longitude": -78.1476
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3330,7 +3442,9 @@
                 "has_raw_value": "USA: Tennessee"
             },
             "lat_lon": {
-                "has_raw_value": "35.6922935 -83.504941"
+                "has_raw_value": "35.6922935 -83.504941",
+                "latitude": 35.6922935,
+                "longitude": -83.504941
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3387,7 +3501,9 @@
                 "has_raw_value": "USA: New Mexico"
             },
             "lat_lon": {
-                "has_raw_value": "35.8677 -106.5233"
+                "has_raw_value": "35.8677 -106.5233",
+                "latitude": 35.8677,
+                "longitude": -106.5233
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3444,7 +3560,9 @@
                 "has_raw_value": "USA: Oak Ridge, Tennessee"
             },
             "lat_lon": {
-                "has_raw_value": "35.966194 -84.359197"
+                "has_raw_value": "35.966194 -84.359197",
+                "latitude": 35.966194,
+                "longitude": -84.359197
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3501,7 +3619,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "40.012917 -105.458575"
+                "has_raw_value": "40.012917 -105.458575",
+                "latitude": 40.012917,
+                "longitude": -105.458575
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3558,7 +3678,9 @@
                 "has_raw_value": "USA: Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.694742 -119.465555"
+                "has_raw_value": "46.694742 -119.465555",
+                "latitude": 46.694742,
+                "longitude": -119.465555
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3615,7 +3737,9 @@
                 "has_raw_value": "USA: Utah"
             },
             "lat_lon": {
-                "has_raw_value": "40.7797 -111.8064"
+                "has_raw_value": "40.7797 -111.8064",
+                "latitude": 40.7797,
+                "longitude": -111.8064
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -3675,7 +3799,9 @@
                 "has_raw_value": "USA: Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "39.3118 -76.7174"
+                "has_raw_value": "39.3118 -76.7174",
+                "latitude": 39.3118,
+                "longitude": -76.7174
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3733,7 +3859,9 @@
                 "has_raw_value": "USA: Flamingo, Florida"
             },
             "lat_lon": {
-                "has_raw_value": "25.4098 -80.9642"
+                "has_raw_value": "25.4098 -80.9642",
+                "latitude": 25.4098,
+                "longitude": -80.9642
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3794,7 +3922,9 @@
                 "has_raw_value": "USA: Crested Butte, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "38.9223 -106.9514"
+                "has_raw_value": "38.9223 -106.9514",
+                "latitude": 38.9223,
+                "longitude": -106.9514
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3860,7 +3990,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8744 -87.9835"
+                "has_raw_value": "14.8744 -87.9835",
+                "latitude": 14.8744,
+                "longitude": -87.9835
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3926,7 +4058,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8869 -88.0258"
+                "has_raw_value": "14.8869 -88.0258",
+                "latitude": 14.8869,
+                "longitude": -88.0258
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -3992,7 +4126,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.9144 -88.0205"
+                "has_raw_value": "14.9144 -88.0205",
+                "latitude": 14.9144,
+                "longitude": -88.0205
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4049,7 +4185,9 @@
                 "has_raw_value": "USA: Washing"
             },
             "lat_lon": {
-                "has_raw_value": "46.3763 -119.2729"
+                "has_raw_value": "46.3763 -119.2729",
+                "latitude": 46.3763,
+                "longitude": -119.2729
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4109,7 +4247,9 @@
                 "has_raw_value": "Israel: Gesher Arik, Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4170,7 +4310,9 @@
                 "has_raw_value": "Israel: Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4236,7 +4378,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8744 -87.9835"
+                "has_raw_value": "14.8744 -87.9835",
+                "latitude": 14.8744,
+                "longitude": -87.9835
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4302,7 +4446,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8889 -87.9718"
+                "has_raw_value": "14.8889 -87.9718",
+                "latitude": 14.8889,
+                "longitude": -87.9718
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4363,7 +4509,9 @@
                 "has_raw_value": "USA: Cross Plains, Wisconsin"
             },
             "lat_lon": {
-                "has_raw_value": "43.1091 -89.6403"
+                "has_raw_value": "43.1091 -89.6403",
+                "latitude": 43.1091,
+                "longitude": -89.6403
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4424,7 +4572,9 @@
                 "has_raw_value": "USA: Riverdale, Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "38.9603 -76.9259"
+                "has_raw_value": "38.9603 -76.9259",
+                "latitude": 38.9603,
+                "longitude": -76.9259
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4485,7 +4635,9 @@
                 "has_raw_value": "USA: Edgewater, Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "38.8749 -76.5464"
+                "has_raw_value": "38.8749 -76.5464",
+                "latitude": 38.8749,
+                "longitude": -76.5464
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4542,7 +4694,9 @@
                 "has_raw_value": "Russia: Krasnoyarsk Krai"
             },
             "lat_lon": {
-                "has_raw_value": "69.3833 86.15"
+                "has_raw_value": "69.3833 86.15",
+                "latitude": 69.3833,
+                "longitude": 86.15
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4599,7 +4753,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.4456 -91.1915"
+                "has_raw_value": "30.4456 -91.1915",
+                "latitude": 30.4456,
+                "longitude": -91.1915
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4656,7 +4812,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.4456 -91.1915"
+                "has_raw_value": "30.4456 -91.1915",
+                "latitude": 30.4456,
+                "longitude": -91.1915
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4714,7 +4872,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "37.2031 -89.0417"
+                "has_raw_value": "37.2031 -89.0417",
+                "latitude": 37.2031,
+                "longitude": -89.0417
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4771,7 +4931,9 @@
                 "has_raw_value": "USA: Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "39.6579 -76.1741"
+                "has_raw_value": "39.6579 -76.1741",
+                "latitude": 39.6579,
+                "longitude": -76.1741
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4829,7 +4991,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "39.7033 -90.6454"
+                "has_raw_value": "39.7033 -90.6454",
+                "latitude": 39.7033,
+                "longitude": -90.6454
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4887,7 +5051,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "40.7278 -91.9596"
+                "has_raw_value": "40.7278 -91.9596",
+                "latitude": 40.7278,
+                "longitude": -91.9596
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -4944,7 +5110,9 @@
                 "has_raw_value": "USA: Mississippi"
             },
             "lat_lon": {
-                "has_raw_value": "32.3397 -90.9125"
+                "has_raw_value": "32.3397 -90.9125",
+                "latitude": 32.3397,
+                "longitude": -90.9125
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5001,7 +5169,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "31.0865 -87.9772"
+                "has_raw_value": "31.0865 -87.9772",
+                "latitude": 31.0865,
+                "longitude": -87.9772
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5058,7 +5228,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "41.7216 -73.9411"
+                "has_raw_value": "41.7216 -73.9411",
+                "latitude": 41.7216,
+                "longitude": -73.9411
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5115,7 +5287,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "38.456 -121.5013"
+                "has_raw_value": "38.456 -121.5013",
+                "latitude": 38.456,
+                "longitude": 121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5172,7 +5346,9 @@
                 "has_raw_value": "Russia: Sakha Republic"
             },
             "lat_lon": {
-                "has_raw_value": "66.7666 123.3666"
+                "has_raw_value": "66.7666 123.3666",
+                "latitude": 66.7666,
+                "longitude": 123.3666
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5230,7 +5406,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5289,7 +5467,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5348,7 +5528,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -5409,7 +5591,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.184396 -84.439009"
+                "has_raw_value": "31.184396 -84.439009",
+                "latitude": 31.184396,
+                "longitude": -84.439009
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5466,7 +5650,9 @@
                 "has_raw_value": "USA: Oklahoma"
             },
             "lat_lon": {
-                "has_raw_value": "34.44205 -96.6227"
+                "has_raw_value": "34.44205 -96.6227",
+                "latitude": 34.44205,
+                "longitude": -96.6227
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5523,7 +5709,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "40.03489 -105.54327"
+                "has_raw_value": "40.03489 -105.54327",
+                "latitude": 40.03489,
+                "longitude": -105.54327
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5580,7 +5768,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "42.13187 -74.69563"
+                "has_raw_value": "42.13187 -74.69563",
+                "latitude": 42.13187,
+                "longitude": -74.69563
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5637,7 +5827,9 @@
                 "has_raw_value": "USA: Pullman, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.732428 -117.180863"
+                "has_raw_value": "46.732428 -117.180863",
+                "latitude": 46.732428,
+                "longitude": -117.180863
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5694,7 +5886,9 @@
                 "has_raw_value": "USA: Burlington, Massachusetts"
             },
             "lat_lon": {
-                "has_raw_value": "42.5235645 -71.1848201"
+                "has_raw_value": "42.5235645 -71.1848201",
+                "latitude": 42.5235645,
+                "longitude": -71.1848201
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5751,7 +5945,9 @@
                 "has_raw_value": "USA: Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.376172 -119.272998"
+                "has_raw_value": "46.376172 -119.272998",
+                "latitude": 46.376172,
+                "longitude": -119.272998
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5808,7 +6004,9 @@
                 "has_raw_value": "USA: South Valley, New Mexico"
             },
             "lat_lon": {
-                "has_raw_value": "34.950811 -106.681374"
+                "has_raw_value": "34.950811 -106.681374",
+                "latitude": 34.950811,
+                "longitude": -106.681374
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5865,7 +6063,9 @@
                 "has_raw_value": "USA: Woodstock, New Hampshire"
             },
             "lat_lon": {
-                "has_raw_value": "43.954722 -71.722778"
+                "has_raw_value": "43.954722 -71.722778",
+                "latitude": 43.954722,
+                "longitude": -71.722778
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5922,7 +6122,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "37.291383 -75.930606"
+                "has_raw_value": "37.291383 -75.930606",
+                "latitude": 37.291383,
+                "longitude": -75.930606
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -5979,7 +6181,9 @@
                 "has_raw_value": "USA: Benson, Utah"
             },
             "lat_lon": {
-                "has_raw_value": "41.720847 -111.8865"
+                "has_raw_value": "41.720847 -111.8865",
+                "latitude": 41.720847,
+                "longitude": -111.8865
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -6036,7 +6240,9 @@
                 "has_raw_value": "USA: Simsbury, Connecticut"
             },
             "lat_lon": {
-                "has_raw_value": "41.8695 -72.7967"
+                "has_raw_value": "41.8695 -72.7967",
+                "latitude": 41.8695,
+                "longitude": -72.7967
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6093,7 +6299,9 @@
                 "has_raw_value": "USA: Fisher, Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "40.3108 -88.3227"
+                "has_raw_value": "40.3108 -88.3227",
+                "latitude": 40.3108,
+                "longitude": -88.3227
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6153,7 +6361,9 @@
                 "has_raw_value": "USA: Gunnison, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "38.5447 -106.95"
+                "has_raw_value": "38.5447 -106.95",
+                "latitude": 38.5447,
+                "longitude": -106.95
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6214,7 +6424,9 @@
                 "has_raw_value": "USA: Austin, Texas"
             },
             "lat_lon": {
-                "has_raw_value": "30.2502 -97.7095"
+                "has_raw_value": "30.2502 -97.7095",
+                "latitude": 30.2502,
+                "longitude": -97.7095
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6274,7 +6486,9 @@
                 "has_raw_value": "USA: Albuquerque, New Mexico"
             },
             "lat_lon": {
-                "has_raw_value": "35.1986 -106.643"
+                "has_raw_value": "35.1986 -106.643",
+                "latitude": 35.1986,
+                "longitude": -106.643
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6335,7 +6549,9 @@
                 "has_raw_value": "Israel: Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6392,7 +6608,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "33.7508 -111.5081"
+                "has_raw_value": "33.7508 -111.5081",
+                "latitude": 33.7508,
+                "longitude": -111.5081
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6453,7 +6671,9 @@
                 "has_raw_value": "USA: Wyoming"
             },
             "lat_lon": {
-                "has_raw_value": "42.9875 -108.3982"
+                "has_raw_value": "42.9875 -108.3982",
+                "latitude": 42.9875,
+                "longitude": -108.3982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6514,7 +6734,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "33.9556 -83.4376"
+                "has_raw_value": "33.9556 -83.4376",
+                "latitude": 33.9556,
+                "longitude": -83.4376
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6574,7 +6796,9 @@
                 "has_raw_value": "USA: Toolik Field Station, Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "68.6427 -149.4034"
+                "has_raw_value": "68.6427 -149.4034",
+                "latitude": 68.6427,
+                "longitude": -149.4034
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6635,7 +6859,9 @@
                 "has_raw_value": "Puerto Rico: Naguabo, Naguabo"
             },
             "lat_lon": {
-                "has_raw_value": "18.2758 -65.7853"
+                "has_raw_value": "18.2758 -65.7853",
+                "latitude": 18.2758,
+                "longitude": -65.7853
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6696,7 +6922,9 @@
                 "has_raw_value": "USA: Logan, Utah"
             },
             "lat_lon": {
-                "has_raw_value": "41.7207 -111.8864"
+                "has_raw_value": "41.7207 -111.8864",
+                "latitude": 41.7207,
+                "longitude": -111.8864
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6756,7 +6984,9 @@
                 "has_raw_value": "USA: Logan, Utah"
             },
             "lat_lon": {
-                "has_raw_value": "41.9503 -111.5804"
+                "has_raw_value": "41.9503 -111.5804",
+                "latitude": 41.9503,
+                "longitude": -111.5804
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6813,7 +7043,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "38.9295 -77.1169"
+                "has_raw_value": "38.9295 -77.1169",
+                "latitude": 38.9295,
+                "longitude": -77.1169
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6870,7 +7102,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.6907 -91.7362"
+                "has_raw_value": "30.6907 -91.7362",
+                "latitude": 30.6907,
+                "longitude": -91.7362
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6927,7 +7161,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "61.9336 -162.8829"
+                "has_raw_value": "61.9336 -162.8829",
+                "latitude": 61.9336,
+                "longitude": -162.8829
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -6984,7 +7220,9 @@
                 "has_raw_value": "Brazil: Santarem"
             },
             "lat_lon": {
-                "has_raw_value": "-2.4843 -55.0075"
+                "has_raw_value": "-2.4843 -55.0075",
+                "latitude": -2.4843,
+                "longitude": -55.0075
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7042,7 +7280,9 @@
                 "has_raw_value": "USA: Kentucky"
             },
             "lat_lon": {
-                "has_raw_value": "37.0378 -88.5294"
+                "has_raw_value": "37.0378 -88.5294",
+                "latitude": 37.0378,
+                "longitude": -88.5294
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7100,7 +7340,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.2588 -95.9225"
+                "has_raw_value": "41.2588 -95.9225",
+                "latitude": 41.2588,
+                "longitude": -95.9225
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7157,7 +7399,9 @@
                 "has_raw_value": "USA: Mississippi"
             },
             "lat_lon": {
-                "has_raw_value": "32.3397 -90.9125"
+                "has_raw_value": "32.3397 -90.9125",
+                "latitude": 32.3397,
+                "longitude": -90.9125
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7215,7 +7459,9 @@
                 "has_raw_value": "Thailand: Mae Hong Son"
             },
             "lat_lon": {
-                "has_raw_value": "17.846 97.9764"
+                "has_raw_value": "17.846 97.9764",
+                "latitude": 17.846,
+                "longitude": 97.9764
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7272,7 +7518,9 @@
                 "has_raw_value": "Canada: Tsiigehtchic, Northwest Territories"
             },
             "lat_lon": {
-                "has_raw_value": "67.4333 -133.75"
+                "has_raw_value": "67.4333 -133.75",
+                "latitude": 67.4333,
+                "longitude": -133.75
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7329,7 +7577,9 @@
                 "has_raw_value": "Russia: Sakha Republic"
             },
             "lat_lon": {
-                "has_raw_value": "66.7666 123.3666"
+                "has_raw_value": "66.7666 123.3666",
+                "latitude": 66.7666 ,
+                "longitude": 123.3666
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7387,7 +7637,9 @@
                 "has_raw_value": "Congo: Oyo"
             },
             "lat_lon": {
-                "has_raw_value": "-1.1578 15.9672"
+                "has_raw_value": "-1.1578 15.9672",
+                "latitude": -1.1578,
+                "longitude": 15.9672
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7444,7 +7696,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "32.54069 -87.79835"
+                "has_raw_value": "32.54069 -87.79835",
+                "latitude": 32.54069,
+                "longitude": -87.79835
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7501,7 +7755,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "39.75841 -102.44896"
+                "has_raw_value": "39.75841 -102.44896",
+                "latitude": 39.75841,
+                "longitude": -102.44896
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7558,7 +7814,9 @@
                 "has_raw_value": "USA: New Hartford, Connecticut"
             },
             "lat_lon": {
-                "has_raw_value": "41.869567 -73.00222222"
+                "has_raw_value": "41.869567 -73.00222222",
+                "latitude": 41.869567,
+                "longitude": -73.00222222
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7615,7 +7873,9 @@
                 "has_raw_value": "USA: Gunnison, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "38.544583 -106.950417"
+                "has_raw_value": "38.544583 -106.950417",
+                "latitude": 38.544583,
+                "longitude": -106.950417
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7672,7 +7932,9 @@
                 "has_raw_value": "USA: Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "38.8748619 -76.5465418"
+                "has_raw_value": "38.8748619 -76.5465418",
+                "latitude": 38.8748619,
+                "longitude": -76.5465418
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7729,7 +7991,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "38.92352 -106.950961"
+                "has_raw_value": "38.92352 -106.950961",
+                "latitude": 38.92352,
+                "longitude": -106.950961
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -7790,7 +8054,9 @@
                 "has_raw_value": "Canada: British Columbia"
             },
             "lat_lon": {
-                "has_raw_value": "49.3863 -121.4506"
+                "has_raw_value": "49.3863 -121.4506",
+                "latitude": 49.3863,
+                "longitude": -121.4506
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7851,7 +8117,9 @@
                 "has_raw_value": "Canada: British Columbia"
             },
             "lat_lon": {
-                "has_raw_value": "50.7753 -119.7215"
+                "has_raw_value": "50.7753 -119.7215",
+                "latitude": 50.7753,
+                "longitude": -119.7215
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7912,7 +8180,9 @@
                 "has_raw_value": "USA: Nederland, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "40.0349 -105.5439"
+                "has_raw_value": "40.0349 -105.5439",
+                "latitude": 40.0349,
+                "longitude": -105.5439
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -7969,7 +8239,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "43.4313 -123.5855"
+                "has_raw_value": "43.4313 -123.5855",
+                "latitude": 43.4313,
+                "longitude": -123.5855
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8029,7 +8301,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "32.541 -87.7982"
+                "has_raw_value": "32.541 -87.7982",
+                "latitude": 32.541,
+                "longitude": 87.7982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8095,7 +8369,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8744 -87.9835"
+                "has_raw_value": "14.8744 -87.9835",
+                "latitude": 14.8744,
+                "longitude": -87.9835
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8156,7 +8432,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "32.541 -87.7982"
+                "has_raw_value": "32.541 -87.7982",
+                "latitude": 32.541,
+                "longitude": 87.7982
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8213,7 +8491,9 @@
                 "has_raw_value": "Italy: San Benigno Canavese, Piedmont"
             },
             "lat_lon": {
-                "has_raw_value": "45.2476 7.8043"
+                "has_raw_value": "45.2476 7.8043",
+                "latitude": 45,
+                "longitude": 7.8043
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8270,7 +8550,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "29.3496 -95.5824"
+                "has_raw_value": "29.3496 -95.5824",
+                "latitude": 29.3496,
+                "longitude": -95.5824
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8327,7 +8609,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "31.0865 -87.9772"
+                "has_raw_value": "31.0865 -87.9772",
+                "latitude": 31.0865,
+                "longitude": -87.9772
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8384,7 +8668,9 @@
                 "has_raw_value": "USA: Florida"
             },
             "lat_lon": {
-                "has_raw_value": "29.9493 -85.0154"
+                "has_raw_value": "29.9493 -85.0154",
+                "latitude": 29.9493,
+                "longitude": -85.0154
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8441,7 +8727,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.4456 -91.1915"
+                "has_raw_value": "30.4456 -91.1915",
+                "latitude": 30.4456,
+                "longitude": -91.1915
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8499,7 +8787,9 @@
                 "has_raw_value": "USA: Missouri"
             },
             "lat_lon": {
-                "has_raw_value": "37.2164 -89.4675"
+                "has_raw_value": "37.2164 -89.4675",
+                "latitude": 37.2164,
+                "longitude": -89.4675
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8557,7 +8847,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.0152 -96.1577"
+                "has_raw_value": "41.0152 -96.1577",
+                "latitude": 41.0152,
+                "longitude": -96.1577
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8614,7 +8906,9 @@
                 "has_raw_value": "USA: Mississippi"
             },
             "lat_lon": {
-                "has_raw_value": "32.4441 -90.9141"
+                "has_raw_value": "32.4441 -90.9141",
+                "latitude": 32.4441,
+                "longitude": -90.9141
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8671,7 +8965,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.4271 -81.6053"
+                "has_raw_value": "31.4271 -81.6053",
+                "latitude": 31.4271,
+                "longitude": -81.6053
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8728,7 +9024,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "37.676 -121.2663"
+                "has_raw_value": "37.676 -121.2663",
+                "latitude": 37.676,
+                "longitude": 121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8785,7 +9083,9 @@
                 "has_raw_value": "USA: Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "39.6579 -76.1741"
+                "has_raw_value": "39.6579 -76.1741",
+                "latitude": 39.6579,
+                "longitude": -76.1741
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8842,7 +9142,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "32.7186 -114.7188"
+                "has_raw_value": "32.7186 -114.7188",
+                "latitude": 32.7186,
+                "longitude": -114.7188
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8900,7 +9202,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.4897 -87.55"
+                "has_raw_value": "38.4897 -87.55",
+                "latitude": 38.4897,
+                "longitude": -87.55
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -8958,7 +9262,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.1308 -87.9414"
+                "has_raw_value": "38.1308 -87.9414",
+                "latitude": 38.1308,
+                "longitude": -87.9414
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9016,7 +9322,9 @@
                 "has_raw_value": "USA: Missouri"
             },
             "lat_lon": {
-                "has_raw_value": "37.2164 -89.4675"
+                "has_raw_value": "37.2164 -89.4675",
+                "latitude": 37.2164,
+                "longitude": -89.4675
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9074,7 +9382,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.0152 -96.1577"
+                "has_raw_value": "41.0152 -96.1577",
+                "latitude": 41.0152,
+                "longitude": -96.1577
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9131,7 +9441,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "29.3496 -95.5824"
+                "has_raw_value": "29.3496 -95.5824",
+                "latitude": 29.3496,
+                "longitude": -95.5824
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9188,7 +9500,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "45.0061 -74.7949"
+                "has_raw_value": "45.0061 -74.7949",
+                "latitude": 45.0061,
+                "longitude": -74.7949
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9245,7 +9559,9 @@
                 "has_raw_value": "Canada: Tsiigehtchic, Northwest Territories"
             },
             "lat_lon": {
-                "has_raw_value": "67.4333 -133.75"
+                "has_raw_value": "67.4333 -133.75",
+                "latitude": 67.4333,
+                "longitude": -133.75
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9302,7 +9618,9 @@
                 "has_raw_value": "Russia: Yamalo-Nenets Autonomous Okrug"
             },
             "lat_lon": {
-                "has_raw_value": "66.5166 66.6"
+                "has_raw_value": "66.5166 66.6",
+                "latitude": 66.5166,
+                "longitude": 66.6
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9360,7 +9678,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9418,7 +9738,9 @@
                 "has_raw_value": "Congo: Likouala"
             },
             "lat_lon": {
-                "has_raw_value": "2.0589 18.0605"
+                "has_raw_value": "2.0589 18.0605",
+                "latitude": 2.0589,
+                "longitude": 18.0605
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9475,7 +9797,9 @@
                 "has_raw_value": "USA: Wisconsin"
             },
             "lat_lon": {
-                "has_raw_value": "43.1095 -89.6407"
+                "has_raw_value": "43.1095 -89.6407",
+                "latitude": 43.1095,
+                "longitude": -89.6407
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -9532,7 +9856,9 @@
                 "has_raw_value": "USA: Newbury, Massachusetts"
             },
             "lat_lon": {
-                "has_raw_value": "42.7688065 -70.9164986"
+                "has_raw_value": "42.7688065 -70.9164986",
+                "latitude": 42.7688065,
+                "longitude": -70.9164986
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -9589,7 +9915,9 @@
                 "has_raw_value": "USA: Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.679191 -119.462605"
+                "has_raw_value": "46.679191 -119.462605",
+                "latitude": 46.679191,
+                "longitude": -119.462605
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -9646,7 +9974,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "43.6369 -123.5721"
+                "has_raw_value": "43.6369 -123.5721",
+                "latitude": 43.6369,
+                "longitude": -123.5721
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -9708,7 +10038,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.9144 -88.0205"
+                "has_raw_value": "14.9144 -88.0205",
+                "latitude": 14.9144,
+                "longitude": -88.0205
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9766,7 +10098,9 @@
                 "has_raw_value": "Canada: Winnipeg, Manitoba"
             },
             "lat_lon": {
-                "has_raw_value": "49.8687 -97.408"
+                "has_raw_value": "49.8687 -97.408",
+                "latitude": 49.8687,
+                "longitude": -97.408
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9826,7 +10160,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "33.9556 -83.4376"
+                "has_raw_value": "33.9556 -83.4376",
+                "latitude": 33.9556,
+                "longitude": -83.4376
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9887,7 +10223,9 @@
                 "has_raw_value": "USA: Idalia, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "39.7585 -102.4491"
+                "has_raw_value": "39.7585 -102.4491",
+                "latitude": 39.7585,
+                "longitude": -102.4491
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -9944,7 +10282,9 @@
                 "has_raw_value": "USA: Maryland"
             },
             "lat_lon": {
-                "has_raw_value": "38.8749 -76.5464"
+                "has_raw_value": "38.8749 -76.5464",
+                "latitude": 38.8749,
+                "longitude": -76.5464
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10002,7 +10342,9 @@
                 "has_raw_value": "USA: Richland, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.3763 -119.2729"
+                "has_raw_value": "46.3763 -119.2729",
+                "latitude": 46.3763,
+                "longitude": -119.2729
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10059,7 +10401,9 @@
                 "has_raw_value": "USA: Richland, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.6948 -119.4657"
+                "has_raw_value": "46.6948 -119.4657",
+                "latitude": 46.6948,
+                "longitude": -119.4657
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10125,7 +10469,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8889 -87.9718"
+                "has_raw_value": "14.8889 -87.9718",
+                "latitude": 14.8889,
+                "longitude": -87.9718
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10186,7 +10532,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "31.8531 -88.1574"
+                "has_raw_value": "31.8531 -88.1574",
+                "latitude": 31.8531,
+                "longitude": -88.1574
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10243,7 +10591,9 @@
                 "has_raw_value": "USA: Los Alamos, NewMexico"
             },
             "lat_lon": {
-                "has_raw_value": "35.868 -106.5233"
+                "has_raw_value": "35.868 -106.5233",
+                "latitude": 35.868,
+                "longitude": 106.5233
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10304,7 +10654,9 @@
                 "has_raw_value": "USA: Elkton, Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "43.6367 -123.5719"
+                "has_raw_value": "43.6367 -123.5719",
+                "latitude": 43.6367,
+                "longitude": -123.5719
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10365,7 +10717,9 @@
                 "has_raw_value": "Italy: San Benigno Canavese, Piedmont"
             },
             "lat_lon": {
-                "has_raw_value": "45.2476 7.8043"
+                "has_raw_value": "45.2476 7.8043",
+                "latitude": 45,
+                "longitude": 7.8043
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10423,7 +10777,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.4897 -87.55"
+                "has_raw_value": "38.4897 -87.55",
+                "latitude": 38.4897,
+                "longitude": -87.55
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10480,7 +10836,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "32.7186 -114.7188"
+                "has_raw_value": "32.7186 -114.7188",
+                "latitude": 32.7186,
+                "longitude": -114.7188
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10537,7 +10895,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.4271 -81.6053"
+                "has_raw_value": "31.4271 -81.6053",
+                "latitude": 31.4271,
+                "longitude": -81.6053
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10595,7 +10955,9 @@
                 "has_raw_value": "USA: Kentucky"
             },
             "lat_lon": {
-                "has_raw_value": "37.0378 -88.5294"
+                "has_raw_value": "37.0378 -88.5294",
+                "latitude": 37.0378,
+                "longitude": -88.5294
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10653,7 +11015,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.178 -91.182"
+                "has_raw_value": "41.178 -91.182",
+                "latitude": 41.178,
+                "longitude": 91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10711,7 +11075,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.0152 -96.1577"
+                "has_raw_value": "41.0152 -96.1577",
+                "latitude": 41.0152,
+                "longitude": -96.1577
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10769,7 +11135,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "40.7278 -91.9596"
+                "has_raw_value": "40.7278 -91.9596",
+                "latitude": 40.7278,
+                "longitude": -91.9596
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10826,7 +11194,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.4271 -81.6053"
+                "has_raw_value": "31.4271 -81.6053",
+                "latitude": 31.4271,
+                "longitude": -81.6053
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10883,7 +11253,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.4271 -81.6053"
+                "has_raw_value": "31.4271 -81.6053",
+                "latitude": 31.4271,
+                "longitude": -81.6053
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10940,7 +11312,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "38.456 -121.5013"
+                "has_raw_value": "38.456 -121.5013",
+                "latitude": 38.456,
+                "longitude": 121.5013
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -10997,7 +11371,9 @@
                 "has_raw_value": "Russia: Yamalo-Nenets Autonomous Okrug"
             },
             "lat_lon": {
-                "has_raw_value": "66.5166 66.6"
+                "has_raw_value": "66.5166 66.6",
+                "latitude": 66.5166,
+                "longitude": 66.6
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11054,7 +11430,9 @@
                 "has_raw_value": "Brazil: Obidos"
             },
             "lat_lon": {
-                "has_raw_value": "-1.919 -55.5257"
+                "has_raw_value": "-1.919 -55.5257",
+                "latitude": -1.919,
+                "longitude": -55.5257
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11112,7 +11490,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "39.7033 -90.6454"
+                "has_raw_value": "39.7033 -90.6454",
+                "latitude": 39.7033,
+                "longitude": -90.6454
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11170,7 +11550,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.2588 -95.9225"
+                "has_raw_value": "41.2588 -95.9225",
+                "latitude": 41.2588,
+                "longitude": -95.9225
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11228,7 +11610,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "38.9511 -90.3712"
+                "has_raw_value": "38.9511 -90.3712",
+                "latitude": 38.9511,
+                "longitude": -90.3712
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11285,7 +11669,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "38.9295 -77.1169"
+                "has_raw_value": "38.9295 -77.1169",
+                "latitude": 38.9295,
+                "longitude": -77.1169
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11342,7 +11728,9 @@
                 "has_raw_value": "Brazil: Santarem"
             },
             "lat_lon": {
-                "has_raw_value": "-2.4843 -55.0075"
+                "has_raw_value": "-2.4843 -55.0075",
+                "latitude": -2.4843,
+                "longitude": -55.0075
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11399,7 +11787,9 @@
                 "has_raw_value": "Brazil: Macapa"
             },
             "lat_lon": {
-                "has_raw_value": "-0.0838 -51.0514"
+                "has_raw_value": "-0.0838 -51.0514",
+                "latitude": -0.0838,
+                "longitude": -51.0514
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11458,7 +11848,9 @@
                 "has_raw_value": "Cameroon: Lobeke National Park"
             },
             "lat_lon": {
-                "has_raw_value": "2.2232 16.1901"
+                "has_raw_value": "2.2232 16.1901",
+                "latitude": 2.2232,
+                "longitude": 16.1901
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11515,7 +11907,9 @@
                 "has_raw_value": "USA: Kansas"
             },
             "lat_lon": {
-                "has_raw_value": "39.10445 -96.6025"
+                "has_raw_value": "39.10445 -96.6025",
+                "latitude": 39.10445,
+                "longitude": -96.6025
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11572,7 +11966,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "33.37853 -97.78275"
+                "has_raw_value": "33.37853 -97.78275",
+                "latitude": 33.37853,
+                "longitude": -97.78275
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11629,7 +12025,9 @@
                 "has_raw_value": "USA: Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.372515 -119.271902"
+                "has_raw_value": "46.372515 -119.271902",
+                "latitude": 46.372515,
+                "longitude": -119.271902
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11686,7 +12084,9 @@
                 "has_raw_value": "USA: Pennsylvania"
             },
             "lat_lon": {
-                "has_raw_value": "39.8577967 -75.7830393"
+                "has_raw_value": "39.8577967 -75.7830393",
+                "latitude": 39.8577967,
+                "longitude": -75.7830393
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11743,7 +12143,9 @@
                 "has_raw_value": "USA: Prineville, Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.299994 -120.858196"
+                "has_raw_value": "44.299994 -120.858196",
+                "latitude": 44.299994,
+                "longitude": -120.858196
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11800,7 +12202,9 @@
                 "has_raw_value": "USA: Florida"
             },
             "lat_lon": {
-                "has_raw_value": "25.40976 -80.96434"
+                "has_raw_value": "25.40976 -80.96434",
+                "latitude": 25.40976,
+                "longitude": -80.96434
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11857,7 +12261,9 @@
                 "has_raw_value": "USA: Middleton, Wisconsin"
             },
             "lat_lon": {
-                "has_raw_value": "43.14501 -89.472992"
+                "has_raw_value": "43.14501 -89.472992",
+                "latitude": 43.14501,
+                "longitude": -89.472992
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -11917,7 +12323,9 @@
                 "has_raw_value": "USA: Fraser, Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "39.8907 -105.9116"
+                "has_raw_value": "39.8907 -105.9116",
+                "latitude": 39.8907,
+                "longitude": -105.9116
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -11978,7 +12386,9 @@
                 "has_raw_value": "USA: Cordesville, South Carolina"
             },
             "lat_lon": {
-                "has_raw_value": "33.1307 -79.8101"
+                "has_raw_value": "33.1307 -79.8101",
+                "latitude": 33.1307,
+                "longitude": -79.8101
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12039,7 +12449,9 @@
                 "has_raw_value": "USA: North Woodstock, New Hampshire"
             },
             "lat_lon": {
-                "has_raw_value": "43.9547 -71.7227"
+                "has_raw_value": "43.9547 -71.7227",
+                "latitude": 43.9547,
+                "longitude": -71.7227
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12100,7 +12512,9 @@
                 "has_raw_value": "USA: Boise, Idaho"
             },
             "lat_lon": {
-                "has_raw_value": "43.1231 -116.7745"
+                "has_raw_value": "43.1231 -116.7745",
+                "latitude": 43.1231,
+                "longitude": -116.7745
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12161,7 +12575,9 @@
                 "has_raw_value": "USA: Oyster, Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "37.2913 -75.9308"
+                "has_raw_value": "37.2913 -75.9308",
+                "latitude": 37.2913,
+                "longitude": -75.9308
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12221,7 +12637,9 @@
                 "has_raw_value": "USA: Wisconsin"
             },
             "lat_lon": {
-                "has_raw_value": "43.1091 -89.6403"
+                "has_raw_value": "43.1091 -89.6403",
+                "latitude": 43.1091,
+                "longitude": -89.6403
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12282,7 +12700,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "39.0944 -77.9815"
+                "has_raw_value": "39.0944 -77.9815",
+                "latitude": 39.0944,
+                "longitude": -77.9815
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12339,7 +12759,9 @@
                 "has_raw_value": "USA: Avondale, Pennsylvania"
             },
             "lat_lon": {
-                "has_raw_value": "39.8595 -75.7841"
+                "has_raw_value": "39.8595 -75.7841",
+                "latitude": 39.8595,
+                "longitude": -75.7841
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12400,7 +12822,9 @@
                 "has_raw_value": "USA: North Slope Borough, Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "68.6272 -149.5972"
+                "has_raw_value": "68.6272 -149.5972",
+                "latitude": 68.6272,
+                "longitude": -149.5972
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12457,7 +12881,9 @@
                 "has_raw_value": "USA: Fairbanks, Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "64.8556 -147.8055"
+                "has_raw_value": "64.8556 -147.8055",
+                "latitude": 64.8556,
+                "longitude": -147.8055
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12514,7 +12940,9 @@
                 "has_raw_value": "USA: Michigan"
             },
             "lat_lon": {
-                "has_raw_value": "42.3919 -85.354"
+                "has_raw_value": "42.3919 -85.354",
+                "latitude": 42.3919,
+                "longitude": -85.354
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12580,7 +13008,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8084 -87.9952"
+                "has_raw_value": "14.8084 -87.9952",
+                "latitude": 14.8084,
+                "longitude": -87.9952
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12637,7 +13067,9 @@
                 "has_raw_value": "USA: Pullman, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.7322 -117.1803"
+                "has_raw_value": "46.7322 -117.1803",
+                "latitude": 46.7322,
+                "longitude": -117.1803
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12698,7 +13130,9 @@
                 "has_raw_value": "USA: Richland, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.6793 -119.4626"
+                "has_raw_value": "46.6793 -119.4626",
+                "latitude": 46.6793,
+                "longitude": -119.4626
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12759,7 +13193,9 @@
                 "has_raw_value": "USA: Tyee, Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "43.4313 -123.5855"
+                "has_raw_value": "43.4313 -123.5855",
+                "latitude": 43.4313,
+                "longitude": -123.5855
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12816,7 +13252,9 @@
                 "has_raw_value": "United Kingdom: Stafford, England"
             },
             "lat_lon": {
-                "has_raw_value": "52.8006 -2.3046"
+                "has_raw_value": "52.8006 -2.3046",
+                "latitude": 52.8006,
+                "longitude": -2.3046
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12874,7 +13312,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.1308 -87.9414"
+                "has_raw_value": "38.1308 -87.9414",
+                "latitude": 38.1308,
+                "longitude": -87.9414
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12932,7 +13372,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.4897 -87.55"
+                "has_raw_value": "38.4897 -87.55",
+                "latitude": 38.4897,
+                "longitude": -87.55
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -12990,7 +13432,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "38.9511 -90.3712"
+                "has_raw_value": "38.9511 -90.3712",
+                "latitude": 38.9511,
+                "longitude": -90.3712
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13048,7 +13492,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.178 -91.182"
+                "has_raw_value": "41.178 -91.182",
+                "latitude": 41.178,
+                "longitude": 91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13105,7 +13551,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "37.676 -121.2663"
+                "has_raw_value": "37.676 -121.2663",
+                "latitude": 37.676,
+                "longitude": 121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13163,7 +13611,9 @@
                 "has_raw_value": "Thailand: Mae Hong Son"
             },
             "lat_lon": {
-                "has_raw_value": "17.8354 97.6941"
+                "has_raw_value": "17.8354 97.6941",
+                "latitude": 17.8354,
+                "longitude": 97.6941
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13220,7 +13670,9 @@
                 "has_raw_value": "Russia: Krasnoyarsk Krai"
             },
             "lat_lon": {
-                "has_raw_value": "69.3833 86.15"
+                "has_raw_value": "69.3833 86.15",
+                "latitude": 69.3833,
+                "longitude": 86.15
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13277,7 +13729,9 @@
                 "has_raw_value": "Brazil: Macapa"
             },
             "lat_lon": {
-                "has_raw_value": "-0.0838 -51.0514"
+                "has_raw_value": "-0.0838 -51.0514",
+                "latitude": -0.0838,
+                "longitude": -51.0514
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13335,7 +13789,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.2588 -95.9225"
+                "has_raw_value": "41.2588 -95.9225",
+                "latitude": 41.2588,
+                "longitude": -95.9225
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13393,7 +13849,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.4897 -87.55"
+                "has_raw_value": "38.4897 -87.55",
+                "latitude": 38.4897,
+                "longitude": -87.55
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13451,7 +13909,9 @@
                 "has_raw_value": "USA: Illinois"
             },
             "lat_lon": {
-                "has_raw_value": "38.9511 -90.3712"
+                "has_raw_value": "38.9511 -90.3712",
+                "latitude": 38.9511,
+                "longitude": -90.3712
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13509,7 +13969,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "40.7278 -91.9596"
+                "has_raw_value": "40.7278 -91.9596",
+                "latitude": 40.7278,
+                "longitude": -91.9596
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13566,7 +14028,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "45.0061 -74.7949"
+                "has_raw_value": "45.0061 -74.7949",
+                "latitude": 45.0061,
+                "longitude": -74.7949
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13623,7 +14087,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "32.7186 -114.7188"
+                "has_raw_value": "32.7186 -114.7188",
+                "latitude": 32.7186,
+                "longitude": -114.7188
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13680,7 +14146,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "61.9333 -162.8666"
+                "has_raw_value": "61.9333 -162.8666",
+                "latitude": 61.9333,
+                "longitude": -162.8666
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13737,7 +14205,9 @@
                 "has_raw_value": "Brazil: Macapa"
             },
             "lat_lon": {
-                "has_raw_value": "-0.1239 -51.0215"
+                "has_raw_value": "-0.1239 -51.0215",
+                "latitude": -0.1239,
+                "longitude": -51.0215
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13794,7 +14264,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "29.6979 -91.3728"
+                "has_raw_value": "29.6979 -91.3728",
+                "latitude": 29.6979,
+                "longitude": -91.3728
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13852,7 +14324,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.178 -91.182"
+                "has_raw_value": "41.178 -91.182",
+                "latitude": 41.178,
+                "longitude": 91.182
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13910,7 +14384,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.7805 -90.252"
+                "has_raw_value": "41.7805 -90.252",
+                "latitude": 41.7805,
+                "longitude": -90.252
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -13968,7 +14444,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.7805 -90.252"
+                "has_raw_value": "41.7805 -90.252",
+                "latitude": 41.7805,
+                "longitude": -90.252
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14026,7 +14504,9 @@
                 "has_raw_value": "USA: Missouri"
             },
             "lat_lon": {
-                "has_raw_value": "38.7098 -91.4385"
+                "has_raw_value": "38.7098 -91.4385",
+                "latitude": 38.7098,
+                "longitude": -91.4385
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14083,7 +14563,9 @@
                 "has_raw_value": "USA: Florida"
             },
             "lat_lon": {
-                "has_raw_value": "29.9493 -85.0154"
+                "has_raw_value": "29.9493 -85.0154",
+                "latitude": 29.9493,
+                "longitude": -85.0154
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14140,7 +14622,9 @@
                 "has_raw_value": "USA: California"
             },
             "lat_lon": {
-                "has_raw_value": "37.676 -121.2663"
+                "has_raw_value": "37.676 -121.2663",
+                "latitude": 37.676,
+                "longitude": 121.2663
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14197,7 +14681,9 @@
                 "has_raw_value": "Russia: Sakha Republic"
             },
             "lat_lon": {
-                "has_raw_value": "68.75 161.3"
+                "has_raw_value": "68.75 161.3",
+                "latitude": 68,
+                "longitude": 161.3
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14255,7 +14741,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -14316,7 +14804,9 @@
                 "has_raw_value": "USA: Athens, Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "33.955686 -83.437674"
+                "has_raw_value": "33.955686 -83.437674",
+                "latitude": 33.955686,
+                "longitude": -83.437674
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14373,7 +14863,9 @@
                 "has_raw_value": "USA: New Salem, Massachusetts"
             },
             "lat_lon": {
-                "has_raw_value": "42.47179 -72.33027"
+                "has_raw_value": "42.47179 -72.33027",
+                "latitude": 42.47179,
+                "longitude": -72.33027
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14430,7 +14922,9 @@
                 "has_raw_value": "USA: Alabama"
             },
             "lat_lon": {
-                "has_raw_value": "31.85294 -88.15755"
+                "has_raw_value": "31.85294 -88.15755",
+                "latitude": 31.85294,
+                "longitude": -88.15755
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14487,7 +14981,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "39.89064 -105.91125"
+                "has_raw_value": "39.89064 -105.91125",
+                "latitude": 39.89064,
+                "longitude": -105.91125
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14544,7 +15040,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "33.750675 -111.507871"
+                "has_raw_value": "33.750675 -111.507871",
+                "latitude": 33.750675,
+                "longitude": -111.507871
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14601,7 +15099,9 @@
                 "has_raw_value": "USA: Washington"
             },
             "lat_lon": {
-                "has_raw_value": "45.792348 -121.929131"
+                "has_raw_value": "45.792348 -121.929131",
+                "latitude": 45.792348,
+                "longitude": -121.929131
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14658,7 +15158,9 @@
                 "has_raw_value": "USA: Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "32.42735 -110.757838"
+                "has_raw_value": "32.42735 -110.757838",
+                "latitude": 32.42735,
+                "longitude": -110.757838
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14715,7 +15217,9 @@
                 "has_raw_value": "USA: Kansas"
             },
             "lat_lon": {
-                "has_raw_value": "39.087889 -96.584725"
+                "has_raw_value": "39.087889 -96.584725",
+                "latitude": 39.087889,
+                "longitude": -96.584725
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14772,7 +15276,9 @@
                 "has_raw_value": "USA: South Carolina"
             },
             "lat_lon": {
-                "has_raw_value": "33.131027 -79.811134"
+                "has_raw_value": "33.131027 -79.811134",
+                "latitude": 33.131027,
+                "longitude": -79.811134
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14829,7 +15335,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "68.64278 -149.40333"
+                "has_raw_value": "68.64278 -149.40333",
+                "latitude": 68.64278,
+                "longitude": -149.40333
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14886,7 +15394,9 @@
                 "has_raw_value": "USA: South Carolina"
             },
             "lat_lon": {
-                "has_raw_value": "33.337475 -81.718207"
+                "has_raw_value": "33.337475 -81.718207",
+                "latitude": 33.337475,
+                "longitude": -81.718207
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -14943,7 +15453,9 @@
                 "has_raw_value": "USA: Austin, Texas"
             },
             "lat_lon": {
-                "has_raw_value": "30.250335 -97.709399"
+                "has_raw_value": "30.250335 -97.709399",
+                "latitude": 30.250335,
+                "longitude": -97.709399
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -15000,7 +15512,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "43.43138889 -123.5855556"
+                "has_raw_value": "43.43138889 -123.5855556",
+                "latitude": 43.43138889,
+                "longitude": -123.5855556
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -15060,7 +15574,9 @@
                 "has_raw_value": "Canada: British Columbia"
             },
             "lat_lon": {
-                "has_raw_value": "50.6887 -120.3664"
+                "has_raw_value": "50.6887 -120.3664",
+                "latitude": 50.6887,
+                "longitude": -120.3664
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15121,7 +15637,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "38.8944 -78.1474"
+                "has_raw_value": "38.8944 -78.1474",
+                "latitude": 38.8944,
+                "longitude": -78.1474
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15178,7 +15696,9 @@
                 "has_raw_value": "USA: Kansas"
             },
             "lat_lon": {
-                "has_raw_value": "38.9468 -96.4438"
+                "has_raw_value": "38.9468 -96.4438",
+                "latitude": 38.9468,
+                "longitude": -96.4438
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15238,7 +15758,9 @@
                 "has_raw_value": "Puerto Rico: Adjuntas, Adjuntas"
             },
             "lat_lon": {
-                "has_raw_value": "18.1741 -66.7996"
+                "has_raw_value": "18.1741 -66.7996",
+                "latitude": 18.1741,
+                "longitude": -66.7996
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15298,7 +15820,9 @@
                 "has_raw_value": "USA: Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "37.2101 -80.4451"
+                "has_raw_value": "37.2101 -80.4451",
+                "latitude": 37.2101,
+                "longitude": -80.4451
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15364,7 +15888,9 @@
                 "has_raw_value": "Honduras: Lago de Yojoa"
             },
             "lat_lon": {
-                "has_raw_value": "14.8744 -87.9835"
+                "has_raw_value": "14.8744 -87.9835",
+                "latitude": 14.8744,
+                "longitude": -87.9835
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15429,7 +15955,9 @@
                 "has_raw_value": "USA: Newton, Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.1858 -84.4372"
+                "has_raw_value": "31.1858 -84.4372",
+                "latitude": 31.1858,
+                "longitude": -84.4372
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15486,7 +16014,9 @@
                 "has_raw_value": "USA: Georgia"
             },
             "lat_lon": {
-                "has_raw_value": "31.6679 -81.8403"
+                "has_raw_value": "31.6679 -81.8403",
+                "latitude": 31.6679,
+                "longitude": -81.8403
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15547,7 +16077,9 @@
                 "has_raw_value": "USA: Connerville, Oklahoma"
             },
             "lat_lon": {
-                "has_raw_value": "34.4425 -96.6225"
+                "has_raw_value": "34.4425 -96.6225",
+                "latitude": 34.4425,
+                "longitude": -96.6225
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15608,7 +16140,9 @@
                 "has_raw_value": "USA: Summerhaven, Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "32.3273 -110.7595"
+                "has_raw_value": "32.3273 -110.7595",
+                "latitude": 32.3273,
+                "longitude": -110.7595
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15668,7 +16202,9 @@
                 "has_raw_value": "USA: Washing"
             },
             "lat_lon": {
-                "has_raw_value": "46.6793 -119.4626"
+                "has_raw_value": "46.6793 -119.4626",
+                "latitude": 46.6793,
+                "longitude": -119.4626
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15728,7 +16264,9 @@
                 "has_raw_value": "USA: Benton City, Washington"
             },
             "lat_lon": {
-                "has_raw_value": "46.253 -119.4772"
+                "has_raw_value": "46.253 -119.4772",
+                "latitude": 46.253,
+                "longitude": 119.4772
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15789,7 +16327,9 @@
                 "has_raw_value": "USA: Idaho City, Idaho"
             },
             "lat_lon": {
-                "has_raw_value": "43.6481 -115.9889"
+                "has_raw_value": "43.6481 -115.9889",
+                "latitude": 43.6481,
+                "longitude": -115.9889
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15849,7 +16389,9 @@
                 "has_raw_value": "USA: Salt Lake City, Utah"
             },
             "lat_lon": {
-                "has_raw_value": "40.7801 -111.8054"
+                "has_raw_value": "40.7801 -111.8054",
+                "latitude": 40.7801,
+                "longitude": -111.8054
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15906,7 +16448,9 @@
                 "has_raw_value": "USA: Aiken, South Carolina"
             },
             "lat_lon": {
-                "has_raw_value": "33.3377 -81.7181"
+                "has_raw_value": "33.3377 -81.7181",
+                "latitude": 33.3377,
+                "longitude": -81.7181
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -15967,7 +16511,9 @@
                 "has_raw_value": "Israel: Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16028,7 +16574,9 @@
                 "has_raw_value": "Israel: Golan Heights"
             },
             "lat_lon": {
-                "has_raw_value": "32.8993 35.6136"
+                "has_raw_value": "32.8993 35.6136",
+                "latitude": 32.8993,
+                "longitude": 35.6136
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16085,7 +16633,9 @@
                 "has_raw_value": "United Kingdom: Arden"
             },
             "lat_lon": {
-                "has_raw_value": "52.4198 -1.7043"
+                "has_raw_value": "52.4198 -1.7043",
+                "latitude": 52.4198,
+                "longitude": -1.7043
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16145,7 +16695,9 @@
                 "has_raw_value": "USA: Ohio"
             },
             "lat_lon": {
-                "has_raw_value": "39.2386 -84.7123"
+                "has_raw_value": "39.2386 -84.7123",
+                "latitude": 39.2386,
+                "longitude": -84.7123
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16206,7 +16758,9 @@
                 "has_raw_value": "USA: Mesa, Arizona"
             },
             "lat_lon": {
-                "has_raw_value": "33.7508 -111.5081"
+                "has_raw_value": "33.7508 -111.5081",
+                "latitude": 33.7508,
+                "longitude": -111.5081
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16267,7 +16821,9 @@
                 "has_raw_value": "USA: New Kent, Virginia"
             },
             "lat_lon": {
-                "has_raw_value": "37.5728 -77.0239"
+                "has_raw_value": "37.5728 -77.0239",
+                "latitude": 37.5728,
+                "longitude": -77.0239
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16324,7 +16880,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "61.9336 -162.8829"
+                "has_raw_value": "61.9336 -162.8829",
+                "latitude": 61.9336,
+                "longitude": -162.8829
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16381,7 +16939,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "41.7216 -73.9411"
+                "has_raw_value": "41.7216 -73.9411",
+                "latitude": 41.7216,
+                "longitude": -73.9411
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16439,7 +16999,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16497,7 +17059,9 @@
                 "has_raw_value": "USA: Nebraska"
             },
             "lat_lon": {
-                "has_raw_value": "41.2588 -95.9225"
+                "has_raw_value": "41.2588 -95.9225",
+                "latitude": 41.2588,
+                "longitude": -95.9225
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16554,7 +17118,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.7585 -91.3959"
+                "has_raw_value": "30.7585 -91.3959",
+                "latitude": 30.7585,
+                "longitude": -91.3959
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16611,7 +17177,9 @@
                 "has_raw_value": "USA: New York"
             },
             "lat_lon": {
-                "has_raw_value": "45.0061 -74.7949"
+                "has_raw_value": "45.0061 -74.7949",
+                "latitude": 45.0061,
+                "longitude": -74.7949
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16668,7 +17236,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "61.9336 -162.8829"
+                "has_raw_value": "61.9336 -162.8829",
+                "latitude": 61.9336,
+                "longitude": -162.8829
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16726,7 +17296,9 @@
                 "has_raw_value": "Congo: Brazzaville"
             },
             "lat_lon": {
-                "has_raw_value": "-4.3092 15.2356"
+                "has_raw_value": "-4.3092 15.2356",
+                "latitude": -4.3092,
+                "longitude": 15.2356
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16784,7 +17356,9 @@
                 "has_raw_value": "USA: Iowa"
             },
             "lat_lon": {
-                "has_raw_value": "41.7805 -90.252"
+                "has_raw_value": "41.7805 -90.252",
+                "latitude": 41.7805,
+                "longitude": -90.252
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16841,7 +17415,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "29.6979 -91.3728"
+                "has_raw_value": "29.6979 -91.3728",
+                "latitude": 29.6979,
+                "longitude": -91.3728
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16898,7 +17474,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "30.6907 -91.7362"
+                "has_raw_value": "30.6907 -91.7362",
+                "latitude": 30.6907,
+                "longitude": -91.7362
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -16956,7 +17534,9 @@
                 "has_raw_value": "USA: Indiana"
             },
             "lat_lon": {
-                "has_raw_value": "38.1308 -87.9414"
+                "has_raw_value": "38.1308 -87.9414",
+                "latitude": 38.1308,
+                "longitude": -87.9414
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17014,7 +17594,9 @@
                 "has_raw_value": "USA: Kentucky"
             },
             "lat_lon": {
-                "has_raw_value": "37.0378 -88.5294"
+                "has_raw_value": "37.0378 -88.5294",
+                "latitude": 37.0378,
+                "longitude": -88.5294
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17071,7 +17653,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "29.3496 -95.5824"
+                "has_raw_value": "29.3496 -95.5824",
+                "latitude": 29.3496,
+                "longitude": -95.5824
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17128,7 +17712,9 @@
                 "has_raw_value": "USA: Louisiana"
             },
             "lat_lon": {
-                "has_raw_value": "29.8571 -89.9778"
+                "has_raw_value": "29.8571 -89.9778",
+                "latitude": 29.8571,
+                "longitude": -89.9778
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17185,7 +17771,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "25.8767 -97.4544"
+                "has_raw_value": "25.8767 -97.4544",
+                "latitude": 25.8767,
+                "longitude": -97.4544
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17242,7 +17830,9 @@
                 "has_raw_value": "USA: Texas"
             },
             "lat_lon": {
-                "has_raw_value": "25.8767 -97.4544"
+                "has_raw_value": "25.8767 -97.4544",
+                "latitude": 25.8767,
+                "longitude": -97.4544
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17299,7 +17889,9 @@
                 "has_raw_value": "Brazil: Santarem"
             },
             "lat_lon": {
-                "has_raw_value": "-2.4843 -55.0075"
+                "has_raw_value": "-2.4843 -55.0075",
+                "latitude": -2.4843,
+                "longitude": -55.0075
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17357,7 +17949,9 @@
                 "has_raw_value": "Congo: Epena"
             },
             "lat_lon": {
-                "has_raw_value": "1.3199 17.4402"
+                "has_raw_value": "1.3199 17.4402",
+                "latitude": 1.3199,
+                "longitude": 17.4402
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater metagenome [NCBITaxon:449393]"
@@ -17414,7 +18008,9 @@
                 "has_raw_value": "USA: Kansas"
             },
             "lat_lon": {
-                "has_raw_value": "38.94668 -96.44355"
+                "has_raw_value": "38.94668 -96.44355",
+                "latitude": 38.94668,
+                "longitude": -96.44355
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17471,7 +18067,9 @@
                 "has_raw_value": "USA: Oak Ridge, Tennessee"
             },
             "lat_lon": {
-                "has_raw_value": "35.9563807 -84.278999"
+                "has_raw_value": "35.9563807 -84.278999",
+                "latitude": 35.9563807,
+                "longitude": -84.278999
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17528,7 +18126,9 @@
                 "has_raw_value": "USA: Utah"
             },
             "lat_lon": {
-                "has_raw_value": "40.78319 -111.80126"
+                "has_raw_value": "40.78319 -111.80126",
+                "latitude": 40.78319,
+                "longitude": -111.80126
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17585,7 +18185,9 @@
                 "has_raw_value": "USA: Pennsylvania"
             },
             "lat_lon": {
-                "has_raw_value": "39.8594333 -75.7839486"
+                "has_raw_value": "39.8594333 -75.7839486",
+                "latitude": 39.8594333,
+                "longitude": -75.7839486
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17642,7 +18244,9 @@
                 "has_raw_value": "USA: Pennsylvania"
             },
             "lat_lon": {
-                "has_raw_value": "40.61043 -78.00803"
+                "has_raw_value": "40.61043 -78.00803",
+                "latitude": 40.61043,
+                "longitude": -78.00803
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17699,7 +18303,9 @@
                 "has_raw_value": "USA: Oregon"
             },
             "lat_lon": {
-                "has_raw_value": "44.207316 -122.258091"
+                "has_raw_value": "44.207316 -122.258091",
+                "latitude": 44.207316,
+                "longitude": -122.258091
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17756,7 +18362,9 @@
                 "has_raw_value": "USA: Colorado"
             },
             "lat_lon": {
-                "has_raw_value": "40.66403 -105.223141"
+                "has_raw_value": "40.66403 -105.223141",
+                "latitude": 40.66403,
+                "longitude": -105.223141
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
@@ -17813,7 +18421,9 @@
                 "has_raw_value": "USA: Alaska"
             },
             "lat_lon": {
-                "has_raw_value": "60.520868 -144.837472"
+                "has_raw_value": "60.520868 -144.837472",
+                "latitude": 60.520868,
+                "longitude": -144.837472
             },
             "samp_taxon_id": {
                 "has_raw_value": "freshwater sediment metagenome [NCBITaxon:556182]"
