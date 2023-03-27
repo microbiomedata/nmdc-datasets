@@ -31,7 +31,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-s2ev1a57",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300022390",
@@ -100,7 +99,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300019371",
@@ -168,7 +166,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028238"
@@ -235,7 +232,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032015"
@@ -302,7 +298,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031849",
@@ -370,7 +365,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031807"
@@ -437,7 +431,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031822"
@@ -504,7 +497,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031855"
@@ -571,7 +563,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036371",
@@ -639,7 +630,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036372",
@@ -707,7 +697,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300037694",
@@ -775,7 +764,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036289",
@@ -843,7 +831,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "samp_name": "Alfalfa, Gen6, Rep 1",
             "gold_biosample_identifiers": [
@@ -904,7 +891,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036554"
@@ -971,7 +957,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036548"
@@ -1038,7 +1023,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300019372",
@@ -1106,7 +1090,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300019373",
@@ -1174,7 +1157,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-b4ds4628",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300022660",
@@ -1243,7 +1225,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021285",
@@ -1311,7 +1292,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021541",
@@ -1379,7 +1359,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028310",
@@ -1447,7 +1426,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300026336",
@@ -1515,7 +1493,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021540",
@@ -1583,7 +1560,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300030538",
@@ -1651,7 +1627,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032078"
@@ -1718,7 +1693,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036369",
@@ -1786,7 +1760,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036375",
@@ -1854,7 +1827,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036292",
@@ -1922,7 +1894,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036551"
@@ -1989,7 +1960,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-b4ds4628",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300024270",
@@ -2057,7 +2027,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300023713",
@@ -2126,7 +2095,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028235"
@@ -2193,7 +2161,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021319",
@@ -2261,7 +2228,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021279",
@@ -2329,7 +2295,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031900",
@@ -2397,7 +2362,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-s2ev1a57",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300023371",
@@ -2466,7 +2430,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300026338",
@@ -2534,7 +2497,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021421"
@@ -2597,7 +2559,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031863"
@@ -2664,7 +2625,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036553"
@@ -2731,7 +2691,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036374",
@@ -2799,7 +2758,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036347"
@@ -2866,7 +2824,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036167"
@@ -2933,7 +2890,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036471"
@@ -3000,7 +2956,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036108"
@@ -3067,7 +3022,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300019375",
@@ -3135,7 +3089,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-s2ev1a57",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300022661",
@@ -3205,7 +3158,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300023190",
@@ -3273,7 +3225,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-b4ds4628",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031555",
@@ -3345,7 +3296,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028239"
@@ -3412,7 +3362,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300026337",
@@ -3480,7 +3429,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021326",
@@ -3548,7 +3496,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028237"
@@ -3615,7 +3562,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028494",
@@ -3684,7 +3630,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031856"
@@ -3751,7 +3696,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031714"
@@ -3818,7 +3762,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032016"
@@ -3885,7 +3828,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036290",
@@ -3953,7 +3895,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036291",
@@ -4021,7 +3962,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036549"
@@ -4088,7 +4028,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036438"
@@ -4155,7 +4094,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036550"
@@ -4222,7 +4160,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036472"
@@ -4289,7 +4226,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300022401",
@@ -4358,7 +4294,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300022601",
@@ -4427,7 +4362,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028263"
@@ -4494,7 +4428,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021318",
@@ -4562,7 +4495,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028452",
@@ -4630,7 +4562,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300030641",
@@ -4698,7 +4629,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031818"
@@ -4765,7 +4695,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032071",
@@ -4833,7 +4762,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036470"
@@ -4900,7 +4828,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036107"
@@ -4967,7 +4894,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300018430",
@@ -5036,7 +4962,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300023711",
@@ -5104,7 +5029,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021301",
@@ -5172,7 +5096,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021295",
@@ -5240,7 +5163,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300023710",
@@ -5308,7 +5230,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032158"
@@ -5375,7 +5296,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032152",
@@ -5443,7 +5363,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300031761",
@@ -5511,7 +5430,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036469"
@@ -5578,7 +5496,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036515"
@@ -5645,7 +5562,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-t9c4yc86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300019378",
@@ -5714,7 +5630,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300020079",
@@ -5782,7 +5697,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300021310",
@@ -5850,7 +5764,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028453",
@@ -5919,7 +5832,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300028454",
@@ -5988,7 +5900,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-7ghwm522",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300030640",
@@ -6056,7 +5967,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-w0tt0j23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032079",
@@ -6124,7 +6034,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300032077"
@@ -6191,7 +6100,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036370",
@@ -6259,7 +6167,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036288",
@@ -6327,7 +6234,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036552"
@@ -6394,7 +6300,6 @@
             "host_taxid": {
                 "has_raw_value": "9925"
             },
-            "collected_from": "nmdc:frsite-11-bc294h06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300036409"
