@@ -28,7 +28,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6pvzc454",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040497"
@@ -88,7 +87,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-y6pn5580",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040487"
@@ -148,7 +146,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-572rma92",
             "type": "nmdc:Biosample",
             "samp_name": "CPER_001-M-20140415-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -204,7 +201,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gvmmay87",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040305"
@@ -263,7 +259,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-84ym3r34",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040315"
@@ -322,7 +317,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4vfp3d47",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040575"
@@ -381,7 +375,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-szjneq18",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040134"
@@ -441,7 +434,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bhstny31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039825"
@@ -501,7 +493,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dsh9mm19",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040511"
@@ -561,7 +552,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4cpmb775",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040186"
@@ -621,7 +611,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nyanmh89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040536"
@@ -680,7 +669,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qknehh84",
             "type": "nmdc:Biosample",
             "samp_name": "STER_003-M-38-30-20131217-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -736,7 +724,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-k0fhv332",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039842"
@@ -796,7 +783,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gjhcmj71",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040506"
@@ -856,7 +842,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xs9x6s03",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039711"
@@ -916,7 +901,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r4dxax74",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040106"
@@ -976,7 +960,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kq4zyq94",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040485"
@@ -1036,7 +1019,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-arzh1102",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040171"
@@ -1096,7 +1078,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nhwgh213",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040290"
@@ -1156,7 +1137,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1455v877",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040245"
@@ -1216,7 +1196,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-77402s60",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040682"
@@ -1276,7 +1255,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-z4rm4p49",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039932"
@@ -1336,7 +1314,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jy7nfw65",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040622"
@@ -1395,7 +1372,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zec8de34",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040542"
@@ -1454,7 +1430,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9n2xyr89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040587"
@@ -1514,7 +1489,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cg5hs527",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040646"
@@ -1574,7 +1548,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-35y53b30",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040684"
@@ -1634,7 +1607,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-tnc8t224",
             "type": "nmdc:Biosample",
             "samp_name": "STER_003-M-38-5-20130627-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -1690,7 +1662,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-70kejn17",
             "type": "nmdc:Biosample",
             "samp_name": "STER_004-M-7-21-20131217-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -1746,7 +1717,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3604mx69",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040568"
@@ -1806,7 +1776,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qa40qx14",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040310"
@@ -1866,7 +1835,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bdp50114",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040209"
@@ -1925,7 +1893,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-d5xszh07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040617"
@@ -1984,7 +1951,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nfbra453",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040079"
@@ -2043,7 +2009,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fh171646",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040491"
@@ -2103,7 +2068,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-685y5q89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040323"
@@ -2163,7 +2127,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4kd66195",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039766"
@@ -2223,7 +2186,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cat0p543",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039767"
@@ -2283,7 +2245,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cn8wn753",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040592"
@@ -2342,7 +2303,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1740h502",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040004"
@@ -2402,7 +2362,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wbc2jv38",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040652"
@@ -2462,7 +2421,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w90c5a75",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040505"
@@ -2522,7 +2480,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8evmqt94",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039761"
@@ -2582,7 +2539,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6kkj9q73",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039945"
@@ -2642,7 +2598,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040492"
@@ -2702,7 +2657,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040699"
@@ -2762,7 +2716,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zg6kd553",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040666"
@@ -2822,7 +2775,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rzt1ms95",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040269"
@@ -2882,7 +2834,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2gxsb356",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040644"
@@ -2941,7 +2892,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gn23m622",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040248"
@@ -3001,7 +2951,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-00en2j19",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040670"
@@ -3060,7 +3009,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gptqxd85",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040284"
@@ -3120,7 +3068,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1res4v84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040466"
@@ -3179,7 +3126,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-tx3svj85",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040563"
@@ -3239,7 +3185,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jet0z225",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040408"
@@ -3299,7 +3244,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-c2npyy69",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040541"
@@ -3359,7 +3303,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ntvcxy82",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040354"
@@ -3419,7 +3362,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kyd44603",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040253"
@@ -3478,7 +3420,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-adfj5539",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040278"
@@ -3537,7 +3478,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3m6ayp73",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040286"
@@ -3597,7 +3537,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rra6ds92",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040647"
@@ -3657,7 +3596,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vmspxh89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040683"
@@ -3717,7 +3655,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dm70n021",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040246"
@@ -3777,7 +3714,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dk428704",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039919"
@@ -3837,7 +3773,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ct8d5w83",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040537"
@@ -3897,7 +3832,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6f493q11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039921"
@@ -3957,7 +3891,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-c7d1pc85",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040326"
@@ -4017,7 +3950,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hf76w431",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040452"
@@ -4077,7 +4009,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7n6vfk35",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039944"
@@ -4137,7 +4068,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-p7a1cb73",
             "type": "nmdc:Biosample",
             "samp_name": "WOOD_002-M-20140702-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4193,7 +4123,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4jre7t16",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039972"
@@ -4253,7 +4182,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5smc6d42",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040414"
@@ -4313,7 +4241,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040594"
@@ -4373,7 +4300,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040425"
@@ -4433,7 +4359,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ceknm084",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039799"
@@ -4493,7 +4418,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040581"
@@ -4553,7 +4477,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zpcv9k91",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040459"
@@ -4612,7 +4535,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-416cs158",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040328"
@@ -4672,7 +4594,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ymwms446",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040420"
@@ -4732,7 +4653,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ghhy2e77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040392"
@@ -4791,7 +4711,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sqchq467",
             "type": "nmdc:Biosample",
             "samp_name": "STER_005-M-20130627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4847,7 +4766,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-h7wgvx98",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039936"
@@ -4907,7 +4825,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-77hqnw53",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039964"
@@ -4966,7 +4883,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-98vh6z80",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040446"
@@ -5025,7 +4941,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bfwv8823",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040481"
@@ -5085,7 +5000,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2s1v7z07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040401"
@@ -5145,7 +5059,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s4ad8p07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040630"
@@ -5205,7 +5118,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wqmgwg66",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039714"
@@ -5265,7 +5177,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dsdah571",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039681"
@@ -5325,7 +5236,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-yvqtx440",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040489"
@@ -5385,7 +5295,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bm2rv610",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040561"
@@ -5445,7 +5354,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hy5bxw33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040143"
@@ -5505,7 +5413,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0f4tb693",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040593"
@@ -5565,7 +5472,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-38rn9785",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040176"
@@ -5625,7 +5531,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-08612118",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040257"
@@ -5685,7 +5590,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gxdcv785",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040346"
@@ -5745,7 +5649,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-adr03j05",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040212"
@@ -5804,7 +5707,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-aasq4h77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040244"
@@ -5863,7 +5765,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xhdse027",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040704"
@@ -5922,7 +5823,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kgrarw25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040645"
@@ -5982,7 +5882,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-71vj9225",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039974"
@@ -6042,7 +5941,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xdmahd58",
             "type": "nmdc:Biosample",
             "samp_name": "JERC_006-M-20140910-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6098,7 +5996,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-v23w6706",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040403"
@@ -6158,7 +6055,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-avhvjn51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040713"
@@ -6218,7 +6114,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jjp2x484",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040402"
@@ -6278,7 +6173,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hk9jnt87",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040149"
@@ -6338,7 +6232,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039929"
@@ -6398,7 +6291,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040697"
@@ -6458,7 +6350,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-msq24s33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040125"
@@ -6518,7 +6409,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-78654p30",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040047"
@@ -6578,7 +6468,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ypwmad65",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040508"
@@ -6638,7 +6527,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-h0ty5z51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040454"
@@ -6698,7 +6586,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5ggg3e13",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040555"
@@ -6758,7 +6645,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gc6c6s35",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040117"
@@ -6818,7 +6704,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-yyaecb26",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040540"
@@ -6878,7 +6763,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6s7rnp09",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039786"
@@ -6938,7 +6822,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dwaawm15",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040308"
@@ -6998,7 +6881,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-75f2vg30",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039915"
@@ -7058,7 +6940,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ewnp7262",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039834"
@@ -7118,7 +6999,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nqztgg53",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039788"
@@ -7177,7 +7057,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-016z8y53",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040586"
@@ -7236,7 +7115,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-z5315y12",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040267"
@@ -7296,7 +7174,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6avpe287",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040019"
@@ -7356,7 +7233,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vt017607",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039776"
@@ -7416,7 +7292,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pn457429",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040625"
@@ -7476,7 +7351,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sjt6sd51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040619"
@@ -7535,7 +7409,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6ab13x11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040194"
@@ -7595,7 +7468,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nvn5e658",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040181"
@@ -7655,7 +7527,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-672gh160",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040224"
@@ -7715,7 +7586,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2jhk6v73",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_001-O-20131122-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7771,7 +7641,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ktdkqf62",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040633"
@@ -7831,7 +7700,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xnqyzh39",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040554"
@@ -7891,7 +7759,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ft8k4t07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039990"
@@ -7951,7 +7818,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dkk63c49",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040509"
@@ -8010,7 +7876,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5s8nm511",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040679"
@@ -8070,7 +7935,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7qsrwm66",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040265"
@@ -8130,7 +7994,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xnrc1r48",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039775"
@@ -8190,7 +8053,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8dsf9684",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040662"
@@ -8250,7 +8112,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zgvc3774",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040371"
@@ -8310,7 +8171,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5f86bx18",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039717"
@@ -8370,7 +8230,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fnhsp386",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039773"
@@ -8430,7 +8289,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8cmyf045",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040045"
@@ -8490,7 +8348,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9xdeeh64",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040496"
@@ -8550,7 +8407,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nzwkgh05",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040294"
@@ -8610,7 +8466,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040538"
@@ -8670,7 +8525,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040422"
@@ -8730,7 +8584,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040366"
@@ -8790,7 +8643,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040632"
@@ -8850,7 +8702,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ar94gn02",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040668"
@@ -8910,7 +8761,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s4m4ds61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040636"
@@ -8970,7 +8820,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rt8www76",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039869"
@@ -9030,7 +8879,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-t072nh84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040690"
@@ -9090,7 +8938,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sw1ekn08",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039851"
@@ -9150,7 +8997,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6x760b52",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040455"
@@ -9209,7 +9055,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3hrbvz34",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040394"
@@ -9269,7 +9114,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-x8mdx877",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040655"
@@ -9328,7 +9172,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3zqmkt23",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040300"
@@ -9388,7 +9231,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3f783a65",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039585"
@@ -9448,7 +9290,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ryeqwt77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039843"
@@ -9508,7 +9349,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dyg3vk81",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040543"
@@ -9567,7 +9407,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7yawaq07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040205"
@@ -9627,7 +9466,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-17n33d08",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039855"
@@ -9686,7 +9524,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fnk4h787",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040609"
@@ -9746,7 +9583,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3zqwte31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040404"
@@ -9806,7 +9642,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wq5yjp64",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040238"
@@ -9866,7 +9701,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dmeh1a20",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040200"
@@ -9926,7 +9760,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-tc1ahj84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040007"
@@ -9986,7 +9819,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-grmgdv25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039608"
@@ -10046,7 +9878,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sxzs0163",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_004-O-20131122-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10102,7 +9933,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zf1ak504",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039949"
@@ -10162,7 +9992,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-87rtj614",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040698"
@@ -10221,7 +10050,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-595t7105",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040696"
@@ -10281,7 +10109,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w7bbsy51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039874"
@@ -10341,7 +10168,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jat75q38",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040285"
@@ -10401,7 +10227,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bqn92c71",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040115"
@@ -10461,7 +10286,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040664"
@@ -10520,7 +10344,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pcjbkf51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039719"
@@ -10580,7 +10403,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hmetz198",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039636"
@@ -10640,7 +10462,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-k11zx978",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039998"
@@ -10700,7 +10521,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040519"
@@ -10760,7 +10580,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gakceb47",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040172"
@@ -10820,7 +10639,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040433"
@@ -10880,7 +10698,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mmky6r32",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040056"
@@ -10940,7 +10757,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-p80mw851",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040521"
@@ -11000,7 +10816,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ktp0v280",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040456"
@@ -11060,7 +10875,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bp82ym40",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039805"
@@ -11120,7 +10934,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rjh93d21",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040421"
@@ -11180,7 +10993,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fjkn5791",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040424"
@@ -11239,7 +11051,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-n4eyx927",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040627"
@@ -11299,7 +11110,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pv9c2x44",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040500"
@@ -11359,7 +11169,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ta4vpf64",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040544"
@@ -11418,7 +11227,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7ye7tb88",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039939"
@@ -11477,7 +11285,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-tsjzkz45",
             "type": "nmdc:Biosample",
             "samp_name": "TALL_002-O-10-34-20140708-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -11533,7 +11340,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039970"
@@ -11593,7 +11399,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040464"
@@ -11653,7 +11458,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7fc6cn77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040430"
@@ -11713,7 +11517,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vctqaf15",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040108"
@@ -11773,7 +11576,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zv95hg25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040486"
@@ -11833,7 +11635,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e9vpha35",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040426"
@@ -11893,7 +11694,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fnzxf487",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039889"
@@ -11953,7 +11753,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bjqra696",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040027"
@@ -12013,7 +11812,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wd2vey55",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040307"
@@ -12072,7 +11870,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-m8pdcw54",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040590"
@@ -12132,7 +11929,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nvtx2n69",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040280"
@@ -12192,7 +11988,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-khk6f945",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039832"
@@ -12252,7 +12047,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wyky7264",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040377"
@@ -12312,7 +12106,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040429"
@@ -12372,7 +12165,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040483"
@@ -12432,7 +12224,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040514"
@@ -12492,7 +12283,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vns09e35",
             "type": "nmdc:Biosample",
             "samp_name": "CPER_003-M-20140716-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12548,7 +12338,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bbwsk260",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040583"
@@ -12607,7 +12396,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zx4yd272",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039900"
@@ -12667,7 +12455,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1ww9eg08",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040142"
@@ -12727,7 +12514,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nyac3e84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039844"
@@ -12787,7 +12573,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vyyz8t31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040620"
@@ -12846,7 +12631,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-g3yng120",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040309"
@@ -12906,7 +12690,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ycdjrp37",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040302"
@@ -12966,7 +12749,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hjx91664",
             "type": "nmdc:Biosample",
             "samp_name": "TALL_002-M-20140708-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13022,7 +12804,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5pf8gb05",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040484"
@@ -13082,7 +12863,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cr24yy11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040085"
@@ -13142,7 +12922,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rzmj1371",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039988"
@@ -13202,7 +12981,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fcjpmh65",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040409"
@@ -13262,7 +13040,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mvca4122",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039807"
@@ -13322,7 +13099,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pc45jy27",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040216"
@@ -13381,7 +13157,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8c74wd37",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039743"
@@ -13441,7 +13216,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fbzjhy33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040231"
@@ -13501,7 +13275,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fkqt1757",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040112"
@@ -13561,7 +13334,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mxztdx91",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040103"
@@ -13621,7 +13393,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pj3nvk31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040236"
@@ -13680,7 +13451,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-smyhwh89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040706"
@@ -13740,7 +13510,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xk1x4f95",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040101"
@@ -13800,7 +13569,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-v1m4b491",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040158"
@@ -13860,7 +13628,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-177q5m67",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040516"
@@ -13920,7 +13687,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7axwqb84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040311"
@@ -13980,7 +13746,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gq51yx25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040150"
@@ -14040,7 +13805,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-g9xv9531",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040157"
@@ -14100,7 +13864,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-b4ad7v04",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040023"
@@ -14160,7 +13923,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s43mfw36",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040531"
@@ -14220,7 +13982,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1931tp96",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040451"
@@ -14280,7 +14041,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dqgy9k83",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040694"
@@ -14340,7 +14100,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-40ddvf58",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040553"
@@ -14400,7 +14159,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nqpgtg33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040665"
@@ -14460,7 +14218,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2m6ksc89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040006"
@@ -14520,7 +14277,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-78n9mt02",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040185"
@@ -14580,7 +14336,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bffntt63",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040671"
@@ -14640,7 +14395,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kz7r2d84",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040570"
@@ -14700,7 +14454,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5d8s4c27",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039895"
@@ -14760,7 +14513,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6jmq5855",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039885"
@@ -14820,7 +14572,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xce9t059",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040591"
@@ -14880,7 +14631,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gmw02y94",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039892"
@@ -14940,7 +14690,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8yvv4t11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040223"
@@ -15000,7 +14749,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r8dtxx22",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039861"
@@ -15060,7 +14808,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-b0jjsz92",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039708"
@@ -15120,7 +14867,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qv1dnv63",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040407"
@@ -15180,7 +14926,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s03x7q15",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040413"
@@ -15240,7 +14985,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fy95rn61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040512"
@@ -15300,7 +15044,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vmjq6n96",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040281"
@@ -15360,7 +15103,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sje1e241",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040658"
@@ -15419,7 +15161,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5wpk8h19",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040529"
@@ -15478,7 +15219,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3hvp4036",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040654"
@@ -15538,7 +15278,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4mx5pf10",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040026"
@@ -15598,7 +15337,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8wgfxb12",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040173"
@@ -15658,7 +15396,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-x7pg4p38",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040635"
@@ -15718,7 +15455,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wz4xbd48",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039891"
@@ -15778,7 +15514,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wr86ad41",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040626"
@@ -15838,7 +15573,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-caphwe59",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040527"
@@ -15898,7 +15632,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040417"
@@ -15958,7 +15691,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1aq0p897",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040476"
@@ -16018,7 +15750,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040391"
@@ -16078,7 +15809,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040011"
@@ -16137,7 +15867,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-azbytc77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039978"
@@ -16197,7 +15926,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040072"
@@ -16257,7 +15985,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9tbyec52",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040535"
@@ -16317,7 +16044,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-591gs945",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040270"
@@ -16377,7 +16103,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zm9x5r10",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040685"
@@ -16437,7 +16162,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3gyxgd25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039593"
@@ -16497,7 +16221,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mkdmyr12",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039707"
@@ -16557,7 +16280,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wzhxvm66",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039784"
@@ -16616,7 +16338,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-y737qc40",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040234"
@@ -16676,7 +16397,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3n80hv09",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040189"
@@ -16736,7 +16456,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8sh7x091",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_016-M-22-33-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -16792,7 +16511,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-z4bf9616",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040599"
@@ -16852,7 +16570,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cjrbwy74",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039910"
@@ -16912,7 +16629,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-z2w7em95",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040362"
@@ -16972,7 +16688,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vtft5t03",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040691"
@@ -17031,7 +16746,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fdb5z933",
             "type": "nmdc:Biosample",
             "samp_name": "CPER_004-M-5-35-20130701-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -17087,7 +16801,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jzaa2b89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040287"
@@ -17147,7 +16860,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zfykfx36",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040338"
@@ -17207,7 +16919,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zzzcgc18",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040502"
@@ -17267,7 +16978,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3xeeeq64",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040255"
@@ -17327,7 +17037,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-40n9ne68",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040398"
@@ -17387,7 +17096,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-q7j56h33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040528"
@@ -17446,7 +17154,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-77448b42",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039914"
@@ -17506,7 +17213,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3r157r27",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040002"
@@ -17566,7 +17272,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-q4n7zm38",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040467"
@@ -17626,7 +17331,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ng6p3s19",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_013-O-20131122-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17682,7 +17386,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-j67deg82",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039831"
@@ -17742,7 +17445,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mbw7rj77",
             "type": "nmdc:Biosample",
             "samp_name": "JERC_001-M-20140910-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17798,7 +17500,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2zpa6872",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040611"
@@ -17858,7 +17559,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wa2psg02",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039535"
@@ -17918,7 +17618,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6pcr1v07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040042"
@@ -17978,7 +17677,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040638"
@@ -18038,7 +17736,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ttmp2m57",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040680"
@@ -18098,7 +17795,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e9t0yk39",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040340"
@@ -18158,7 +17854,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7mnarm34",
             "type": "nmdc:Biosample",
             "samp_name": "STER_004-M-20130627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18214,7 +17909,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-awxnn652",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040423"
@@ -18274,7 +17968,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-92g0xw52",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040053"
@@ -18334,7 +18027,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jptrhp90",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040628"
@@ -18393,7 +18085,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qt5q5j46",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039908"
@@ -18452,7 +18143,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vrr3f944",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040482"
@@ -18512,7 +18202,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2gb8dt25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039995"
@@ -18571,7 +18260,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-02jgcb70",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040616"
@@ -18631,7 +18319,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w7799v55",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039898"
@@ -18691,7 +18378,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-j9y54h31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040551"
@@ -18751,7 +18437,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s6700v49",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040382"
@@ -18811,7 +18496,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mkj9ej29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040490"
@@ -18871,7 +18555,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-a9cz6k33",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040565"
@@ -18930,7 +18613,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-15kesq86",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040657"
@@ -18990,7 +18672,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-x85eqg45",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039744"
@@ -19050,7 +18731,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vpsky106",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040559"
@@ -19110,7 +18790,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4w3t7x47",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040649"
@@ -19170,7 +18849,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-d6h8xr35",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040144"
@@ -19230,7 +18908,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040588"
@@ -19290,7 +18967,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-x0dbrb56",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040266"
@@ -19350,7 +19026,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-65p03y78",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040518"
@@ -19410,7 +19085,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040701"
@@ -19469,7 +19143,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cnjp5a85",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040357"
@@ -19529,7 +19202,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gk9bev41",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040113"
@@ -19589,7 +19261,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3fm5e712",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039778"
@@ -19649,7 +19320,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-k0kqp056",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039965"
@@ -19709,7 +19379,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rcx89b78",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040229"
@@ -19769,7 +19438,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r3e6b856",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040192"
@@ -19829,7 +19497,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ke1w9r71",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040240"
@@ -19889,7 +19556,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3t2fmj08",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040576"
@@ -19949,7 +19615,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-h1kr7431",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040168"
@@ -20009,7 +19674,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5bdxy038",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040264"
@@ -20069,7 +19733,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zmq2w676",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040161"
@@ -20129,7 +19792,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rmnaqh47",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039973"
@@ -20189,7 +19851,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-72mjpj79",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039584"
@@ -20249,7 +19910,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2dx83q80",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040312"
@@ -20309,7 +19969,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9n9aw511",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040038"
@@ -20369,7 +20028,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1q6mj187",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040667"
@@ -20429,7 +20087,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-t41szd58",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040317"
@@ -20489,7 +20146,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xsw7rh76",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040345"
@@ -20549,7 +20205,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-rhv8ma88",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039996"
@@ -20609,7 +20264,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1rkj5j61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039600"
@@ -20669,7 +20323,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-q0d2yv78",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039712"
@@ -20729,7 +20382,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dnd3m131",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040291"
@@ -20789,7 +20441,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r8c8nr78",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040321"
@@ -20849,7 +20500,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-asv9q119",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039811"
@@ -20909,7 +20559,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040580"
@@ -20969,7 +20618,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040274"
@@ -21029,7 +20677,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040350"
@@ -21089,7 +20736,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040507"
@@ -21149,7 +20795,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vgkwt368",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040618"
@@ -21209,7 +20854,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zhxd2507",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039694"
@@ -21269,7 +20913,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5aj1m196",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040304"
@@ -21329,7 +20972,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-6833ma44",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039815"
@@ -21389,7 +21031,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-95nj4f82",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040702"
@@ -21448,7 +21089,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3ydsb313",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040277"
@@ -21508,7 +21148,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w1zd0r35",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040688"
@@ -21568,7 +21207,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-aw30mj73",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040254"
@@ -21628,7 +21266,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dzp53484",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039999"
@@ -21688,7 +21325,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-k459ws69",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040595"
@@ -21748,7 +21384,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0yt9cd59",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040705"
@@ -21807,7 +21442,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-hqvv1g24",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039931"
@@ -21867,7 +21501,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0ft6rt12",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039680"
@@ -21927,7 +21560,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4hyrm381",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040439"
@@ -21987,7 +21619,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5ww1qp58",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040549"
@@ -22047,7 +21678,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e5mrj018",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040130"
@@ -22106,7 +21736,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3sg1zd69",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040715"
@@ -22166,7 +21795,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s4vm4j90",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040364"
@@ -22226,7 +21854,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s97bf055",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040381"
@@ -22286,7 +21913,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-tr7a1424",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040686"
@@ -22345,7 +21971,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-znxn2206",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040227"
@@ -22405,7 +22030,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e76qqj18",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040368"
@@ -22465,7 +22089,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0hxkk918",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040043"
@@ -22525,7 +22148,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pn1dj825",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040347"
@@ -22585,7 +22207,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w7p3nd48",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040183"
@@ -22645,7 +22266,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-nyyy0g82",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040218"
@@ -22705,7 +22325,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r3cnk169",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039561"
@@ -22765,7 +22384,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r91ht510",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040351"
@@ -22825,7 +22443,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-yhhyv907",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040579"
@@ -22885,7 +22502,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040569"
@@ -22945,7 +22561,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040440"
@@ -23005,7 +22620,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040416"
@@ -23065,7 +22679,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040525"
@@ -23125,7 +22738,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vh4fzb66",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040522"
@@ -23184,7 +22796,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-krbwbm57",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040584"
@@ -23244,7 +22855,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bew6dr05",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039850"
@@ -23304,7 +22914,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-83e3qb61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040434"
@@ -23363,7 +22972,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2pxjsq66",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040640"
@@ -23423,7 +23031,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qkpzff07",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039828"
@@ -23482,7 +23089,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sq65bj81",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040566"
@@ -23541,7 +23147,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vt22dn11",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_016-M-20130709-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23597,7 +23202,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gwncwp06",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040104"
@@ -23656,7 +23260,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5e3xn405",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040562"
@@ -23715,7 +23318,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jrvqpd11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039557"
@@ -23775,7 +23377,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-agammd61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040093"
@@ -23835,7 +23436,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0zftdq59",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040642"
@@ -23895,7 +23495,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kjv5zg34",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040124"
@@ -23955,7 +23554,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jj0q4g89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040237"
@@ -24015,7 +23613,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-69nym437",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040187"
@@ -24075,7 +23672,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-a58etc65",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040095"
@@ -24135,7 +23731,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zky0z138",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040013"
@@ -24195,7 +23790,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kkn56r31",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040163"
@@ -24255,7 +23849,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0adj1421",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039779"
@@ -24315,7 +23908,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ksgegs45",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040084"
@@ -24374,7 +23966,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-g5avkq03",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040387"
@@ -24434,7 +24025,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7vx3jg25",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039796"
@@ -24494,7 +24084,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gvzqz403",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040437"
@@ -24553,7 +24142,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-fetpg217",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040545"
@@ -24613,7 +24201,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0wfpee13",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040589"
@@ -24673,7 +24260,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kpw5ye21",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040314"
@@ -24733,7 +24319,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-2713ry68",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040198"
@@ -24793,7 +24378,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ha93d421",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040637"
@@ -24853,7 +24437,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-304nae02",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040695"
@@ -24913,7 +24496,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zye37021",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040532"
@@ -24973,7 +24555,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040383"
@@ -25032,7 +24613,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "samp_name": "Atlantic, VA, USA - SCBI_006-M-20140915-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25088,7 +24668,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-7cyrvb75",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039840"
@@ -25148,7 +24727,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3y4fxf62",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040488"
@@ -25208,7 +24786,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-c778md77",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040428"
@@ -25268,7 +24845,6 @@
                     "name": "farm soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040643"
@@ -25328,7 +24904,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-43v8bp78",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040324"
@@ -25388,7 +24963,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-m14wk943",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040349"
@@ -25448,7 +25022,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-jrk78644",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040196"
@@ -25508,7 +25081,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-965v0g63",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040501"
@@ -25568,7 +25140,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-8rnpb981",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040397"
@@ -25628,7 +25199,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-njy7qb85",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040316"
@@ -25688,7 +25258,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-sv67b709",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040612"
@@ -25747,7 +25316,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9gqxc688",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040602"
@@ -25806,7 +25374,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-g3kh5e24",
             "type": "nmdc:Biosample",
             "samp_name": "CPER_004-M-20140415-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25862,7 +25429,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ce9exv24",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040548"
@@ -25922,7 +25488,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-y4tz4763",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040495"
@@ -25981,7 +25546,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-dgjkvv56",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039948"
@@ -26041,7 +25605,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039956"
@@ -26101,7 +25664,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1c4cpz29",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040102"
@@ -26160,7 +25722,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bh1g8141",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040470"
@@ -26219,7 +25780,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-y02fr793",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040154"
@@ -26279,7 +25839,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-t2gbbk30",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039830"
@@ -26339,7 +25898,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-ybrmen27",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039979"
@@ -26399,7 +25957,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-cbta2g98",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040631"
@@ -26458,7 +26015,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-3exd0682",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040256"
@@ -26517,7 +26073,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-a5mph608",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040438"
@@ -26577,7 +26132,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-m5zez244",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040049"
@@ -26637,7 +26191,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-d1a73m89",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040099"
@@ -26697,7 +26250,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-588aa746",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040607"
@@ -26756,7 +26308,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-bs8qz428",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040390"
@@ -26816,7 +26367,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040076"
@@ -26876,7 +26426,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e5bw4228",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040596"
@@ -26936,7 +26485,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-xt3zaf50",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040571"
@@ -26995,7 +26543,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-b1drfh28",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040320"
@@ -27055,7 +26602,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1n557454",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040431"
@@ -27115,7 +26661,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-q9j4pg81",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040539"
@@ -27175,7 +26720,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-0na47w20",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039982"
@@ -27235,7 +26779,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9xr4sn46",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040692"
@@ -27294,7 +26837,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e0nymn02",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_004-M-20130709-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27350,7 +26892,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-1tz2ye04",
             "type": "nmdc:Biosample",
             "samp_name": "HARV_013-M-20130709-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27406,7 +26947,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-gjws3a21",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039583"
@@ -27466,7 +27006,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-w7jd0c37",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040479"
@@ -27525,7 +27064,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vwfcte61",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040693"
@@ -27585,7 +27123,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mja9pb32",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039992"
@@ -27645,7 +27182,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-eabf9x28",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040689"
@@ -27705,7 +27241,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mx51ss45",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040262"
@@ -27764,7 +27299,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-q9z7m343",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040331"
@@ -27823,7 +27357,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e6xf2q16",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040435"
@@ -27882,7 +27415,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-f44vfz51",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040335"
@@ -27942,7 +27474,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-mcyd9d68",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039639"
@@ -28002,7 +27533,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-454veh08",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040499"
@@ -28062,7 +27592,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-s0525g54",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040071"
@@ -28122,7 +27651,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-aj46cw73",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040298"
@@ -28182,7 +27710,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-y3qk8e03",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040241"
@@ -28242,7 +27769,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-kmpk6102",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040419"
@@ -28302,7 +27828,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-t37x6y64",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040494"
@@ -28362,7 +27887,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-r068k356",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039837"
@@ -28422,7 +27946,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-5e2pvk76",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040608"
@@ -28482,7 +28005,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-9gtvf789",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040659"
@@ -28542,7 +28064,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-arheve10",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040249"
@@ -28602,7 +28123,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-whatq773",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040193"
@@ -28662,7 +28182,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-vh93xq11",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040534"
@@ -28722,7 +28241,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-71bwj563",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040603"
@@ -28782,7 +28300,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-165qhz53",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040339"
@@ -28842,7 +28359,6 @@
                     "name": "grassland soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-yyexrz92",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040228"
@@ -28902,7 +28418,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-h0yadp50",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040396"
@@ -28962,7 +28477,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-qgqxn587",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039937"
@@ -29022,7 +28536,6 @@
                     "name": "forest soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-e97xwf48",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040077"
@@ -29082,7 +28595,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-zhqfwb46",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039668"
@@ -29142,7 +28654,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-wphxk183",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300040412"
@@ -29201,7 +28712,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-pnax7v82",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039863"
@@ -29260,7 +28770,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-4y6tj853",
             "type": "nmdc:Biosample",
             "samp_name": "CPER_001-M-20140715-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -29316,7 +28825,6 @@
                     "name": "soil"
                 }
             },
-            "collected_from": "nmdc:frsite-11-h4kvtf59",
             "type": "nmdc:Biosample",
             "img_identifiers": [
                 "3300039542"
