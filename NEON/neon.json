@@ -30,7 +30,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040497"
+                "img.taxon:3300040497"
             ],
             "samp_name": "ORNL_046-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -89,7 +89,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040487"
+                "img.taxon:3300040487"
             ],
             "samp_name": "SJER_025-M-20170315-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -203,7 +203,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040305"
+                "img.taxon:3300040305"
             ],
             "samp_name": "DSNY_009-M-4-7-20140910-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -261,7 +261,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040315"
+                "img.taxon:3300040315"
             ],
             "samp_name": "DSNY_009-M-20140910-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -319,7 +319,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040575"
+                "img.taxon:3300040575"
             ],
             "samp_name": "DSNY_016-M-35-17-20140327-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -377,7 +377,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040134"
+                "img.taxon:3300040134"
             ],
             "samp_name": "GRSM_060-O-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -436,7 +436,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039825"
+                "img.taxon:3300039825"
             ],
             "samp_name": "HARV_034-O-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -495,7 +495,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040511"
+                "img.taxon:3300040511"
             ],
             "samp_name": "JORN_047-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -554,7 +554,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040186"
+                "img.taxon:3300040186"
             ],
             "samp_name": "MOAB_047-M-20170523-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -613,7 +613,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040536"
+                "img.taxon:3300040536"
             ],
             "samp_name": "STER_004-M-3-10-20130627-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -726,7 +726,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039842"
+                "img.taxon:3300039842"
             ],
             "samp_name": "OAES_043-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -785,7 +785,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040506"
+                "img.taxon:3300040506"
             ],
             "samp_name": "ORNL_027-O-20170624-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -844,7 +844,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039711"
+                "img.taxon:3300039711"
             ],
             "samp_name": "KONZ_024-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -903,7 +903,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040106"
+                "img.taxon:3300040106"
             ],
             "samp_name": "KONZ_043-M-20160714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -962,7 +962,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040485"
+                "img.taxon:3300040485"
             ],
             "samp_name": "LAJA_046-M-20160920-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1021,7 +1021,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040171"
+                "img.taxon:3300040171"
             ],
             "samp_name": "LENO_001-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1080,7 +1080,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040290"
+                "img.taxon:3300040290"
             ],
             "samp_name": "UNDE_006-M-20160725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1139,7 +1139,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040245"
+                "img.taxon:3300040245"
             ],
             "samp_name": "MLBS_001-M-20180611-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1198,7 +1198,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040682"
+                "img.taxon:3300040682"
             ],
             "samp_name": "CPER_046-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1257,7 +1257,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039932"
+                "img.taxon:3300039932"
             ],
             "samp_name": "CPER_002-M-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1316,7 +1316,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040622"
+                "img.taxon:3300040622"
             ],
             "samp_name": "CPER_001-M-25-38-20130701-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -1374,7 +1374,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040542"
+                "img.taxon:3300040542"
             ],
             "samp_name": "CPER_003-M-20130701-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1432,7 +1432,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040587"
+                "img.taxon:3300040587"
             ],
             "samp_name": "GRSM_007-O-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1491,7 +1491,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040646"
+                "img.taxon:3300040646"
             ],
             "samp_name": "GRSM_007-M-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1550,7 +1550,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040684"
+                "img.taxon:3300040684"
             ],
             "samp_name": "STER_006-M-20160815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1719,7 +1719,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040568"
+                "img.taxon:3300040568"
             ],
             "samp_name": "KONA_059-M-20170809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1778,7 +1778,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040310"
+                "img.taxon:3300040310"
             ],
             "samp_name": "TALL_006-M-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1837,7 +1837,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040209"
+                "img.taxon:3300040209"
             ],
             "samp_name": "TALL_004-M-20140708-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1895,7 +1895,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040617"
+                "img.taxon:3300040617"
             ],
             "samp_name": "TALL_006-M-20140707-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -1953,7 +1953,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040079"
+                "img.taxon:3300040079"
             ],
             "samp_name": "CPER_002-M-14-37-20140117-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -2011,7 +2011,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040491"
+                "img.taxon:3300040491"
             ],
             "samp_name": "YELL_012-M-20180709-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2070,7 +2070,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040323"
+                "img.taxon:3300040323"
             ],
             "samp_name": "GRSM_058-O-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2129,7 +2129,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039766"
+                "img.taxon:3300039766"
             ],
             "samp_name": "HARV_035-O-20170801-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2188,7 +2188,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039767"
+                "img.taxon:3300039767"
             ],
             "samp_name": "HARV_037-O-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2247,7 +2247,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040592"
+                "img.taxon:3300040592"
             ],
             "samp_name": "HARV_001-M-20131122-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2305,7 +2305,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040004"
+                "img.taxon:3300040004"
             ],
             "samp_name": "HEAL_001-O-20160804-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2364,7 +2364,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040652"
+                "img.taxon:3300040652"
             ],
             "samp_name": "JERC_049-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2423,7 +2423,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040505"
+                "img.taxon:3300040505"
             ],
             "samp_name": "JERC_050-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2482,7 +2482,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039761"
+                "img.taxon:3300039761"
             ],
             "samp_name": "LENO_003-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2541,7 +2541,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039945"
+                "img.taxon:3300039945"
             ],
             "samp_name": "ORNL_002-M-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2600,7 +2600,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040492"
+                "img.taxon:3300040492"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_008-M-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2659,7 +2659,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040699"
+                "img.taxon:3300040699"
             ],
             "samp_name": "Atlantic, MD, USA - SERC_045-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2718,7 +2718,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040666"
+                "img.taxon:3300040666"
             ],
             "samp_name": "SRER_053-M-20170815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2777,7 +2777,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040269"
+                "img.taxon:3300040269"
             ],
             "samp_name": "STEI_003-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2836,7 +2836,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040644"
+                "img.taxon:3300040644"
             ],
             "samp_name": "STER_003-M-20131217-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2894,7 +2894,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040248"
+                "img.taxon:3300040248"
             ],
             "samp_name": "CLBJ_033-M-20170413-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -2953,7 +2953,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040670"
+                "img.taxon:3300040670"
             ],
             "samp_name": "STER_004-M-20140325-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3011,7 +3011,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040284"
+                "img.taxon:3300040284"
             ],
             "samp_name": "TALL_002-M-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3070,7 +3070,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040466"
+                "img.taxon:3300040466"
             ],
             "samp_name": "CPER_001-M-20130701-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3128,7 +3128,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040563"
+                "img.taxon:3300040563"
             ],
             "samp_name": "TOOL_043-O-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3187,7 +3187,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040408"
+                "img.taxon:3300040408"
             ],
             "samp_name": "SRER_001-M-20170815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3246,7 +3246,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040541"
+                "img.taxon:3300040541"
             ],
             "samp_name": "DSNY_016-M-20170829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3305,7 +3305,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040354"
+                "img.taxon:3300040354"
             ],
             "samp_name": "DSNY_004-O-20170829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3364,7 +3364,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040253"
+                "img.taxon:3300040253"
             ],
             "samp_name": "DSNY_016-M-23-38-20140910-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -3422,7 +3422,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040278"
+                "img.taxon:3300040278"
             ],
             "samp_name": "DSNY_009-M-37-16-20140327-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -3480,7 +3480,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040286"
+                "img.taxon:3300040286"
             ],
             "samp_name": "GUAN_006-M-20161005-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3539,7 +3539,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040647"
+                "img.taxon:3300040647"
             ],
             "samp_name": "MOAB_006-M-20170521-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3598,7 +3598,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040683"
+                "img.taxon:3300040683"
             ],
             "samp_name": "TOOL_006-O-20170721-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3657,7 +3657,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040246"
+                "img.taxon:3300040246"
             ],
             "samp_name": "ONAQ_003-M-20160725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3716,7 +3716,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039919"
+                "img.taxon:3300039919"
             ],
             "samp_name": "UKFS_004-M-20170801-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3775,7 +3775,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040537"
+                "img.taxon:3300040537"
             ],
             "samp_name": "YELL_016-M-20180710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3834,7 +3834,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039921"
+                "img.taxon:3300039921"
             ],
             "samp_name": "KONZ_005-M-20160714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3893,7 +3893,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040326"
+                "img.taxon:3300040326"
             ],
             "samp_name": "LAJA_042-M-20160914-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -3952,7 +3952,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040452"
+                "img.taxon:3300040452"
             ],
             "samp_name": "LENO_063-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4011,7 +4011,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039944"
+                "img.taxon:3300039944"
             ],
             "samp_name": "MLBS_005-M-20180611-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4125,7 +4125,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039972"
+                "img.taxon:3300039972"
             ],
             "samp_name": "ORNL_001-O-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4184,7 +4184,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040414"
+                "img.taxon:3300040414"
             ],
             "samp_name": "ABBY_003-M-20170607-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4243,7 +4243,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040594"
+                "img.taxon:3300040594"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_003-M-20130726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4302,7 +4302,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040425"
+                "img.taxon:3300040425"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_002-M-20130726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4361,7 +4361,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039799"
+                "img.taxon:3300039799"
             ],
             "samp_name": "RMNP_005-O-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4420,7 +4420,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040581"
+                "img.taxon:3300040581"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_005-M-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4479,7 +4479,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040459"
+                "img.taxon:3300040459"
             ],
             "samp_name": "CPER_001-M-20140116-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4537,7 +4537,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040328"
+                "img.taxon:3300040328"
             ],
             "samp_name": "DEJU_015-O-20170620-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4596,7 +4596,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040420"
+                "img.taxon:3300040420"
             ],
             "samp_name": "STEI_059-O-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4655,7 +4655,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040392"
+                "img.taxon:3300040392"
             ],
             "samp_name": "DSNY_009-M-33-14-20140409-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -4768,7 +4768,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039936"
+                "img.taxon:3300039936"
             ],
             "samp_name": "GUAN_049-M-20161004-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4827,7 +4827,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039964"
+                "img.taxon:3300039964"
             ],
             "samp_name": "HARV_001-M-13-7-20131122-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -4885,7 +4885,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040446"
+                "img.taxon:3300040446"
             ],
             "samp_name": "STER_006-M-20140618-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -4943,7 +4943,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040481"
+                "img.taxon:3300040481"
             ],
             "samp_name": "TALL_007-M-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5002,7 +5002,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040401"
+                "img.taxon:3300040401"
             ],
             "samp_name": "HEAL_001-O-20170724-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5061,7 +5061,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040630"
+                "img.taxon:3300040630"
             ],
             "samp_name": "TALL_004-M-20160823-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5120,7 +5120,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039714"
+                "img.taxon:3300039714"
             ],
             "samp_name": "UKFS_001-M-20170802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5179,7 +5179,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039681"
+                "img.taxon:3300039681"
             ],
             "samp_name": "DEJU_009-O-20160818-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5238,7 +5238,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040489"
+                "img.taxon:3300040489"
             ],
             "samp_name": "UKFS_032-M-20170802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5297,7 +5297,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040561"
+                "img.taxon:3300040561"
             ],
             "samp_name": "UKFS_009-M-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5356,7 +5356,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040143"
+                "img.taxon:3300040143"
             ],
             "samp_name": "ONAQ_010-M-20160729-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5415,7 +5415,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040593"
+                "img.taxon:3300040593"
             ],
             "samp_name": "STER_016-M-20130627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5474,7 +5474,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040176"
+                "img.taxon:3300040176"
             ],
             "samp_name": "DEJU_047-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5533,7 +5533,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040257"
+                "img.taxon:3300040257"
             ],
             "samp_name": "WOOD_043-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5592,7 +5592,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040346"
+                "img.taxon:3300040346"
             ],
             "samp_name": "GRSM_016-O-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5651,7 +5651,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040212"
+                "img.taxon:3300040212"
             ],
             "samp_name": "HARV_001-O-30-7-20131122-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -5709,7 +5709,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040244"
+                "img.taxon:3300040244"
             ],
             "samp_name": "HARV_016-O-1-1-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -5767,7 +5767,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040704"
+                "img.taxon:3300040704"
             ],
             "samp_name": "HARV_001-M-20130709-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5825,7 +5825,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040645"
+                "img.taxon:3300040645"
             ],
             "samp_name": "HEAL_010-O-20160802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5884,7 +5884,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039974"
+                "img.taxon:3300039974"
             ],
             "samp_name": "HEAL_048-O-20160725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -5998,7 +5998,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040403"
+                "img.taxon:3300040403"
             ],
             "samp_name": "KONZ_001-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6057,7 +6057,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040713"
+                "img.taxon:3300040713"
             ],
             "samp_name": "LENO_004-M-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6116,7 +6116,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040402"
+                "img.taxon:3300040402"
             ],
             "samp_name": "MOAB_045-M-20170523-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6175,7 +6175,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040149"
+                "img.taxon:3300040149"
             ],
             "samp_name": "NIWO_004-O-20160828-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6234,7 +6234,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039929"
+                "img.taxon:3300039929"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_006-M-5-30-20130726-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -6293,7 +6293,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040697"
+                "img.taxon:3300040697"
             ],
             "samp_name": "Atlantic, MD, USA - SERC_049-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6352,7 +6352,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040125"
+                "img.taxon:3300040125"
             ],
             "samp_name": "BARR_006-O-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6411,7 +6411,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040047"
+                "img.taxon:3300040047"
             ],
             "samp_name": "SJER_047-M-20170315-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6470,7 +6470,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040508"
+                "img.taxon:3300040508"
             ],
             "samp_name": "SOAP_031-M-20180531-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6529,7 +6529,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040454"
+                "img.taxon:3300040454"
             ],
             "samp_name": "SRER_004-M-20170815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6588,7 +6588,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040555"
+                "img.taxon:3300040555"
             ],
             "samp_name": "CLBJ_034-M-20160817-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6647,7 +6647,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040117"
+                "img.taxon:3300040117"
             ],
             "samp_name": "CLBJ_003-M-20170411-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6706,7 +6706,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040540"
+                "img.taxon:3300040540"
             ],
             "samp_name": "STEI_002-M-20160721-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6765,7 +6765,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039786"
+                "img.taxon:3300039786"
             ],
             "samp_name": "STEI_003-M-20170705-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6824,7 +6824,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040308"
+                "img.taxon:3300040308"
             ],
             "samp_name": "STER_016-M-22-2-20130627-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -6883,7 +6883,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039915"
+                "img.taxon:3300039915"
             ],
             "samp_name": "TALL_054-M-20160823-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -6942,7 +6942,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039834"
+                "img.taxon:3300039834"
             ],
             "samp_name": "CPER_005-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7001,7 +7001,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039788"
+                "img.taxon:3300039788"
             ],
             "samp_name": "CPER_002-M-38-5-20130701-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -7059,7 +7059,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040586"
+                "img.taxon:3300040586"
             ],
             "samp_name": "TALL_001-M-20140708-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7117,7 +7117,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040267"
+                "img.taxon:3300040267"
             ],
             "samp_name": "ORNL_049-M-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7176,7 +7176,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040019"
+                "img.taxon:3300040019"
             ],
             "samp_name": "SJER_004-M-20170313-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7235,7 +7235,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039776"
+                "img.taxon:3300039776"
             ],
             "samp_name": "SJER_025-O-20170315-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7294,7 +7294,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040625"
+                "img.taxon:3300040625"
             ],
             "samp_name": "STEI_060-O-20160726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7353,7 +7353,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040619"
+                "img.taxon:3300040619"
             ],
             "samp_name": "CPER_001-M-20-7-20140116-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -7411,7 +7411,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040194"
+                "img.taxon:3300040194"
             ],
             "samp_name": "DSNY_009-M-20130731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7470,7 +7470,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040181"
+                "img.taxon:3300040181"
             ],
             "samp_name": "DSNY_016-M-37-14-20140409-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -7529,7 +7529,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040224"
+                "img.taxon:3300040224"
             ],
             "samp_name": "HARV_002-O-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7643,7 +7643,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040633"
+                "img.taxon:3300040633"
             ],
             "samp_name": "TALL_047-M-20170614-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7702,7 +7702,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040554"
+                "img.taxon:3300040554"
             ],
             "samp_name": "ORNL_021-M-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7761,7 +7761,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039990"
+                "img.taxon:3300039990"
             ],
             "samp_name": "LENO_062-M-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7820,7 +7820,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040509"
+                "img.taxon:3300040509"
             ],
             "samp_name": "WOOD_001-M-20140702-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7878,7 +7878,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040679"
+                "img.taxon:3300040679"
             ],
             "samp_name": "YELL_046-M-20180712-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7937,7 +7937,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040265"
+                "img.taxon:3300040265"
             ],
             "samp_name": "MOAB_046-M-20170523-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -7996,7 +7996,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039775"
+                "img.taxon:3300039775"
             ],
             "samp_name": "MOAB_001-M-20170521-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8055,7 +8055,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040662"
+                "img.taxon:3300040662"
             ],
             "samp_name": "OAES_002-M-20160810-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8114,7 +8114,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040371"
+                "img.taxon:3300040371"
             ],
             "samp_name": "OAES_004-M-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8173,7 +8173,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039717"
+                "img.taxon:3300039717"
             ],
             "samp_name": "ORNL_003-M-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8232,7 +8232,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039773"
+                "img.taxon:3300039773"
             ],
             "samp_name": "ORNL_003-O-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8291,7 +8291,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040045"
+                "img.taxon:3300040045"
             ],
             "samp_name": "ORNL_029-M-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8350,7 +8350,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040496"
+                "img.taxon:3300040496"
             ],
             "samp_name": "ABBY_023-M-20170607-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8409,7 +8409,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040294"
+                "img.taxon:3300040294"
             ],
             "samp_name": "ABBY_001-M-20170607-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8468,7 +8468,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040538"
+                "img.taxon:3300040538"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_007-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8527,7 +8527,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040422"
+                "img.taxon:3300040422"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_031-M-20170714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8586,7 +8586,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040366"
+                "img.taxon:3300040366"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_004-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8645,7 +8645,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040632"
+                "img.taxon:3300040632"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_032-M-20170714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8704,7 +8704,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040668"
+                "img.taxon:3300040668"
             ],
             "samp_name": "RMNP_045-O-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8763,7 +8763,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040636"
+                "img.taxon:3300040636"
             ],
             "samp_name": "YELL_052-M-20180711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8822,7 +8822,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039869"
+                "img.taxon:3300039869"
             ],
             "samp_name": "SJER_001-M-20170314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8881,7 +8881,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040690"
+                "img.taxon:3300040690"
             ],
             "samp_name": "STEI_053-M-20160721-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8940,7 +8940,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039851"
+                "img.taxon:3300039851"
             ],
             "samp_name": "STEI_059-M-20170706-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -8999,7 +8999,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040455"
+                "img.taxon:3300040455"
             ],
             "samp_name": "HARV_004-M-34-37-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -9057,7 +9057,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040394"
+                "img.taxon:3300040394"
             ],
             "samp_name": "HEAL_045-O-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9116,7 +9116,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040655"
+                "img.taxon:3300040655"
             ],
             "samp_name": "STER_006-M-20140325-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9174,7 +9174,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040300"
+                "img.taxon:3300040300"
             ],
             "samp_name": "TALL_003-M-20160823-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9233,7 +9233,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039585"
+                "img.taxon:3300039585"
             ],
             "samp_name": "HEAL_045-O-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9292,7 +9292,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039843"
+                "img.taxon:3300039843"
             ],
             "samp_name": "KONZ_003-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9351,7 +9351,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040543"
+                "img.taxon:3300040543"
             ],
             "samp_name": "TALL_001-O-20140708-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9409,7 +9409,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040205"
+                "img.taxon:3300040205"
             ],
             "samp_name": "UKFS_002-M-20170801-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9468,7 +9468,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039855"
+                "img.taxon:3300039855"
             ],
             "samp_name": "CPER_002-M-20130701-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9526,7 +9526,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040609"
+                "img.taxon:3300040609"
             ],
             "samp_name": "DEJU_015-O-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9585,7 +9585,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040404"
+                "img.taxon:3300040404"
             ],
             "samp_name": "UNDE_037-O-20160810-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9644,7 +9644,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040238"
+                "img.taxon:3300040238"
             ],
             "samp_name": "WOOD_045-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9703,7 +9703,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040200"
+                "img.taxon:3300040200"
             ],
             "samp_name": "UNDE_027-M-20160803-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9762,7 +9762,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040007"
+                "img.taxon:3300040007"
             ],
             "samp_name": "GRSM_059-O-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9821,7 +9821,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039608"
+                "img.taxon:3300039608"
             ],
             "samp_name": "GRSM_003-O-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9935,7 +9935,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039949"
+                "img.taxon:3300039949"
             ],
             "samp_name": "HEAL_046-O-20160726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -9994,7 +9994,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040698"
+                "img.taxon:3300040698"
             ],
             "samp_name": "JERC_002-M-20140910-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10052,7 +10052,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040696"
+                "img.taxon:3300040696"
             ],
             "samp_name": "JORN_045-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10111,7 +10111,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039874"
+                "img.taxon:3300039874"
             ],
             "samp_name": "LAJA_003-M-20160913-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10170,7 +10170,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040285"
+                "img.taxon:3300040285"
             ],
             "samp_name": "LENO_064-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10229,7 +10229,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040115"
+                "img.taxon:3300040115"
             ],
             "samp_name": "NIWO_002-O-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10288,7 +10288,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040664"
+                "img.taxon:3300040664"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_012-M-20140915-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10346,7 +10346,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039719"
+                "img.taxon:3300039719"
             ],
             "samp_name": "SJER_001-O-20170314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10405,7 +10405,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039636"
+                "img.taxon:3300039636"
             ],
             "samp_name": "BARR_002-O-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10464,7 +10464,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039998"
+                "img.taxon:3300039998"
             ],
             "samp_name": "BARR_051-O-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10523,7 +10523,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040519"
+                "img.taxon:3300040519"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_005-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10582,7 +10582,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040172"
+                "img.taxon:3300040172"
             ],
             "samp_name": "SOAP_005-M-20180529-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10641,7 +10641,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040433"
+                "img.taxon:3300040433"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_038-M-20170714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10700,7 +10700,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040056"
+                "img.taxon:3300040056"
             ],
             "samp_name": "CLBJ_001-M-20170412-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10759,7 +10759,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040521"
+                "img.taxon:3300040521"
             ],
             "samp_name": "STEI_004-M-20160721-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10818,7 +10818,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040456"
+                "img.taxon:3300040456"
             ],
             "samp_name": "CLBJ_006-M-20170412-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10877,7 +10877,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039805"
+                "img.taxon:3300039805"
             ],
             "samp_name": "CPER_047-M-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10936,7 +10936,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040421"
+                "img.taxon:3300040421"
             ],
             "samp_name": "CPER_003-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -10995,7 +10995,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040424"
+                "img.taxon:3300040424"
             ],
             "samp_name": "STER_003-M-20140325-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11053,7 +11053,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040627"
+                "img.taxon:3300040627"
             ],
             "samp_name": "TALL_003-M-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11112,7 +11112,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040500"
+                "img.taxon:3300040500"
             ],
             "samp_name": "TALL_051-M-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11171,7 +11171,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040544"
+                "img.taxon:3300040544"
             ],
             "samp_name": "TALL_004-M-24-15-20140708-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -11229,7 +11229,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039939"
+                "img.taxon:3300039939"
             ],
             "samp_name": "CPER_003-M-20140116-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11342,7 +11342,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039970"
+                "img.taxon:3300039970"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_022-O-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11401,7 +11401,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040464"
+                "img.taxon:3300040464"
             ],
             "samp_name": "Atlantic, MD, USA - SERC_047-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11460,7 +11460,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040430"
+                "img.taxon:3300040430"
             ],
             "samp_name": "DSNY_009-M-20170829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11519,7 +11519,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040108"
+                "img.taxon:3300040108"
             ],
             "samp_name": "DSNY_003-M-20170829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11578,7 +11578,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040486"
+                "img.taxon:3300040486"
             ],
             "samp_name": "GRSM_006-O-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11637,7 +11637,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040426"
+                "img.taxon:3300040426"
             ],
             "samp_name": "STER_016-M-20170606-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11696,7 +11696,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039889"
+                "img.taxon:3300039889"
             ],
             "samp_name": "OAES_045-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11755,7 +11755,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040027"
+                "img.taxon:3300040027"
             ],
             "samp_name": "KONZ_003-M-20160714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11814,7 +11814,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040307"
+                "img.taxon:3300040307"
             ],
             "samp_name": "WOOD_002-M-20140925-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11872,7 +11872,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040590"
+                "img.taxon:3300040590"
             ],
             "samp_name": "MOAB_044-M-20170523-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11931,7 +11931,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040280"
+                "img.taxon:3300040280"
             ],
             "samp_name": "MOAB_003-M-20170522-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -11990,7 +11990,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039832"
+                "img.taxon:3300039832"
             ],
             "samp_name": "OAES_042-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12049,7 +12049,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040377"
+                "img.taxon:3300040377"
             ],
             "samp_name": "ORNL_049-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12108,7 +12108,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040429"
+                "img.taxon:3300040429"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_001-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12167,7 +12167,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040483"
+                "img.taxon:3300040483"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_003-M-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12226,7 +12226,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040514"
+                "img.taxon:3300040514"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_004-M-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12340,7 +12340,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040583"
+                "img.taxon:3300040583"
             ],
             "samp_name": "CPER_003-M-3-10-20130701-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -12398,7 +12398,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039900"
+                "img.taxon:3300039900"
             ],
             "samp_name": "SJER_005-M-20170315-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12457,7 +12457,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040142"
+                "img.taxon:3300040142"
             ],
             "samp_name": "STEI_001-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12516,7 +12516,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039844"
+                "img.taxon:3300039844"
             ],
             "samp_name": "STEI_060-O-20170706-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12575,7 +12575,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040620"
+                "img.taxon:3300040620"
             ],
             "samp_name": "STER_005-M-20140618-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12633,7 +12633,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040309"
+                "img.taxon:3300040309"
             ],
             "samp_name": "KONZ_024-M-20160711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12692,7 +12692,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040302"
+                "img.taxon:3300040302"
             ],
             "samp_name": "KONZ_002-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12806,7 +12806,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040484"
+                "img.taxon:3300040484"
             ],
             "samp_name": "UKFS_005-M-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12865,7 +12865,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040085"
+                "img.taxon:3300040085"
             ],
             "samp_name": "UKFS_043-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12924,7 +12924,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039988"
+                "img.taxon:3300039988"
             ],
             "samp_name": "UKFS_004-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -12983,7 +12983,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040409"
+                "img.taxon:3300040409"
             ],
             "samp_name": "DEJU_047-O-20160816-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13042,7 +13042,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039807"
+                "img.taxon:3300039807"
             ],
             "samp_name": "DEJU_006-O-20170620-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13101,7 +13101,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040216"
+                "img.taxon:3300040216"
             ],
             "samp_name": "DSNY_016-M-20140327-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13159,7 +13159,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039743"
+                "img.taxon:3300039743"
             ],
             "samp_name": "GRSM_002-O-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13218,7 +13218,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040231"
+                "img.taxon:3300040231"
             ],
             "samp_name": "GUAN_042-M-20161004-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13277,7 +13277,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040112"
+                "img.taxon:3300040112"
             ],
             "samp_name": "GUAN_043-M-20161005-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13336,7 +13336,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040103"
+                "img.taxon:3300040103"
             ],
             "samp_name": "HARV_004-O-20160803-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13395,7 +13395,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040236"
+                "img.taxon:3300040236"
             ],
             "samp_name": "HARV_013-O-31-27-20131122-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -13453,7 +13453,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040706"
+                "img.taxon:3300040706"
             ],
             "samp_name": "HEAL_025-O-20160803-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13512,7 +13512,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040101"
+                "img.taxon:3300040101"
             ],
             "samp_name": "JERC_002-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13571,7 +13571,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040158"
+                "img.taxon:3300040158"
             ],
             "samp_name": "NIWO_001-O-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13630,7 +13630,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040516"
+                "img.taxon:3300040516"
             ],
             "samp_name": "OAES_043-M-20160808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13689,7 +13689,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040311"
+                "img.taxon:3300040311"
             ],
             "samp_name": "SJER_002-M-20170314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13748,7 +13748,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040150"
+                "img.taxon:3300040150"
             ],
             "samp_name": "ABBY_004-M-20170605-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13807,7 +13807,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040157"
+                "img.taxon:3300040157"
             ],
             "samp_name": "ABBY_006-M-20170605-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13866,7 +13866,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040023"
+                "img.taxon:3300040023"
             ],
             "samp_name": "ABBY_062-M-20170606-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13925,7 +13925,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040531"
+                "img.taxon:3300040531"
             ],
             "samp_name": "BARR_054-O-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -13984,7 +13984,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040451"
+                "img.taxon:3300040451"
             ],
             "samp_name": "SOAP_004-M-20180530-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14043,7 +14043,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040694"
+                "img.taxon:3300040694"
             ],
             "samp_name": "CLBJ_032-M-20160817-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14102,7 +14102,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040553"
+                "img.taxon:3300040553"
             ],
             "samp_name": "CLBJ_002-M-20170411-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14161,7 +14161,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040665"
+                "img.taxon:3300040665"
             ],
             "samp_name": "STER_005-M-20160816-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14220,7 +14220,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040006"
+                "img.taxon:3300040006"
             ],
             "samp_name": "CLBJ_034-M-20170413-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14279,7 +14279,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040185"
+                "img.taxon:3300040185"
             ],
             "samp_name": "TALL_007-M-20160823-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14338,7 +14338,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040671"
+                "img.taxon:3300040671"
             ],
             "samp_name": "DELA_001-M-20160825-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14397,7 +14397,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040570"
+                "img.taxon:3300040570"
             ],
             "samp_name": "DSNY_016-M-20130731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14456,7 +14456,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039895"
+                "img.taxon:3300039895"
             ],
             "samp_name": "GRSM_060-O-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14515,7 +14515,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039885"
+                "img.taxon:3300039885"
             ],
             "samp_name": "HARV_033-O-20170801-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14574,7 +14574,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040591"
+                "img.taxon:3300040591"
             ],
             "samp_name": "JERC_047-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14633,7 +14633,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039892"
+                "img.taxon:3300039892"
             ],
             "samp_name": "MOAB_005-M-20170522-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14692,7 +14692,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040223"
+                "img.taxon:3300040223"
             ],
             "samp_name": "OAES_001-M-20170626-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14751,7 +14751,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039861"
+                "img.taxon:3300039861"
             ],
             "samp_name": "OAES_002-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14810,7 +14810,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039708"
+                "img.taxon:3300039708"
             ],
             "samp_name": "OAES_044-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14869,7 +14869,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040407"
+                "img.taxon:3300040407"
             ],
             "samp_name": "ONAQ_017-M-20160728-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14928,7 +14928,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040413"
+                "img.taxon:3300040413"
             ],
             "samp_name": "ONAQ_004-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -14987,7 +14987,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040512"
+                "img.taxon:3300040512"
             ],
             "samp_name": "ONAQ_005-M-20160726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15046,7 +15046,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040281"
+                "img.taxon:3300040281"
             ],
             "samp_name": "WOOD_044-O-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15105,7 +15105,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040658"
+                "img.taxon:3300040658"
             ],
             "samp_name": "WOOD_003-M-20140925-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15163,7 +15163,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040529"
+                "img.taxon:3300040529"
             ],
             "samp_name": "WOOD_003-M-20140702-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15221,7 +15221,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040654"
+                "img.taxon:3300040654"
             ],
             "samp_name": "YELL_051-M-20180711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15280,7 +15280,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040026"
+                "img.taxon:3300040026"
             ],
             "samp_name": "UNDE_038-O-20160810-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15339,7 +15339,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040173"
+                "img.taxon:3300040173"
             ],
             "samp_name": "UNDE_001-M-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15398,7 +15398,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040635"
+                "img.taxon:3300040635"
             ],
             "samp_name": "NIWO_042-M-20160828-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15457,7 +15457,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039891"
+                "img.taxon:3300039891"
             ],
             "samp_name": "OAES_004-M-20170626-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15516,7 +15516,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040626"
+                "img.taxon:3300040626"
             ],
             "samp_name": "ONAQ_002-M-20170625-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15575,7 +15575,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040527"
+                "img.taxon:3300040527"
             ],
             "samp_name": "ORNL_053-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15634,7 +15634,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040417"
+                "img.taxon:3300040417"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_031-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15693,7 +15693,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040476"
+                "img.taxon:3300040476"
             ],
             "samp_name": "ABBY_002-O-20170605-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15752,7 +15752,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040391"
+                "img.taxon:3300040391"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_027-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15811,7 +15811,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040011"
+                "img.taxon:3300040011"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_022-M-20140917-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15869,7 +15869,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039978"
+                "img.taxon:3300039978"
             ],
             "samp_name": "BARR_004-O-20170809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15928,7 +15928,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040072"
+                "img.taxon:3300040072"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_033-M-20170714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -15987,7 +15987,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040535"
+                "img.taxon:3300040535"
             ],
             "samp_name": "CPER_001-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16046,7 +16046,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040270"
+                "img.taxon:3300040270"
             ],
             "samp_name": "RMNP_013-O-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16105,7 +16105,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040685"
+                "img.taxon:3300040685"
             ],
             "samp_name": "DEJU_046-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16164,7 +16164,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039593"
+                "img.taxon:3300039593"
             ],
             "samp_name": "STEI_060-M-20170706-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16223,7 +16223,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039707"
+                "img.taxon:3300039707"
             ],
             "samp_name": "DSNY_016-M-20131114-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16282,7 +16282,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039784"
+                "img.taxon:3300039784"
             ],
             "samp_name": "DSNY_009-M-20140327-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16340,7 +16340,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040234"
+                "img.taxon:3300040234"
             ],
             "samp_name": "GRSM_055-O-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16399,7 +16399,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040189"
+                "img.taxon:3300040189"
             ],
             "samp_name": "GUAN_048-M-20161004-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16513,7 +16513,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040599"
+                "img.taxon:3300040599"
             ],
             "samp_name": "HEAL_047-O-20160726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16572,7 +16572,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039910"
+                "img.taxon:3300039910"
             ],
             "samp_name": "TALL_001-M-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16631,7 +16631,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040362"
+                "img.taxon:3300040362"
             ],
             "samp_name": "KONZ_043-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16690,7 +16690,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040691"
+                "img.taxon:3300040691"
             ],
             "samp_name": "CPER_001-M-20131024-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16803,7 +16803,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040287"
+                "img.taxon:3300040287"
             ],
             "samp_name": "CPER_046-M-31-3-20140716-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -16862,7 +16862,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040338"
+                "img.taxon:3300040338"
             ],
             "samp_name": "UKFS_044-M-20170802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16921,7 +16921,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040502"
+                "img.taxon:3300040502"
             ],
             "samp_name": "UKFS_005-M-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -16980,7 +16980,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040255"
+                "img.taxon:3300040255"
             ],
             "samp_name": "UKFS_001-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17039,7 +17039,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040398"
+                "img.taxon:3300040398"
             ],
             "samp_name": "UNDE_034-O-20160811-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17098,7 +17098,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040528"
+                "img.taxon:3300040528"
             ],
             "samp_name": "WOOD_002-M-20140507-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17156,7 +17156,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039914"
+                "img.taxon:3300039914"
             ],
             "samp_name": "UNDE_035-M-20160803-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17215,7 +17215,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040002"
+                "img.taxon:3300040002"
             ],
             "samp_name": "GRSM_058-O-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17274,7 +17274,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040467"
+                "img.taxon:3300040467"
             ],
             "samp_name": "GRSM_001-O-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17388,7 +17388,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039831"
+                "img.taxon:3300039831"
             ],
             "samp_name": "HEAL_011-O-20170726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17502,7 +17502,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040611"
+                "img.taxon:3300040611"
             ],
             "samp_name": "JORN_006-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17561,7 +17561,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039535"
+                "img.taxon:3300039535"
             ],
             "samp_name": "LENO_006-M-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17620,7 +17620,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040042"
+                "img.taxon:3300040042"
             ],
             "samp_name": "SJER_048-M-20170314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17679,7 +17679,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040638"
+                "img.taxon:3300040638"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_002-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17738,7 +17738,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040680"
+                "img.taxon:3300040680"
             ],
             "samp_name": "CLBJ_038-O-20160817-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17797,7 +17797,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040340"
+                "img.taxon:3300040340"
             ],
             "samp_name": "STEI_003-O-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17911,7 +17911,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040423"
+                "img.taxon:3300040423"
             ],
             "samp_name": "CPER_006-M-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -17970,7 +17970,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040053"
+                "img.taxon:3300040053"
             ],
             "samp_name": "TALL_001-O-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18029,7 +18029,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040628"
+                "img.taxon:3300040628"
             ],
             "samp_name": "CPER_004-M-20140715-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18087,7 +18087,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039908"
+                "img.taxon:3300039908"
             ],
             "samp_name": "CPER_002-M-38-8-20131024-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -18145,7 +18145,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040482"
+                "img.taxon:3300040482"
             ],
             "samp_name": "STEI_060-M-20160726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18204,7 +18204,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039995"
+                "img.taxon:3300039995"
             ],
             "samp_name": "CPER_002-M-20140117-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18262,7 +18262,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040616"
+                "img.taxon:3300040616"
             ],
             "samp_name": "GRSM_007-O-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18321,7 +18321,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039898"
+                "img.taxon:3300039898"
             ],
             "samp_name": "HARV_004-O-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18380,7 +18380,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040551"
+                "img.taxon:3300040551"
             ],
             "samp_name": "ORNL_027-M-20170624-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18439,7 +18439,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040382"
+                "img.taxon:3300040382"
             ],
             "samp_name": "UNDE_007-M-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18498,7 +18498,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040490"
+                "img.taxon:3300040490"
             ],
             "samp_name": "UNDE_043-M-20160815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18557,7 +18557,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040565"
+                "img.taxon:3300040565"
             ],
             "samp_name": "WOOD_001-M-20140925-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18615,7 +18615,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040657"
+                "img.taxon:3300040657"
             ],
             "samp_name": "MOAB_002-M-20170522-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18674,7 +18674,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039744"
+                "img.taxon:3300039744"
             ],
             "samp_name": "OAES_003-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18733,7 +18733,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040559"
+                "img.taxon:3300040559"
             ],
             "samp_name": "ONAQ_044-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18792,7 +18792,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040649"
+                "img.taxon:3300040649"
             ],
             "samp_name": "ORNL_043-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18851,7 +18851,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040144"
+                "img.taxon:3300040144"
             ],
             "samp_name": "ORNL_021-O-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18910,7 +18910,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040588"
+                "img.taxon:3300040588"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_026-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -18969,7 +18969,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040266"
+                "img.taxon:3300040266"
             ],
             "samp_name": "BARR_005-O-20170809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19028,7 +19028,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040518"
+                "img.taxon:3300040518"
             ],
             "samp_name": "RMNP_019-M-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19087,7 +19087,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040701"
+                "img.taxon:3300040701"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_003-M-20140915-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19145,7 +19145,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040357"
+                "img.taxon:3300040357"
             ],
             "samp_name": "DEJU_002-O-20170620-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19204,7 +19204,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040113"
+                "img.taxon:3300040113"
             ],
             "samp_name": "DELA_037-M-20160824-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19263,7 +19263,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039778"
+                "img.taxon:3300039778"
             ],
             "samp_name": "GRSM_016-O-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19322,7 +19322,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039965"
+                "img.taxon:3300039965"
             ],
             "samp_name": "DEJU_002-O-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19381,7 +19381,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040229"
+                "img.taxon:3300040229"
             ],
             "samp_name": "UKFS_002-M-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19440,7 +19440,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040192"
+                "img.taxon:3300040192"
             ],
             "samp_name": "ONAQ_042-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19499,7 +19499,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040240"
+                "img.taxon:3300040240"
             ],
             "samp_name": "ONAQ_043-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19558,7 +19558,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040576"
+                "img.taxon:3300040576"
             ],
             "samp_name": "STER_026-M-20170605-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19617,7 +19617,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040168"
+                "img.taxon:3300040168"
             ],
             "samp_name": "TREE_001-O-20170707-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19676,7 +19676,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040264"
+                "img.taxon:3300040264"
             ],
             "samp_name": "UNDE_044-O-20160815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19735,7 +19735,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040161"
+                "img.taxon:3300040161"
             ],
             "samp_name": "UNDE_034-M-20160811-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19794,7 +19794,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039973"
+                "img.taxon:3300039973"
             ],
             "samp_name": "DEJU_014-O-20170620-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19853,7 +19853,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039584"
+                "img.taxon:3300039584"
             ],
             "samp_name": "DEJU_048-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19912,7 +19912,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040312"
+                "img.taxon:3300040312"
             ],
             "samp_name": "DELA_014-M-20160824-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -19971,7 +19971,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040038"
+                "img.taxon:3300040038"
             ],
             "samp_name": "DSNY_009-M-9-26-20130731-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -20030,7 +20030,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040667"
+                "img.taxon:3300040667"
             ],
             "samp_name": "JERC_005-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20089,7 +20089,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040317"
+                "img.taxon:3300040317"
             ],
             "samp_name": "JORN_004-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20148,7 +20148,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040345"
+                "img.taxon:3300040345"
             ],
             "samp_name": "JORN_005-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20207,7 +20207,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039996"
+                "img.taxon:3300039996"
             ],
             "samp_name": "KONZ_045-M-20160714-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20266,7 +20266,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039600"
+                "img.taxon:3300039600"
             ],
             "samp_name": "MOAB_001-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20325,7 +20325,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039712"
+                "img.taxon:3300039712"
             ],
             "samp_name": "NIWO_006-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20384,7 +20384,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040291"
+                "img.taxon:3300040291"
             ],
             "samp_name": "OAES_001-M-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20443,7 +20443,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040321"
+                "img.taxon:3300040321"
             ],
             "samp_name": "ONAQ_005-M-20170626-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20502,7 +20502,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039811"
+                "img.taxon:3300039811"
             ],
             "samp_name": "ORNL_001-M-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20561,7 +20561,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040580"
+                "img.taxon:3300040580"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_004-M-20131112-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20620,7 +20620,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040274"
+                "img.taxon:3300040274"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_004-M-20140314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20679,7 +20679,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040350"
+                "img.taxon:3300040350"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_006-M-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20738,7 +20738,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040507"
+                "img.taxon:3300040507"
             ],
             "samp_name": "Atlantic, MD, USA - SERC_001-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20797,7 +20797,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040618"
+                "img.taxon:3300040618"
             ],
             "samp_name": "ABBY_006-O-20170605-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20856,7 +20856,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039694"
+                "img.taxon:3300039694"
             ],
             "samp_name": "SJER_046-M-20170316-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20915,7 +20915,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040304"
+                "img.taxon:3300040304"
             ],
             "samp_name": "STEI_005-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -20974,7 +20974,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039815"
+                "img.taxon:3300039815"
             ],
             "samp_name": "TALL_051-O-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21033,7 +21033,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040702"
+                "img.taxon:3300040702"
             ],
             "samp_name": "TALL_001-M-20140516-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21091,7 +21091,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040277"
+                "img.taxon:3300040277"
             ],
             "samp_name": "TOOL_043-M-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21150,7 +21150,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040688"
+                "img.taxon:3300040688"
             ],
             "samp_name": "ABBY_070-M-20170606-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21209,7 +21209,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040254"
+                "img.taxon:3300040254"
             ],
             "samp_name": "ORNL_029-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21268,7 +21268,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039999"
+                "img.taxon:3300039999"
             ],
             "samp_name": "SJER_003-M-20170316-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21327,7 +21327,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040595"
+                "img.taxon:3300040595"
             ],
             "samp_name": "SRER_052-M-20170815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21386,7 +21386,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040705"
+                "img.taxon:3300040705"
             ],
             "samp_name": "DSNY_021-M-20140327-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21444,7 +21444,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039931"
+                "img.taxon:3300039931"
             ],
             "samp_name": "GRSM_002-O-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21503,7 +21503,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039680"
+                "img.taxon:3300039680"
             ],
             "samp_name": "GUAN_004-M-20160927-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21562,7 +21562,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040439"
+                "img.taxon:3300040439"
             ],
             "samp_name": "HEAL_010-O-20170724-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21621,7 +21621,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040549"
+                "img.taxon:3300040549"
             ],
             "samp_name": "JERC_006-M-20170724-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21680,7 +21680,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040130"
+                "img.taxon:3300040130"
             ],
             "samp_name": "STER_003-M-20130627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21738,7 +21738,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040715"
+                "img.taxon:3300040715"
             ],
             "samp_name": "TALL_051-M-20170614-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21797,7 +21797,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040364"
+                "img.taxon:3300040364"
             ],
             "samp_name": "OAES_007-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21856,7 +21856,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040381"
+                "img.taxon:3300040381"
             ],
             "samp_name": "UNDE_013-M-20160728-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21915,7 +21915,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040686"
+                "img.taxon:3300040686"
             ],
             "samp_name": "WOOD_001-M-20140507-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -21973,7 +21973,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040227"
+                "img.taxon:3300040227"
             ],
             "samp_name": "UKFS_044-M-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22032,7 +22032,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040368"
+                "img.taxon:3300040368"
             ],
             "samp_name": "UNDE_035-O-20160803-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22091,7 +22091,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040043"
+                "img.taxon:3300040043"
             ],
             "samp_name": "MOAB_004-M-20170521-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22150,7 +22150,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040347"
+                "img.taxon:3300040347"
             ],
             "samp_name": "NIWO_040-O-20160828-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22209,7 +22209,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040183"
+                "img.taxon:3300040183"
             ],
             "samp_name": "ONAQ_010-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22268,7 +22268,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040218"
+                "img.taxon:3300040218"
             ],
             "samp_name": "ONAQ_041-M-20170628-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22327,7 +22327,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039561"
+                "img.taxon:3300039561"
             ],
             "samp_name": "ORNL_002-O-20170619-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22386,7 +22386,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040351"
+                "img.taxon:3300040351"
             ],
             "samp_name": "ORNL_046-M-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22445,7 +22445,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040579"
+                "img.taxon:3300040579"
             ],
             "samp_name": "BARR_003-O-20170807-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22504,7 +22504,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040569"
+                "img.taxon:3300040569"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_002-M-20131112-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22563,7 +22563,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040440"
+                "img.taxon:3300040440"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_002-M-30-7-20131112-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -22622,7 +22622,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040416"
+                "img.taxon:3300040416"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_004-M-20130726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22681,7 +22681,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040525"
+                "img.taxon:3300040525"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_049-M-20170719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22740,7 +22740,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040522"
+                "img.taxon:3300040522"
             ],
             "samp_name": "CPER_003-M-35-15-20140415-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -22798,7 +22798,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040584"
+                "img.taxon:3300040584"
             ],
             "samp_name": "DEJU_006-O-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22857,7 +22857,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039850"
+                "img.taxon:3300039850"
             ],
             "samp_name": "STEI_004-M-20170705-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22916,7 +22916,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040434"
+                "img.taxon:3300040434"
             ],
             "samp_name": "DSNY_025-M-20140327-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -22974,7 +22974,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040640"
+                "img.taxon:3300040640"
             ],
             "samp_name": "GRSM_001-O-20170717-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23033,7 +23033,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039828"
+                "img.taxon:3300039828"
             ],
             "samp_name": "STER_005-M-5-35-20130627-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -23091,7 +23091,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040566"
+                "img.taxon:3300040566"
             ],
             "samp_name": "HARV_004-O-31-8-20131122-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -23204,7 +23204,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040104"
+                "img.taxon:3300040104"
             ],
             "samp_name": "HARV_001-M-25-38-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -23262,7 +23262,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040562"
+                "img.taxon:3300040562"
             ],
             "samp_name": "STER_026-M-20140618-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23320,7 +23320,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039557"
+                "img.taxon:3300039557"
             ],
             "samp_name": "TALL_007-O-20170612-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23379,7 +23379,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040093"
+                "img.taxon:3300040093"
             ],
             "samp_name": "HEAL_004-O-20170726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23438,7 +23438,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040642"
+                "img.taxon:3300040642"
             ],
             "samp_name": "TALL_047-M-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23497,7 +23497,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040124"
+                "img.taxon:3300040124"
             ],
             "samp_name": "UKFS_032-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23556,7 +23556,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040237"
+                "img.taxon:3300040237"
             ],
             "samp_name": "CPER_004-M-10-5-20140116-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -23615,7 +23615,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040187"
+                "img.taxon:3300040187"
             ],
             "samp_name": "DEJU_014-O-20160818-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23674,7 +23674,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040095"
+                "img.taxon:3300040095"
             ],
             "samp_name": "UKFS_003-M-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23733,7 +23733,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040013"
+                "img.taxon:3300040013"
             ],
             "samp_name": "UKFS_031-M-20160718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23792,7 +23792,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040163"
+                "img.taxon:3300040163"
             ],
             "samp_name": "UNDE_001-O-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23851,7 +23851,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039779"
+                "img.taxon:3300039779"
             ],
             "samp_name": "ONAQ_012-M-20160728-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23910,7 +23910,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040084"
+                "img.taxon:3300040084"
             ],
             "samp_name": "STER_005-M-20140325-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -23968,7 +23968,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040387"
+                "img.taxon:3300040387"
             ],
             "samp_name": "WOOD_044-M-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24027,7 +24027,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039796"
+                "img.taxon:3300039796"
             ],
             "samp_name": "DEJU_009-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24086,7 +24086,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040437"
+                "img.taxon:3300040437"
             ],
             "samp_name": "HARV_001-O-22-2-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -24144,7 +24144,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040545"
+                "img.taxon:3300040545"
             ],
             "samp_name": "JERC_001-M-20170725-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24203,7 +24203,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040589"
+                "img.taxon:3300040589"
             ],
             "samp_name": "JERC_003-M-20170726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24262,7 +24262,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040314"
+                "img.taxon:3300040314"
             ],
             "samp_name": "JORN_002-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24321,7 +24321,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040198"
+                "img.taxon:3300040198"
             ],
             "samp_name": "KONZ_002-M-20160712-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24380,7 +24380,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040637"
+                "img.taxon:3300040637"
             ],
             "samp_name": "MOAB_003-M-20160727-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24439,7 +24439,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040695"
+                "img.taxon:3300040695"
             ],
             "samp_name": "OAES_044-M-20160808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24498,7 +24498,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040532"
+                "img.taxon:3300040532"
             ],
             "samp_name": "OAES_003-M-3-36-20160809-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -24557,7 +24557,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040383"
+                "img.taxon:3300040383"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_001-M-20140917-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24670,7 +24670,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039840"
+                "img.taxon:3300039840"
             ],
             "samp_name": "ABBY_061-M-20170606-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24729,7 +24729,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040488"
+                "img.taxon:3300040488"
             ],
             "samp_name": "BARR_053-O-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24788,7 +24788,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040428"
+                "img.taxon:3300040428"
             ],
             "samp_name": "SOAP_043-M-20180531-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24847,7 +24847,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040643"
+                "img.taxon:3300040643"
             ],
             "samp_name": "Atlantic, VA, USA - BLAN_003-M-20170713-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24906,7 +24906,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040324"
+                "img.taxon:3300040324"
             ],
             "samp_name": "CLBJ_038-O-20170413-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -24965,7 +24965,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040349"
+                "img.taxon:3300040349"
             ],
             "samp_name": "CLBJ_040-M-20170413-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25024,7 +25024,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040196"
+                "img.taxon:3300040196"
             ],
             "samp_name": "STEI_001-M-20170705-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25083,7 +25083,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040501"
+                "img.taxon:3300040501"
             ],
             "samp_name": "CLBJ_031-M-20170412-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25142,7 +25142,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040397"
+                "img.taxon:3300040397"
             ],
             "samp_name": "CPER_004-M-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25201,7 +25201,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040316"
+                "img.taxon:3300040316"
             ],
             "samp_name": "CPER_048-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25260,7 +25260,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040612"
+                "img.taxon:3300040612"
             ],
             "samp_name": "TALL_006-O-20140707-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25318,7 +25318,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040602"
+                "img.taxon:3300040602"
             ],
             "samp_name": "CPER_004-M-20130701-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25431,7 +25431,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040548"
+                "img.taxon:3300040548"
             ],
             "samp_name": "UKFS_043-M-20170802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25490,7 +25490,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040495"
+                "img.taxon:3300040495"
             ],
             "samp_name": "BART_004-O-27-36-20140619-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -25548,7 +25548,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039948"
+                "img.taxon:3300039948"
             ],
             "samp_name": "ABBY_063-M-20170606-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25607,7 +25607,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039956"
+                "img.taxon:3300039956"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_001-O-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25666,7 +25666,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040102"
+                "img.taxon:3300040102"
             ],
             "samp_name": "Atlantic, VA, USA - SCBI_002-M-20140915-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25724,7 +25724,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040470"
+                "img.taxon:3300040470"
             ],
             "samp_name": "CPER_003-M-20140415-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25782,7 +25782,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040154"
+                "img.taxon:3300040154"
             ],
             "samp_name": "DSNY_021-M-6-21-20130731-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -25841,7 +25841,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039830"
+                "img.taxon:3300039830"
             ],
             "samp_name": "HARV_013-O-20170801-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25900,7 +25900,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039979"
+                "img.taxon:3300039979"
             ],
             "samp_name": "HARV_020-O-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -25959,7 +25959,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040631"
+                "img.taxon:3300040631"
             ],
             "samp_name": "STER_004-M-20131217-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26017,7 +26017,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040256"
+                "img.taxon:3300040256"
             ],
             "samp_name": "TALL_001-O-20140516-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26075,7 +26075,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040438"
+                "img.taxon:3300040438"
             ],
             "samp_name": "OAES_009-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26134,7 +26134,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040049"
+                "img.taxon:3300040049"
             ],
             "samp_name": "UKFS_031-M-20170802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26193,7 +26193,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040099"
+                "img.taxon:3300040099"
             ],
             "samp_name": "KONZ_004-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26252,7 +26252,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040607"
+                "img.taxon:3300040607"
             ],
             "samp_name": "WOOD_003-M-20140507-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26310,7 +26310,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040390"
+                "img.taxon:3300040390"
             ],
             "samp_name": "ORNL_053-M-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26369,7 +26369,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040076"
+                "img.taxon:3300040076"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_003-O-20170711-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26428,7 +26428,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040596"
+                "img.taxon:3300040596"
             ],
             "samp_name": "YELL_048-M-20180712-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26487,7 +26487,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040571"
+                "img.taxon:3300040571"
             ],
             "samp_name": "CPER_003-M-7-21-20140116-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -26545,7 +26545,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040320"
+                "img.taxon:3300040320"
             ],
             "samp_name": "DEJU_045-O-20170621-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26604,7 +26604,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040431"
+                "img.taxon:3300040431"
             ],
             "samp_name": "DSNY_001-M-20170829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26663,7 +26663,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040539"
+                "img.taxon:3300040539"
             ],
             "samp_name": "GRSM_003-O-20170718-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26722,7 +26722,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039982"
+                "img.taxon:3300039982"
             ],
             "samp_name": "GRSM_006-O-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -26781,7 +26781,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040692"
+                "img.taxon:3300040692"
             ],
             "samp_name": "HARV_004-O-5-35-20130709-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -26949,7 +26949,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039583"
+                "img.taxon:3300039583"
             ],
             "samp_name": "HEAL_025-O-20170726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27008,7 +27008,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040479"
+                "img.taxon:3300040479"
             ],
             "samp_name": "STER_018-M-20140618-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27066,7 +27066,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040693"
+                "img.taxon:3300040693"
             ],
             "samp_name": "KONA_004-M-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27125,7 +27125,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039992"
+                "img.taxon:3300039992"
             ],
             "samp_name": "KONZ_045-M-20170712-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27184,7 +27184,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040689"
+                "img.taxon:3300040689"
             ],
             "samp_name": "UKFS_003-M-20170731-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27243,7 +27243,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040262"
+                "img.taxon:3300040262"
             ],
             "samp_name": "CPER_002-M-20131024-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27301,7 +27301,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040331"
+                "img.taxon:3300040331"
             ],
             "samp_name": "CPER_046-M-20140716-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27359,7 +27359,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040435"
+                "img.taxon:3300040435"
             ],
             "samp_name": "CPER_004-M-20140117-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27417,7 +27417,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040335"
+                "img.taxon:3300040335"
             ],
             "samp_name": "UNDE_014-M-20160802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27476,7 +27476,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039639"
+                "img.taxon:3300039639"
             ],
             "samp_name": "GRSM_059-O-20160719-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27535,7 +27535,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040499"
+                "img.taxon:3300040499"
             ],
             "samp_name": "HEAL_004-O-20160802-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27594,7 +27594,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040071"
+                "img.taxon:3300040071"
             ],
             "samp_name": "HEAL_005-O-20160804-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27653,7 +27653,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040298"
+                "img.taxon:3300040298"
             ],
             "samp_name": "HEAL_005-O-20170726-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27712,7 +27712,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040241"
+                "img.taxon:3300040241"
             ],
             "samp_name": "LENO_005-M-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27771,7 +27771,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040419"
+                "img.taxon:3300040419"
             ],
             "samp_name": "LENO_061-M-20160830-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27830,7 +27830,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040494"
+                "img.taxon:3300040494"
             ],
             "samp_name": "NIWO_041-O-20160828-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27889,7 +27889,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039837"
+                "img.taxon:3300039837"
             ],
             "samp_name": "NIWO_008-M-20160829-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -27948,7 +27948,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040608"
+                "img.taxon:3300040608"
             ],
             "samp_name": "OAES_045-M-20160809-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28007,7 +28007,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040659"
+                "img.taxon:3300040659"
             ],
             "samp_name": "ONAQ_008-M-20170627-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28066,7 +28066,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040249"
+                "img.taxon:3300040249"
             ],
             "samp_name": "ONAQ_008-M-20160730-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28125,7 +28125,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040193"
+                "img.taxon:3300040193"
             ],
             "samp_name": "Swisher Biological Station, Southeast, FL, USA - OSBS_003-M-20140314-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28184,7 +28184,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040534"
+                "img.taxon:3300040534"
             ],
             "samp_name": "BARR_052-O-20170808-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28243,7 +28243,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040603"
+                "img.taxon:3300040603"
             ],
             "samp_name": "CLBJ_033-O-20160815-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28302,7 +28302,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040339"
+                "img.taxon:3300040339"
             ],
             "samp_name": "STEI_002-M-20170705-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28361,7 +28361,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040228"
+                "img.taxon:3300040228"
             ],
             "samp_name": "CLBJ_032-M-20170413-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28420,7 +28420,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040396"
+                "img.taxon:3300040396"
             ],
             "samp_name": "CPER_005-M-20160720-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28479,7 +28479,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039937"
+                "img.taxon:3300039937"
             ],
             "samp_name": "TALL_047-O-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28538,7 +28538,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040077"
+                "img.taxon:3300040077"
             ],
             "samp_name": "TALL_044-M-20160822-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28597,7 +28597,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039668"
+                "img.taxon:3300039668"
             ],
             "samp_name": "CPER_003-M-20170710-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28656,7 +28656,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300040412"
+                "img.taxon:3300040412"
             ],
             "samp_name": "CPER_002-M-20140415-COMP-DNA1",
             "gold_biosample_identifiers": [
@@ -28714,7 +28714,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039863"
+                "img.taxon:3300039863"
             ],
             "samp_name": "CPER_001-M-38-38-20131024-GEN-DNA1",
             "gold_biosample_identifiers": [
@@ -28827,7 +28827,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300039542"
+                "img.taxon:3300039542"
             ],
             "samp_name": "TREE_002-O-20170707-COMP-DNA1",
             "gold_biosample_identifiers": [
