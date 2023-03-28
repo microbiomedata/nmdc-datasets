@@ -33,9 +33,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300022390",
-                "3300023715",
-                "3300018409"
+                "img.taxon:3300022390",
+                "img.taxon:3300023715",
+                "img.taxon:3300018409"
             ],
             "samp_name": "diluted pellet 3",
             "gold_biosample_identifiers": [
@@ -101,8 +101,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300019371",
-                "3300023712"
+                "img.taxon:3300019371",
+                "img.taxon:3300023712"
             ],
             "samp_name": "Bagasse, Gen0, Rep 2",
             "gold_biosample_identifiers": [
@@ -168,7 +168,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028238"
+                "img.taxon:3300028238"
             ],
             "samp_name": "Bagasse, Gen10, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -234,7 +234,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032015"
+                "img.taxon:3300032015"
             ],
             "samp_name": "Reed Canary Grass, Gen2, Rep 3",
             "gold_biosample_identifiers": [
@@ -300,8 +300,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031849",
-                "3300032128"
+                "img.taxon:3300031849",
+                "img.taxon:3300032128"
             ],
             "samp_name": "Bagasse, Gen2, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -367,7 +367,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031807"
+                "img.taxon:3300031807"
             ],
             "samp_name": "Alfalfa, Gen6, Rep 3",
             "gold_biosample_identifiers": [
@@ -433,7 +433,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031822"
+                "img.taxon:3300031822"
             ],
             "samp_name": "Xylan, Gen9, Rep 1",
             "gold_biosample_identifiers": [
@@ -499,7 +499,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031855"
+                "img.taxon:3300031855"
             ],
             "samp_name": "Alfalfa, Gen2, Rep 3",
             "gold_biosample_identifiers": [
@@ -565,8 +565,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036371",
-                "3300037879"
+                "img.taxon:3300036371",
+                "img.taxon:3300037879"
             ],
             "samp_name": "Bagasse, Gen2, Rep 1, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -632,8 +632,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036372",
-                "3300037693"
+                "img.taxon:3300036372",
+                "img.taxon:3300037693"
             ],
             "samp_name": "Bagasse, Gen2, Rep 3, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -699,8 +699,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300037694",
-                "3300036373"
+                "img.taxon:3300037694",
+                "img.taxon:3300036373"
             ],
             "samp_name": "Bagasse, Gen6, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -766,8 +766,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036289",
-                "3300037678"
+                "img.taxon:3300036289",
+                "img.taxon:3300037678"
             ],
             "samp_name": "Bagasse, Gen9, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -893,7 +893,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036554"
+                "img.taxon:3300036554"
             ],
             "samp_name": "Alfalfa, Gen9, Rep 2",
             "gold_biosample_identifiers": [
@@ -959,7 +959,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036548"
+                "img.taxon:3300036548"
             ],
             "samp_name": "Alfalfa, Gen2, Rep 1",
             "gold_biosample_identifiers": [
@@ -1025,8 +1025,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300019372",
-                "3300023714"
+                "img.taxon:3300019372",
+                "img.taxon:3300023714"
             ],
             "samp_name": "Xylan, Gen0, Rep 1",
             "gold_biosample_identifiers": [
@@ -1092,8 +1092,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300019373",
-                "3300028309"
+                "img.taxon:3300019373",
+                "img.taxon:3300028309"
             ],
             "samp_name": "Alfalfa, Gen0, Rep 3",
             "gold_biosample_identifiers": [
@@ -1159,9 +1159,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300022660",
-                "3300018495",
-                "3300024268"
+                "img.taxon:3300022660",
+                "img.taxon:3300018495",
+                "img.taxon:3300024268"
             ],
             "samp_name": "pellet 2",
             "gold_biosample_identifiers": [
@@ -1227,8 +1227,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021285",
-                "3300028311"
+                "img.taxon:3300021285",
+                "img.taxon:3300028311"
             ],
             "samp_name": "Alfalfa, Gen5, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1294,8 +1294,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021541",
-                "3300028307"
+                "img.taxon:3300021541",
+                "img.taxon:3300028307"
             ],
             "samp_name": "Xylan, Gen10, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1361,8 +1361,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028310",
-                "3300021288"
+                "img.taxon:3300028310",
+                "img.taxon:3300021288"
             ],
             "samp_name": "Reed Canary Grass, Gen5, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1428,8 +1428,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300026336",
-                "3300028495"
+                "img.taxon:3300026336",
+                "img.taxon:3300028495"
             ],
             "samp_name": "Xylan, Gen5, Rep 1",
             "gold_biosample_identifiers": [
@@ -1495,8 +1495,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021540",
-                "3300028314"
+                "img.taxon:3300021540",
+                "img.taxon:3300028314"
             ],
             "samp_name": "Xylan, Gen4, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1562,8 +1562,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300030538",
-                "3300030700"
+                "img.taxon:3300030538",
+                "img.taxon:3300030700"
             ],
             "samp_name": "Alfalfa, Gen0, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1629,7 +1629,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032078"
+                "img.taxon:3300032078"
             ],
             "samp_name": "Alfalfa, Gen9, Rep 3",
             "gold_biosample_identifiers": [
@@ -1695,8 +1695,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036369",
-                "3300037579"
+                "img.taxon:3300036369",
+                "img.taxon:3300037579"
             ],
             "samp_name": "Bagasse, Gen2, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -1762,8 +1762,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036375",
-                "3300037699"
+                "img.taxon:3300036375",
+                "img.taxon:3300037699"
             ],
             "samp_name": "Bagasse, Gen6, Rep 1, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -1829,8 +1829,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036292",
-                "3300037695"
+                "img.taxon:3300036292",
+                "img.taxon:3300037695"
             ],
             "samp_name": "Bagasse, Gen9, Rep 3, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -1896,7 +1896,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036551"
+                "img.taxon:3300036551"
             ],
             "samp_name": "Alfalfa, Gen6, Rep 2",
             "gold_biosample_identifiers": [
@@ -1962,8 +1962,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300024270",
-                "3300018475"
+                "img.taxon:3300024270",
+                "img.taxon:3300018475"
             ],
             "samp_name": "pellet 1",
             "gold_biosample_identifiers": [
@@ -2029,9 +2029,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300023713",
-                "3300022377",
-                "3300020073"
+                "img.taxon:3300023713",
+                "img.taxon:3300022377",
+                "img.taxon:3300020073"
             ],
             "samp_name": "Xylan, Gen0, Rep 2",
             "gold_biosample_identifiers": [
@@ -2097,7 +2097,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028235"
+                "img.taxon:3300028235"
             ],
             "samp_name": "Bagasse, Gen5, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -2163,8 +2163,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021319",
-                "3300023707"
+                "img.taxon:3300021319",
+                "img.taxon:3300023707"
             ],
             "samp_name": "Reed Canary Grass, Gen10, Rep 3",
             "gold_biosample_identifiers": [
@@ -2230,8 +2230,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021279",
-                "3300022692"
+                "img.taxon:3300021279",
+                "img.taxon:3300022692"
             ],
             "samp_name": "Alfalfa, Gen10, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -2297,8 +2297,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031900",
-                "3300032147"
+                "img.taxon:3300031900",
+                "img.taxon:3300032147"
             ],
             "samp_name": "Bagasse, Gen2, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -2364,9 +2364,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300023371",
-                "3300018878",
-                "3300024272"
+                "img.taxon:3300023371",
+                "img.taxon:3300018878",
+                "img.taxon:3300024272"
             ],
             "samp_name": "diluted pellet 1",
             "gold_biosample_identifiers": [
@@ -2432,8 +2432,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300026338",
-                "3300028492"
+                "img.taxon:3300026338",
+                "img.taxon:3300028492"
             ],
             "samp_name": "Xylan, Gen10, Rep 1",
             "gold_biosample_identifiers": [
@@ -2499,7 +2499,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021421"
+                "img.taxon:3300021421"
             ],
             "samp_name": "Bagasse, gen10, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -2561,7 +2561,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031863"
+                "img.taxon:3300031863"
             ],
             "samp_name": "Xylan, Gen6, Rep 1",
             "gold_biosample_identifiers": [
@@ -2627,7 +2627,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036553"
+                "img.taxon:3300036553"
             ],
             "samp_name": "Reed Canary Grass, Gen6, Rep 2",
             "gold_biosample_identifiers": [
@@ -2693,8 +2693,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036374",
-                "3300037676"
+                "img.taxon:3300036374",
+                "img.taxon:3300037676"
             ],
             "samp_name": "Bagasse, Gen6, Rep 2, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -2760,7 +2760,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036347"
+                "img.taxon:3300036347"
             ],
             "samp_name": "Xylan, Gen2, Rep 3",
             "gold_biosample_identifiers": [
@@ -2826,7 +2826,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036167"
+                "img.taxon:3300036167"
             ],
             "samp_name": "Bagasse, Gen6, Rep 3",
             "gold_biosample_identifiers": [
@@ -2892,7 +2892,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036471"
+                "img.taxon:3300036471"
             ],
             "samp_name": "Reed Canary Grass, Gen6, Rep 1",
             "gold_biosample_identifiers": [
@@ -2958,7 +2958,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036108"
+                "img.taxon:3300036108"
             ],
             "samp_name": "Xylan, Gen9, Rep 3",
             "gold_biosample_identifiers": [
@@ -3024,8 +3024,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300019375",
-                "3300022704"
+                "img.taxon:3300019375",
+                "img.taxon:3300022704"
             ],
             "samp_name": "Alfalfa, Gen0, Rep 1, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -3091,10 +3091,10 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300022661",
-                "3300024269",
-                "3300018494",
-                "3300029705"
+                "img.taxon:3300022661",
+                "img.taxon:3300024269",
+                "img.taxon:3300018494",
+                "img.taxon:3300029705"
             ],
             "samp_name": "diluted pellet 2",
             "gold_biosample_identifiers": [
@@ -3160,8 +3160,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300023190",
-                "3300019376"
+                "img.taxon:3300023190",
+                "img.taxon:3300019376"
             ],
             "samp_name": "Bagasse, Gen0, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -3227,12 +3227,12 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031555",
-                "3300032167",
-                "3300018493",
-                "3300024303",
-                "3300029305",
-                "3300022753"
+                "img.taxon:3300031555",
+                "img.taxon:3300032167",
+                "img.taxon:3300018493",
+                "img.taxon:3300024303",
+                "img.taxon:3300029305",
+                "img.taxon:3300022753"
             ],
             "samp_name": "pellet 3",
             "gold_biosample_identifiers": [
@@ -3298,7 +3298,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028239"
+                "img.taxon:3300028239"
             ],
             "samp_name": "Reed Canary Grass, Gen5, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -3364,8 +3364,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300026337",
-                "3300028493"
+                "img.taxon:3300026337",
+                "img.taxon:3300028493"
             ],
             "samp_name": "Xylan, Gen5, Rep 2",
             "gold_biosample_identifiers": [
@@ -3431,8 +3431,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021326",
-                "3300028313"
+                "img.taxon:3300021326",
+                "img.taxon:3300028313"
             ],
             "samp_name": "Alfalfa, Gen10, Rep 3",
             "gold_biosample_identifiers": [
@@ -3498,7 +3498,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028237"
+                "img.taxon:3300028237"
             ],
             "samp_name": "Reed Canary Grass, Gen10, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -3564,9 +3564,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028494",
-                "3300026339",
-                "3300028446"
+                "img.taxon:3300028494",
+                "img.taxon:3300026339",
+                "img.taxon:3300028446"
             ],
             "samp_name": "Xylan, Gen10, Rep 2",
             "gold_biosample_identifiers": [
@@ -3632,7 +3632,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031856"
+                "img.taxon:3300031856"
             ],
             "samp_name": "Bagasse, Gen2, Rep 2",
             "gold_biosample_identifiers": [
@@ -3698,7 +3698,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031714"
+                "img.taxon:3300031714"
             ],
             "samp_name": "Bagasse, Gen9, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -3764,7 +3764,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032016"
+                "img.taxon:3300032016"
             ],
             "samp_name": "Bagasse, Gen6, Rep 2",
             "gold_biosample_identifiers": [
@@ -3830,8 +3830,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036290",
-                "3300037700"
+                "img.taxon:3300036290",
+                "img.taxon:3300037700"
             ],
             "samp_name": "Bagasse, Gen9, Rep 2, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -3897,8 +3897,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036291",
-                "3300037679"
+                "img.taxon:3300036291",
+                "img.taxon:3300037679"
             ],
             "samp_name": "Bagasse, Gen9, Rep 1, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -3964,7 +3964,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036549"
+                "img.taxon:3300036549"
             ],
             "samp_name": "Alfalfa, Gen2, Rep 2",
             "gold_biosample_identifiers": [
@@ -4030,7 +4030,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036438"
+                "img.taxon:3300036438"
             ],
             "samp_name": "Bagasse, Gen2, Rep 3",
             "gold_biosample_identifiers": [
@@ -4096,7 +4096,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036550"
+                "img.taxon:3300036550"
             ],
             "samp_name": "Reed Canary Grass, Gen2, Rep 1",
             "gold_biosample_identifiers": [
@@ -4162,7 +4162,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036472"
+                "img.taxon:3300036472"
             ],
             "samp_name": "Alfalfa, Gen9, Rep 1",
             "gold_biosample_identifiers": [
@@ -4228,9 +4228,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300022401",
-                "3300028316",
-                "3300018407"
+                "img.taxon:3300022401",
+                "img.taxon:3300028316",
+                "img.taxon:3300018407"
             ],
             "samp_name": "Reed Canary Grass, Gen0, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -4296,9 +4296,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300022601",
-                "3300028240",
-                "3300018427"
+                "img.taxon:3300022601",
+                "img.taxon:3300028240",
+                "img.taxon:3300018427"
             ],
             "samp_name": "Reed Canary Grass, Gen0, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -4364,7 +4364,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028263"
+                "img.taxon:3300028263"
             ],
             "samp_name": "Alfalfa, Gen5, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -4430,8 +4430,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021318",
-                "3300028306"
+                "img.taxon:3300021318",
+                "img.taxon:3300028306"
             ],
             "samp_name": "Alfalfa, Gen5, Rep 3",
             "gold_biosample_identifiers": [
@@ -4497,8 +4497,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028452",
-                "3300028236"
+                "img.taxon:3300028452",
+                "img.taxon:3300028236"
             ],
             "samp_name": "Alfalfa, Gen10, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -4564,8 +4564,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300030641",
-                "3300030527"
+                "img.taxon:3300030641",
+                "img.taxon:3300030527"
             ],
             "samp_name": "Bagasse, Gen10, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -4631,7 +4631,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031818"
+                "img.taxon:3300031818"
             ],
             "samp_name": "Reed Canary Grass, Gen6, Rep 3",
             "gold_biosample_identifiers": [
@@ -4697,8 +4697,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032071",
-                "3300032014"
+                "img.taxon:3300032071",
+                "img.taxon:3300032014"
             ],
             "samp_name": "Bagasse, Gen9, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -4764,7 +4764,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036470"
+                "img.taxon:3300036470"
             ],
             "samp_name": "Reed Canary Grass, Gen2, Rep 2",
             "gold_biosample_identifiers": [
@@ -4830,7 +4830,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036107"
+                "img.taxon:3300036107"
             ],
             "samp_name": "Reed Canary Grass, Gen9, Rep 1",
             "gold_biosample_identifiers": [
@@ -4896,9 +4896,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300018430",
-                "3300028303",
-                "3300022589"
+                "img.taxon:3300018430",
+                "img.taxon:3300028303",
+                "img.taxon:3300022589"
             ],
             "samp_name": "Bagasse, Gen0, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -4964,8 +4964,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300023711",
-                "3300019374"
+                "img.taxon:3300023711",
+                "img.taxon:3300019374"
             ],
             "samp_name": "Reed Canary Grass, Gen0, Rep 3",
             "gold_biosample_identifiers": [
@@ -5031,8 +5031,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021301",
-                "3300028308"
+                "img.taxon:3300021301",
+                "img.taxon:3300028308"
             ],
             "samp_name": "Bagasse, Gen5, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5098,8 +5098,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021295",
-                "3300028426"
+                "img.taxon:3300021295",
+                "img.taxon:3300028426"
             ],
             "samp_name": "Bagasse, Gen10, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5165,8 +5165,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300023710",
-                "3300021306"
+                "img.taxon:3300023710",
+                "img.taxon:3300021306"
             ],
             "samp_name": "Reed Canary Grass, Gen5, Rep 3",
             "gold_biosample_identifiers": [
@@ -5232,7 +5232,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032158"
+                "img.taxon:3300032158"
             ],
             "samp_name": "Xylan, Gen2, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5298,8 +5298,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032152",
-                "3300031790"
+                "img.taxon:3300032152",
+                "img.taxon:3300031790"
             ],
             "samp_name": "Bagasse, Gen6, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5365,8 +5365,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300031761",
-                "3300031762"
+                "img.taxon:3300031761",
+                "img.taxon:3300031762"
             ],
             "samp_name": "Bagasse, Gen6, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -5432,7 +5432,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036469"
+                "img.taxon:3300036469"
             ],
             "samp_name": "Bagasse, Gen2, Rep 1",
             "gold_biosample_identifiers": [
@@ -5498,7 +5498,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036515"
+                "img.taxon:3300036515"
             ],
             "samp_name": "Bagasse, Gen9, Rep 3",
             "gold_biosample_identifiers": [
@@ -5564,9 +5564,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300019378",
-                "3300028242",
-                "3300022654"
+                "img.taxon:3300019378",
+                "img.taxon:3300028242",
+                "img.taxon:3300022654"
             ],
             "samp_name": "Alfalfa, Gen0, Rep 2, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -5632,8 +5632,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300020079",
-                "3300028312"
+                "img.taxon:3300020079",
+                "img.taxon:3300028312"
             ],
             "samp_name": "Xylan, Gen0, Rep 3",
             "gold_biosample_identifiers": [
@@ -5699,8 +5699,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300021310",
-                "3300023705"
+                "img.taxon:3300021310",
+                "img.taxon:3300023705"
             ],
             "samp_name": "Bagasse, Gen5, Rep 2",
             "gold_biosample_identifiers": [
@@ -5766,9 +5766,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028453",
-                "3300021300",
-                "3300028305"
+                "img.taxon:3300028453",
+                "img.taxon:3300021300",
+                "img.taxon:3300028305"
             ],
             "samp_name": "Reed Canary Grass, Gen10, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5834,9 +5834,9 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300028454",
-                "3300021311",
-                "3300023687"
+                "img.taxon:3300028454",
+                "img.taxon:3300021311",
+                "img.taxon:3300023687"
             ],
             "samp_name": "Bagasse, Gen10, Rep 2",
             "gold_biosample_identifiers": [
@@ -5902,8 +5902,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300030640",
-                "3300030541"
+                "img.taxon:3300030640",
+                "img.taxon:3300030541"
             ],
             "samp_name": "Reed Canary Grass, Gen0, Rep 3, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -5969,8 +5969,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032079",
-                "3300034421"
+                "img.taxon:3300032079",
+                "img.taxon:3300034421"
             ],
             "samp_name": "Xylan, Gen2, Rep 1",
             "gold_biosample_identifiers": [
@@ -6036,7 +6036,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300032077"
+                "img.taxon:3300032077"
             ],
             "samp_name": "Bagasse, Gen9, Rep 2",
             "gold_biosample_identifiers": [
@@ -6102,8 +6102,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036370",
-                "3300037620"
+                "img.taxon:3300036370",
+                "img.taxon:3300037620"
             ],
             "samp_name": "Bagasse, Gen2, Rep 2, Penicillin and Streptomycin",
             "gold_biosample_identifiers": [
@@ -6169,8 +6169,8 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036288",
-                "3300037677"
+                "img.taxon:3300036288",
+                "img.taxon:3300037677"
             ],
             "samp_name": "Bagasse, Gen6, Rep 3, Chloramphenicol",
             "gold_biosample_identifiers": [
@@ -6236,7 +6236,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036552"
+                "img.taxon:3300036552"
             ],
             "samp_name": "Bagasse, Gen6, Rep 1",
             "gold_biosample_identifiers": [
@@ -6302,7 +6302,7 @@
             },
             "type": "nmdc:Biosample",
             "img_identifiers": [
-                "3300036409"
+                "img.taxon:3300036409"
             ],
             "samp_name": "Bagasse, Gen9, Rep 1",
             "gold_biosample_identifiers": [
