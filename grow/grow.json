@@ -478,6 +478,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -1808,6 +1809,7 @@
             ],
             "depth": {
                 "has_raw_value": "12",
+                "has_numeric_value": 12,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -2244,6 +2246,7 @@
             ],
             "depth": {
                 "has_raw_value": "12",
+                "has_numeric_value": 12,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -3983,6 +3986,7 @@
             ],
             "depth": {
                 "has_raw_value": "18",
+                "has_numeric_value": 18,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -4051,6 +4055,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -4119,6 +4124,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -4371,6 +4377,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -4439,6 +4446,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -5585,6 +5593,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "geo_loc_name": {
@@ -8362,6 +8371,7 @@
             ],
             "depth": {
                 "has_raw_value": "12",
+                "has_numeric_value": 12,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -10031,6 +10041,7 @@
             ],
             "depth": {
                 "has_raw_value": "18",
+                "has_numeric_value": 18,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -10462,6 +10473,7 @@
             ],
             "depth": {
                 "has_raw_value": "16",
+                "has_numeric_value": 16,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -13001,6 +13013,7 @@
             ],
             "depth": {
                 "has_raw_value": "18",
+                "has_numeric_value": 18,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -14798,6 +14811,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "geo_loc_name": {
@@ -15881,6 +15895,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "elev": 700.0,
@@ -15949,6 +15964,7 @@
             ],
             "depth": {
                 "has_raw_value": "1",
+                "has_numeric_value": 1,
                 "has_unit": "meters"
             },
             "geo_loc_name": {
