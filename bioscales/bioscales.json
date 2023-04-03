@@ -14035,6 +14035,7 @@
             ],
             "depth": {
                 "has_raw_value": "0.1",
+                "has_numeric_value": 0.1,
                 "has_unit": "meters"
             },
             "elev": 1.0,
